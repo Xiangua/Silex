@@ -1,0 +1,85 @@
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Transformation Lait
+CommentPage = Transformation Lait
+
+	[Text]
+		Text = Transformation lait
+		PosX = 20
+		PoxY = 30
+		Police= Arial,16,1,0,1
+
+	[Tableau]
+		titre= Caractéristiques
+		PosX = 30
+		PoxY = 65
+		StyleTableau= 2
+		Largeur1Col= 40
+		LargeurColAnnuel = 18
+		AvecEntete = (Coeficient |transfo.)(% pertes)
+		Type= 0
+		Ligne = 3
+			{TRLAIT-30, Nb litres lait vache,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{TRLAIT-31, Nb litres lait brebis,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{TRLAIT-32, Nb litres lait chèvre,0 , -1, 12, Arial, 10, 0, 0, 0}
+
+
+	[Tableau]
+		titre= Gestion qté et prix
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 15
+			{TRLAIT-16, Cession lait vache, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{TRLAIT-17, Cession lait brebis, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{TRLAIT-18, Cession lait chèvre, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{TRLAIT-19, Qté lait cédée|litres, 3, -1, 12, Arial, 10, 1, 0, 0}
+			{TRLAIT-20, Perte|litres, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{TRLAIT-21, Qté à transformer|litres, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{TRLAIT-22, Qté transformée|kg, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{TRLAIT-23, Quantité 1, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{TRLAIT-24, Prix 1 , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{TRLAIT-25, Quantité 2, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{TRLAIT-26, Prix 2 , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{TRLAIT-27, Quantité 3, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{TRLAIT-28, Prix 3 , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{TRLAIT-29, Total Vente , 2, 7, 12, Arial, 10, 1, 0, 0}
+
+	[Tableau]
+		titre= Marge brute
+		PosX = 30
+		PoxY = 0
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 17
+			{TRLAIT-1, Vente, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{TRLAIT-2, Cession lait vache, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{TRLAIT-3, Cession lait brebis, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{TRLAIT-4, Cession lait chèvre, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{TRLAIT-5, Total cession lait , 3, -1, 12, Arial, 10, 1, 0, 0}
+			{TRLAIT-6, Autres produits, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{TRLAIT-7, Produit , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{TRLAIT-8, Produit |/Litre, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{TRLAIT-9, Charges 1 |Qté, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{TRLAIT-10, Charges 2 |%, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{TRLAIT-11, Charges 3 |[], 0, -1, 12, Arial, 10, 0, 0, 0}
+			{TRLAIT-12, Charges , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{TRLAIT-13, Charges |/litre, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{TRLAIT-14, Marge brute, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{TRLAIT-15, Marge brute |/litre, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+[Fin Doc]
+

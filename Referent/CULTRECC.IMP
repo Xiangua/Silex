@@ -1,0 +1,28 @@
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Cultures annuelles
+CommentPage = 
+
+	[Tableau]
+		titre= Bilan alimentaire
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 40
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 10
+			{Cult-15, Qté récoltée, 2, 7, 14, Arial, 11, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{Cult-16, Achat, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{Cult-17, Vente, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{Cult-18, Variation inventaire, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{Cult-19, Total prélevé, 2, 7, 14, Arial, 11, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{Cult-20, Besoins, 2, 7, 14, Arial, 11, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{Cult-21, Ecart, 2, 7, 14, Arial, 11, 1, 0, 0}
+			
+

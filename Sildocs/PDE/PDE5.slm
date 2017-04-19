@@ -1,0 +1,72 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff1\deflang1036\deflangfe1036{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f27\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Tahoma;}{\f28\fswiss\fcharset128\fprq2{\*\panose 020b0604020202020204}Arial Unicode MS;}{\f29\fswiss\fcharset128\fprq2{\*\panose 020b0604020202020204}@Arial Unicode MS;}
+{\f40\froman\fcharset238\fprq2 Times New Roman CE;}{\f41\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f43\froman\fcharset161\fprq2 Times New Roman Greek;}{\f44\froman\fcharset162\fprq2 Times New Roman Tur;}
+{\f45\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f46\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f47\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f48\fswiss\fcharset238\fprq2 Arial CE;}{\f49\fswiss\fcharset204\fprq2 Arial Cyr;}
+{\f51\fswiss\fcharset161\fprq2 Arial Greek;}{\f52\fswiss\fcharset162\fprq2 Arial Tur;}{\f53\fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f54\fswiss\fcharset178\fprq2 Arial (Arabic);}{\f55\fswiss\fcharset186\fprq2 Arial Baltic;}
+{\f256\fswiss\fcharset238\fprq2 Tahoma CE;}{\f257\fswiss\fcharset204\fprq2 Tahoma Cyr;}{\f259\fswiss\fcharset161\fprq2 Tahoma Greek;}{\f260\fswiss\fcharset162\fprq2 Tahoma Tur;}{\f261\fswiss\fcharset177\fprq2 Tahoma (Hebrew);}
+{\f262\fswiss\fcharset178\fprq2 Tahoma (Arabic);}{\f263\fswiss\fcharset186\fprq2 Tahoma Baltic;}{\f266\fswiss\fcharset0\fprq2 Arial Unicode MS Western;}{\f264\fswiss\fcharset238\fprq2 Arial Unicode MS CE;}
+{\f265\fswiss\fcharset204\fprq2 Arial Unicode MS Cyr;}{\f267\fswiss\fcharset161\fprq2 Arial Unicode MS Greek;}{\f268\fswiss\fcharset162\fprq2 Arial Unicode MS Tur;}{\f269\fswiss\fcharset177\fprq2 Arial Unicode MS (Hebrew);}
+{\f270\fswiss\fcharset178\fprq2 Arial Unicode MS (Arabic);}{\f271\fswiss\fcharset186\fprq2 Arial Unicode MS Baltic;}{\f274\fswiss\fcharset0\fprq2 @Arial Unicode MS Western;}{\f272\fswiss\fcharset238\fprq2 @Arial Unicode MS CE;}
+{\f273\fswiss\fcharset204\fprq2 @Arial Unicode MS Cyr;}{\f275\fswiss\fcharset161\fprq2 @Arial Unicode MS Greek;}{\f276\fswiss\fcharset162\fprq2 @Arial Unicode MS Tur;}{\f277\fswiss\fcharset177\fprq2 @Arial Unicode MS (Hebrew);}
+{\f278\fswiss\fcharset178\fprq2 @Arial Unicode MS (Arabic);}{\f279\fswiss\fcharset186\fprq2 @Arial Unicode MS Baltic;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;
+\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+{\stylesheet{\ql \li0\ri0\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \snext0 Normal;}{\s1\ql \li0\ri0\keepn\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 
+\i\f1\fs22\cf8\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext0 heading 1;}{\s2\ql \li0\ri0\keepn\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \b\f1\fs20\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext0 heading 2;}{
+\s3\qc \li0\ri0\keepn\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \b\f1\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext0 heading 3;}{\s4\qc \li0\ri0\keepn\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 
+\b\f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext0 heading 4;}{\*\cs10 \additive Default Paragraph Font;}{\s15\ql \li0\ri0\sb240\sa120\keepn\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 
+\fs28\lang1036\langfe1036\loch\f27\hich\af27\dbch\af28\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext16 Heading;}{\s16\ql \li0\ri0\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \f1\fs18\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext16 
+Body Text;}{\s17\ql \li0\ri0\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \f1\fs18\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon16 \snext17 List;}{\s18\ql \li0\ri0\sb120\sa120\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 
+\i\f1\fs20\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext18 caption;}{\s19\ql \li0\ri0\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext19 Index;}{
+\s20\ql \li0\ri0\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext20 Index1;}{\s21\ql \li0\ri0\sb120\sa120\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 
+\i\f1\fs20\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext21 WW-caption;}{\s22\ql \li0\ri0\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext22 WW-Index;}{
+\s23\ql \li0\ri0\sb120\sa120\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \i\f1\fs20\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext23 WW-caption1;}{\s24\ql \li0\ri0\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 
+\f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext24 WW-Index1;}{\s25\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\aspalpha\faauto\rin0\lin0\itap0 \f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext25 
+header;}{\s26\ql \li0\ri0\nowidctlpar\tqc\tx4536\tqr\tx9072\aspalpha\faauto\rin0\lin0\itap0 \f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext26 footer;}{
+\s27\ql \li0\ri0\sb240\sa120\keepn\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \f1\fs28\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext16 Heading1;}{\s28\ql \li0\ri0\sb240\sa120\keepn\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 
+\f1\fs28\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext16 WW-Heading;}{\s29\ql \li0\ri0\sb240\sa120\keepn\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \f1\fs28\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext16 
+WW-Heading1;}{\s30\qc \li0\ri0\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \b\f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext31 Title;}{\s31\qc \li0\ri0\sb240\sa120\keepn\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 
+\i\f1\fs28\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon27 \snext16 Subtitle;}{\s32\ql \li0\ri0\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \f1\fs16\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext32 Body Text 2;}{
+\s33\ql \li0\ri0\nowidctlpar\tqc\tx7498\tqr\tx14997\aspalpha\faauto\rin0\lin0\itap0 \f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext33 WW-header;}{\s34\ql \li0\ri0\nowidctlpar
+\tqc\tx4320\tqr\tx8640\aspalpha\faauto\rin0\lin0\itap0 \f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext34 WW-header1;}{\s35\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\aspalpha\faauto\rin0\lin0\itap0 
+\f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext35 WW-header12;}{\*\cs36 \additive \fs24 \sbasedon10 page number;}}{\info{\author Franck}{\operator Franck}{\creatim\yr2007\mo6\dy11\hr16\min2}{\revtim\yr2008\mo6\dy25\hr19\min8}
+{\printim\yr2113\mo1\dy1}{\version13}{\edmins19}{\nofpages1}{\nofwords665}{\nofchars3795}{\*\company GIE UGA}{\nofcharsws0}{\vern8249}}\paperw16840\paperh11907\margl975\margr868\margt567\margb611 
+\deftab708\widowctrl\ftnbj\aenddoc\hyphhotz425\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\nolnhtadjtbl \fet0\sectd 
+\lndscpsxn\sbknone\linex0\headery284\sectdefaultcl {\header \pard\plain \qr \li0\ri0\nowidctlpar\pvpara\posxr\posy0\absh23\absw350\aspalpha\faauto\rin0\lin0\itap0 \f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\b\fs20 5 
+\par }\pard\plain \s25\qr \li0\ri0\nowidctlpar\tqc\tx4536\tqr\tx9072\aspalpha\faauto\rin0\lin0\itap0 \f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\b\fs20 5
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain \ql \li0\ri0\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 
+\f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\fs20 
+\par }\pard\plain \s3\qc \li0\ri0\keepn\nowidctlpar\aspalpha\faauto\outlinelevel2\rin0\lin0\itap0 \b\f1\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\fs20 MARGES BRUTES UNITAIRES
+\par }\pard\plain \ql \li0\ri0\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {
+\par }{\fs18 #slx(taba2p3r0;larg2500;larg1200;larg1300;larg9000([200;50][ACTIVITE;3;8;1;1;0;0;0;0;c;1;1;1;1;16][Unit\'e9;3;8;1;1;0;0;0;0;c;1;1;1;1;16][MB_t\'e9moin;3;8;1;1;0;0;0;0;c;1;1;1;1;16][entete:5:1\'e8re_ann\'e9e_de_pr\'e9vision&Fin_de_pr\'e9
+vision;3;8;1;1;0;0;0;0;c;1;1;1;1;16]))
+##slx(culture0taba2p3r0;larg2500;larg1200;larg1300;larg9000([200;50][%slx(@-n:7)%;3;8;1;0;0;0;0;0;l;1;1;1;1;8][%slx(@13-c:7)%;3;8;1;0;0;0;0;0;c;1;1;1;1;8][;3;8;1;0;0;0;0;0;c;1;1;1;1;8][scult:@14:7:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]))##slx(cultper0taba2p3r0;la
+r
+g2500;larg1200;larg1300;larg9000([200;50][%slx(@-pn:7)%;5006;8;1;0;0;0;0;0;l;1;1;1;1;8][%slx(@-pc:7)%;5006;8;1;0;0;0;0;0;c;1;1;1;1;8][__;5006;9;1;0;0;0;0;0;c;1;1;1;1;8][scltp:@28+58+35/1:7:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;50][Transfo._%slx(@-pn:7)%;
+5
+006;8;1;0;0;0;0;0;l;1;1;1;1;8][%slx(@-pc:7)%;5006;8;1;0;0;0;0;0;c;1;1;1;1;8][;5006;9;1;0;0;0;0;0;c;1;1;1;1;8][scltp:@78/46t:7:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]))##slx(taba2p3r0;larg2500;larg1200;larg1300;larg9000([200;50][Porcs;5006;8;1;0;0;0;0;0;l;1;1;1;
+1;8][truie;5006;8;1;0;0;0;0;0;c;1;1;1;1;8][;5006;9;1;0;0;0;0;0;c;1;1;1;1;8][totalC:LG(PORC-139):0:1;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;50][Vaches_laiti\'e8
+res;5006;8;1;0;0;0;0;0;l;1;1;1;1;8][VL;5006;8;1;0;0;0;0;0;c;1;1;1;1;8][;5006;9;1;0;0;0;0;0;c;1;1;1;1;8]
+[totalC:LG(VL-166):0:1;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;50][Vaches_allaitantes;5006;8;1;0;0;0;0;0;l;1;1;1;1;8][VA;5006;8;1;0;0;0;0;0;c;1;1;1;1;8][;5006;8;1;1;0;0;0;0;c;1;1;1;1;8][totalC:LG(VA-140):0:1;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;50][Ovins_via
+nde;5006;8;1;0;0;0;0;0;l;1;1;1;1;8][brebis;5006;8;1;0;0;0;0;0;c;1;1;1;1;8][;5006;9;1;0;0;0;0;0;c;1;1;1;1;8][totalC:LG(OV-77):0:1;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;50][Caprins;5006;8;1;0;0;0;0;0;l;1;1;1;1;8][ch\'e8
+vre;5006;8;1;0;0;0;0;0;c;1;1;1;1;8][;5006;9;
+1;0;0;0;0;0;c;1;1;1;1;8][totalC:LG(CH-80):0:1;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;50][Ovins_lait;5006;8;1;0;0;0;0;0;l;1;1;1;1;8][brebis;5006;9;1;0;0;0;0;0;c;1;1;1;1;8][;5006;8;1;1;0;0;0;0;c;1;1;1;1;8][totalC:LG(OL-80):0:1;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#
+[
+200;50][Transformation_lait;5006;8;1;0;0;0;0;0;l;1;1;1;1;8][kg;5006;8;1;0;0;0;0;0;c;1;1;1;1;8][;5006;8;1;1;0;0;0;0;c;1;1;1;1;8][totalC:LG(TRLAIT-15):0:1;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]))##slx(actlibr0taba2p3r0;larg2500;larg1200;larg1300;larg9000([200;50][
+%slx({\*\bkmkstart DDE_LINK1}@a-an:7{\*\bkmkend DDE_LINK1}
+)%;5006;8;1;0;0;0;0;0;l;1;1;1;1;8][%slx(@a24-i:7)%;5006;8;1;0;0;0;0;0;c;1;1;1;1;8][;3;8;1;0;0;0;0;0;c;1;1;1;1;8][ALani:@223:7:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]))##slx(taba2p3r0;larg2500;larg1200;larg1300;larg9000([200;50][Autres;5
+006;8;1;0;0;0;0;0;l;1;1;1;1;8][;5006;9;1;0;0;0;0;0;c;1;1;1;1;8][;5006;8;1;1;0;0;0;0;c;1;1;1;1;8][totalC:0:7:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]))#
+\par 
+\par }\pard\plain \s3\qc \li0\ri0\keepn\nowidctlpar\aspalpha\faauto\outlinelevel2\rin0\lin0\itap0 \b\f1\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\fs20 MARGES BRUTES GLOBALES
+\par }\pard\plain \s32\ql \li0\ri0\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \f1\fs16\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\fs18 
+\par #slx(tabp1r0;larg5000;larg9000([10;120][_ACTIVITE_;3;8;1;1;0;0;0;0;c;1;1;1;1;16][entete:5:1\'e8re_ann\'e9e_de_pr\'e9vision&Fin_de_pr\'e9
+vision;3;8;1;1;0;0;0;0;c;1;1;1;1;16]))##slx(culture0tabp1r0;larg5000;larg9000([200;120][_%slx(@-n:7)%;3;8;1;0;0;0;0;0;l;1;1;1;1;8][scult:@15:7:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]))##slx(cultper0taba2p1r0;larg5000;larg9000([
+200;120][%slx(@-pn:7)%;5006;8;1;0;0;0;0;0;l;1;1;1;1;8][scltp:@28+58+35:0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][Transfo._%slx(@-pn:7)%;5006;8;1;0;0;0;0;0;l;1;1;1;1;8][scltp:@78t:0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]))##slx(taba2p1r0;larg5000;larg9000([
+200;120][Porcs;5006;8;1;0;0;0;0;0;l;1;1;1;1;8][totalC:LG(PORC-137):7:1;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][Vaches_laiti\'e8
+res;5006;8;1;0;0;0;0;0;l;1;1;1;1;8][totalC:LG(VL-165):7:1;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][Vaches_allaitantes;5006;8;1;0;0
+;0;0;0;l;1;1;1;1;8][totalC:LG(VA-139):7:1;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][Ovins_viande;5006;8;1;0;0;0;0;0;l;1;1;1;1;8][totalC:LG(OV-76):7:1;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][Caprins;5006;8;1;0;0;0;0;0;l;1;1;1;1;8][totalC:LG(CH-79):7:1;50
+0
+6;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][Ovins_lait;5006;8;1;0;0;0;0;0;l;1;1;1;1;8][totalC:LG(OL-79):7:1;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][Transformation_lait;5006;8;1;0;0;0;0;0;l;1;1;1;1;8][totalC:LG(TRLAIT-14):7:1;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]))
+#
+\par }}

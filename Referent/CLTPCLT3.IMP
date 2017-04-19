@@ -1,0 +1,40 @@
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Cultures pérennes 
+
+	[Tableau]
+		titre= Investissements
+		PosX = 30
+		PoxY = 
+		StyleTableau= 2
+		Largeur1Col= 46
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 4
+			{CltP#-36, Implantation, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-37, Augmentation, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-38, Diminution, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-40, Total investissements, 2, 7, 14, Arial, 11,1, 1, 0}
+
+
+	[Tableau]
+		titre= Subventions
+		PosX = 30
+		PoxY = 
+		StyleTableau= 2
+		Largeur1Col= 46
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 3
+			{CltP#-39, Arrachage, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-30, Implantation, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-31, Subventions, 2, 7, 14, Arial, 11,1, 1, 0}
+
+
+
+[Fin Doc]
+

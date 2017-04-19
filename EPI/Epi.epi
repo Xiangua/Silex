@@ -1,0 +1,322 @@
+[Nouvelle Page]
+	[Text]
+		Text = CERFA
+		PosX = 25
+		PosY = 15
+		Align = C
+		Police = Arial,12,1,1,0
+	[Text]
+		Text = n° 50-4355
+		PosX = 25
+		PosY = 20
+		Align = C
+		Police = Arial,8,0,0,0
+	[Text]
+		Text = Réservé à l'administration
+		PosX = 205
+		PosY = 10
+		Align = D
+		Police = Arial,10,0,0,0
+	[Text]
+		Text = N° de dossier     | __ __ | __ __ | __ __ __ __ |
+		PosX = 205
+		PosY = 17
+		Align = D
+		Police = Arial,10,0,0,0
+	[Text]
+		Text = Départ.          An               N° ordre 
+		PosX = 233
+		PosY = 22
+		Align = D
+		Police = Arial,7,0,0,0
+	[Text]
+		Text = Ministère de l'Agriculture et de la Forêt
+		PosX = 115
+		PosY = 5
+		Align = C
+		Police = Arial,12,0,0,0
+	[Text]
+		Text = ETUDE PREVISIONNELLE D'INSTALLATION (EPI)
+		PosX = 115
+		PosY = 12
+		Align = C
+		Police = Arial,16,1,0,0
+	[Text]
+		Text = "La loi 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés s'applique à ce formulaire.
+		PosX = 115
+		PosY = 22
+		Align = C
+		Police = Arial,6,0,0,0
+	[Text]
+		Text = Elle vous donne droit d'accés et de rectification pour les données vous concernant. Votre demande doit être
+		PosX = 115
+		PosY = 25
+		Align = C
+		Police = Arial,6,0,0,0
+	[Text]
+		Text = adressée à votre Directeur Départemental de l'Agriculture et de la Forêt."
+		PosX = 115
+		PosY = 28
+		Align = C
+		Police = Arial,6,0,0,0
+	[Text]
+		Text = RENSEIGNEMENTS SUR LE CANDIDAT ET SON EXPLOITATION
+		PosX = 8
+		PosY = 40
+		Align = D
+		Police = Arial,11,1,0,0
+	[Text]
+		Text = Gestion individuelle
+		PosX = 10
+		PosY = 55
+		Align = D
+		Police = Arial,10,0,0,0
+	[Text]
+		Text = N° de dossier :                
+		PosX = 15
+		PosY = 60
+		Align = D
+		Police = Arial,10,0,0,0
+	[Text]
+		Text = Nom : HILLAIRE Hervé                
+		PosX = 15
+		PosY = 65
+		Align = D
+		Police = Arial,10,0,0,0
+	[Text]
+		Text = Adresse :   43340 BARGES
+		PosX = 15
+		PosY = 70
+		Align = D
+		Police = Arial,10,0,0,0
+	[Text]
+		Text = RENSEIGNEMENTS SUR L'INSTALLATION
+		PosX = 150
+		PosY = 40
+		Align = D
+		Police = Arial,11,1,0,0
+	[Text]
+		Text = Date installation prévue ou réalisée  : **/**/****
+		PosX = 170
+		PosY = 47
+		Align = D
+		Police = Arial,10,0,0,0
+	[Text]
+		Text = Date d'ouverture du premier exercice : **/**/****
+		PosX = 170
+		PosY = 51
+		Align = D
+		Police = Arial,10,0,0,0
+	[Tabl]
+		PosX = 170
+		PosY = 56
+		TypeFirstCase = 0
+		Ligne = 3,7,48,7,
+		Col = 4,38,16,38,16,
+		Ent = 1,1,1,1,1,
+		Ent1 = 7,1,1,1,1,
+		Ent2 = [2,10,10],Actif repris,Montant,Financement (1), Montant,
+		Ent3 = [2,10,10],,,,,
+		DonGen = 17,G,D,G,D,
+		DonPos = 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,
+		Don1 = [1,8,8]; ;;;;
+		Don1 = [1,8,8]; ;;;;
+		Don1 = [1,8,8]; ;;;;
+		Don1 = [1,8,8]; ;;;;
+		Don1 = [1,8,8]; ;;;;
+		Don1 = [1,8,8]; ;;;;
+		Don1 = [1,8,8]; ;;;;
+		Don1 = [1,8,8]; ;;;;
+		Don1 = [1,8,8]; ;;;;
+		Don1 = [1,8,8]; ;;;;
+		Don1 = [1,8,8]; ;;;;
+		Don1 = [1,8,8]; ;;;;
+		Don1 = [1,8,8]; ;;;;
+		Don1 = [1,8,8]; ;;;;
+		Don1 = [1,8,8]; ;;;;
+		Don1 = [1,8,8]; ;;;;
+		Don1 = [2,9,9]; Total actif;;Total financement;;
+	[Text]
+		Text = SURFACE ET MODE DE FAIRE VALOIR (en ha et ares)
+		PosX = 8
+		PosY = 125
+		Align = D
+		Police = Arial,11,1,0,0
+	[Tabl]
+		PosX = 10
+		PosY = 133
+		TypeFirstCase = 1
+		Ligne = 2,8,24,
+		Col = 5,40,15,25,15,15,
+		Ent = 1,1,1,1,1,1,
+		Ent1 = 7,1,1,1,1,1,
+		Ent2 = [2,10,10],, 2005,Modification, 2006, 2007,
+		Ent3 = [2,10,10],,,,,,
+		DonGen = 6,G,D,D,D,D,
+		DonPos = 2,0,0,0,0,0,
+		Don1 = [1,10,10]; Surface totale;;                              ;;;
+		Don2 = [1,10,10]; Surface agricole utilisée;0;                              ;0;0;
+		Don3 = [1,10,10]; Dont - en propriété ;0;                              ;0;0;
+		Don4 = [1,10,10];      §- fermage ;0;                              ;0;0;
+		Don5 = [1,10,10];      §- en métayage ;0;                              ;0;0;
+		Don6 = [1,10,10];      §- mise dispo. associé;0;                              ;0;0;
+	[Text]
+		Text = PROJET (descriptif sommaire)
+		PosX = 150
+		PosY = 125
+		Align = D
+		Police = Arial,11,1,0,0
+	[Text]
+		Text = MAIN D'OEUVRE PRESENTE (en unités de main d'oeuvre)
+		PosX = 8
+		PosY = 170
+		Align = D
+		Police = Arial,11,1,0,0
+	[Text]
+		Text = - Exploitation individuelle : 
+		PosX = 8
+		PosY = 175
+		Align = D
+		Police = Arial,10,0,0,0
+	[Text]
+		Text = Familiale permanente : 0,0
+		PosX = 55
+		PosY = 180
+		Align = D
+		Police = Arial,10,0,0,0
+	[Text]
+		Text = Sal. permanente : 0,0
+		PosX = 55
+		PosY = 185
+		Align = D
+		Police = Arial,10,0,0,0
+	[Text]
+		Text = Sal. temporaire : 0,0
+		PosX = 105
+		PosY = 185
+		Align = D
+		Police = Arial,10,0,0,0
+[Nouvelle Page]
+	[Text]
+		Text = Programme de production végétale
+		PosX = 10
+		PosY = 5
+		Align = D
+		Police = Arial,16,1,0,1
+	[Text]
+		Text = Page : 2a
+		PosX = 240
+		PosY = 5
+		Align = D
+		Police = Arial,16,1,0,0
+	[Text]
+		Text = Assolement
+		PosX = 20
+		PosY = 15
+		Align = D
+		Police = Arial,14,1,0,1
+	[Text]
+		Text = Données technico-économiques (valeurs moyennes sur la prévision)
+		PosX = 20
+		PosY = 110
+		Align = D
+		Police = Arial,14,1,0,1
+	[Text]
+		Text = * Autres destinations : stocks en quantité - consommation animale
+		PosX = 205
+		PosY = 113
+		Align = D
+		Police = Arial,8,0,0,0
+	[Tabl]
+		PosX = 10
+		PosY = 25
+		TypeFirstCase = 0
+		Ligne = 3,10,60,10,
+		Col = 11,40,23,23,23,23,23,23,23,23,23,23,
+		Ent = 1,1,1,2,2,1,2,2,1,2,2,1,
+		Ent1 = 7,1,1,1,1,1,1,1,1,1,1,1,
+		Ent2 = [2,10,10],Nature des cultures,Rendement,,Exercice n°1,,,Exercice n°2,,,Exercice n°3,,
+		Ent3 = [1,9,9],,,Surface,Ventes,Autres*,Surface,Ventes,Autres*,Surface,Ventes,Autres*,
+		DonGen = 6,G,D,D,D,D,D,D,D,D,D,D,
+		DonPos = 2,,0,0,3,0,
+		Don1 = [1,8,8];Céréales;40;10,00;;400;10,00;;400;10,00;;400;
+		Don2 = [1,8,8];Lentilles;12;4,00;48;;4,00;48;;4,00;48;;
+		Don3 = [1,8,8];Prairie fanée;4 500;30,00;;135 000;30,00;;135 000;30,00;;135 000;
+		Don4 = [1,8,8];Pâture;3 500;20,00;;70 000;20,00;;70 000;20,00;;70 000;
+		Don3 = [2,10,10];SAU totale;;64,00;;;64,00;;;64,00;;;
+		Don4 = [2,10,10];SAU totale + dérobées;;64,00;;;64,00;;;64,00;;;
+	[Tabl]
+		PosX = 10
+		PosY = 125
+		TypeFirstCase = 0
+		Ligne = 2,10,60,
+		Col = 5,40,23,23,23,23,
+		Ent = 1,1,2,2,2,1,
+		Ent1 = 7,1,1,2,1,1,
+		Ent2 = [2,10,10],Nature des cultures,,Charges proportionnelles,,,
+		Ent3 = [1,9,9],,Engrais,Semences,Prod. trait.,Autres,
+		DonGen = 4,G,D,D,D,D,
+		DonPos = 2,0,0,0,
+		Don1 = [1,8,8];Céréales;75;40;30;70;
+		Don2 = [1,8,8];Lentilles;;130;90;125;
+		Don3 = [1,8,8];Prairie fanée;55;30;;10;
+		Don4 = [1,8,8];Pâture;55;;;;
+	[Tabl]
+		PosX = 152
+		PosY = 125
+		TypeFirstCase = 0
+		Ligne = 2,10,60,
+		Col = 2,40,60,
+		Ent = 1,1,1,
+		Ent1 = 7,1,1,
+		Ent2 = [2,10,10],Prix de vente,Mode de commercialisation,
+		Ent3 = [2,10,10],en €/unité,et observations,
+		DonGen = 4,C,G,
+		DonPos = 2,,0,0,0
+		Don1 = [1,8,8];9;;
+		Don2 = [1,8,8];130;;
+		Don3 = [1,8,8];;;
+		Don4 = [1,8,8];;;
+[Nouvelle Page]
+	[Text]
+		Text = Programme de production végétale
+		PosX = 10
+		PosY = 5
+		Align = D
+		Police = Arial,16,1,0,1
+	[Text]
+		Text = Page : 2a suite
+		PosX = 240
+		PosY = 5
+		Align = D
+		Police = Arial,16,1,0,0
+	[Text]
+		Text = Assolement
+		PosX = 20
+		PosY = 15
+		Align = D
+		Police = Arial,14,1,0,1
+	[Text]
+		Text = * Autres destinations : stock en quantité - consommation animale
+		PosX = 20
+		PosY = 113
+		Align = D
+		Police = Arial,8,0,0,0
+	[Tabl]
+		PosX = 10
+		PosY = 25
+		TypeFirstCase = 0
+		Ligne = 3,10,60,10,
+		Col = 5,40,23,23,23,23,
+		Ent = 1,1,1,2,2,1,2,2,1,
+		Ent1 = 7,1,1,1,1,1,1,1,1,
+		Ent2 = [2,10,10],Nature des cultures,Rendement,,Exercice n°4,,
+		Ent3 = [1,9,9],,,Surface,Ventes,Autres*,
+		DonGen = 6,G,D,D,D,D,
+		DonPos = 2,,0,0,3,0,
+		Don1 = [1,8,8];Céréales;40;10,00;;400;
+		Don2 = [1,8,8];Lentilles;12;4,00;48;;
+		Don3 = [1,8,8];Prairie fanée;4 500;30,00;;135 000;
+		Don4 = [1,8,8];Pâture;3 500;20,00;;70 000;
+		Don3 = [2,10,10];SAU totale;;64,00;;;
+		Don4 = [2,10,10];SAU totale + dérobées;;64,00;;;

@@ -1,0 +1,75 @@
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Coût de revient
+CommentPage = Coût de revient
+
+	[Tableau]
+		titre= Répart. charges
+		PosX = 30
+		PoxY = 50
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 23
+			{CREVCP-2, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-3, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-4, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-5, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-6, *, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{CREVCP-15, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-16, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-17, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-18, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-19, *, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{CREVCP-24, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-25, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-26, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-27, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-28, *, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{CREVCP-33, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-34, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-35, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-36, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-37, *, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+
+	[Tableau]
+		titre= Coût de revient
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 19
+			{CREVCP-6, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-7, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-8, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-9, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-10, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-11, *, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{CREVCP-12, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{CREVCP-19, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-20, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-21, *, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{CREVCP-28, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-29, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-30, *, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{CREVCP-37, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-38, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CREVCP-39, *, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+[Fin Doc]
+

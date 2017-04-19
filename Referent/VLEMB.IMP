@@ -1,0 +1,45 @@
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Vaches laitières => Embouche
+CommentPage = Embouche
+
+	[Text]
+		Text = [VLEM-71:7]
+		PosX = 20
+		PoxY = 17
+		Police= Arial,18,1,0,1
+
+
+	[Tableau]
+		titre= Marge embouche
+		PosX = 30
+		PoxY = 198
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 17
+			{VLEM-17, Ventes animaux, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLEM-18, Achats animaux , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{-[VLEM-19], Cession veaux, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLEM-20, Variation inventaire , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLEM-21, Primes, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLEM-22, Produits, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 5, Arial, 5, 0, 0, 0}
+			{VLEM-23, Céréales , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLEM-24, Aliments , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLEM-25, Poudre de lait + C.M.V. , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLEM-26, Frais véto, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLEM-27, Frais élevage, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLEM-28, Frais commercial., 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLEM-29, Charges, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 5, Arial, 5, 0, 0, 0}
+			{VLEM-30, Marge, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{VLEM-31, Marge |/UGB, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+[Fin Doc]
+

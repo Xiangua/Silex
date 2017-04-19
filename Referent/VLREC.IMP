@@ -1,0 +1,202 @@
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Vaches laitières
+CommentPage = Récapitulatifs vaches laitières
+
+	[Text]
+		Text = Récapitulatif résultat
+		PosX = 40
+		PoxY = 35
+		Police= Arial,16,1,0,1
+
+	[Text]
+		Text = Eléments constitutifs de la marge
+		PosX = 50
+		PoxY = 45
+		Police= Arial,12,0,0,0
+
+
+	[Tableau]
+		titre= Produit brut
+		PosX = 30
+		PoxY = 70
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 12
+			{[VL-26]*[VL-92], Produit lait vendu, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VL-53, Veaux naissance, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLVB-12, Veaux boucherie, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLEM-17, Animaux embouche , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-77, Génisses , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-58, Réformes repro., 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{[VL-63]+[VL-82]+[VLEM-21]+[VLVB-17], Primes, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[VL-59]+[VL-81]+[VLEM-20]+[VLVB-16], Variation inventaire, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{[VLRES-17], Produit brut, 2, 7, 14, Arial, 12, 1, 1, 0}
+
+
+	[Tableau]
+		titre= Charges opérationnelles
+		PosX = 30
+		PoxY = 0
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 12
+			{[VL-67]+[VL-68], Aliments vaches, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[VL-85]+[VL-86], Aliments génisses, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[VLEM-24]+[VLEM-25], Aliments embouche, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[VLVB-19]+[VLVB-20], Aliments VB, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[VL-56], Poudre de lait VN, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLRES-22, Total aliments , 2, 15, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VLRES-8, Frais vétérinaires, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLRES-9, Frais élevage, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[VLEM-28], Frais commercialisation, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VLRES-18, Charges opé., 2, 7, 14, Arial, 12, 1, 1, 0}
+
+
+	[Tableau]
+		titre= Achats d'animaux
+		PosX = 30
+		PoxY = 0
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 4
+			{VL-60, Achats reproducteurs, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[VL-80]+[VLVB-15]+[VLEM-18], Achats autres bovins, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{[VL-60]+[VL-80]+[VLVB-15]+[VLEM-18], Achats d'animaux, 2, 7, 14, Arial, 12, 1, 1, 0}
+
+	[Tableau]
+		titre= Marge
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 1
+			{VLRES-19, Marge, 2, 7, 14, Arial, 12, 1, 1, 0}
+
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Vaches laitières
+CommentPage = Marge vaches laitières
+
+	[Text]
+		Text = Récapitulatif caractéristiques
+		PosX = 40
+		PoxY = 30
+		Police= Arial,16,1,0,1
+
+	[Tableau]
+		titre= Effectifs fin
+		PosX = 30
+		PoxY = 55
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 8
+			{[VL-7], Vaches, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[VL-10], Génisses + 2 ans , 3, -1, 12, Arial, 10, 0, 0, 0}
+			{[VL-11], Génisses 1 à 2 ans, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[VL-12], Génisses - 1 an, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0,  , 4, 15, 6, Arial, 6, 0, 0, 0}
+			{[VL-23]+[VLEM-16]|1, UGB totaux , 0, -1, 12, Arial, 10, 1, 0, 0}
+			{[VL-138]|1, => Dont génisses , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[VLEM-16]|1, => Dont embouche , 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+	[Tableau]
+		titre= Effectifs vendus
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 6
+			{[VL-41], Veaux naissance, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-42, Veaux croisés , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[VLVB-4], Veaux boucherie , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[VLEM-1]+[VLEM-2]+[VLEM-3]+[VLEM-4]+[VLEM-5], Veaux embouche, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[VL-17], Génisses vendues , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[VL-2], Réformes , 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+	[Tableau]
+		titre= Production laitière
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 5
+			{VL-26, Lait vendu, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-27, Lait transformé , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-28, Lait veaux , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-29, Lait  , 3, -1, 12, Arial, 10, 1, 0, 0}
+			{VL-30, Rendement laitier |/VL, 3, -1, 12, Arial, 10, 0, 0, 0}
+
+
+	[Tableau]
+		titre= Principaux prix de vente
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 6
+			{VL-92, Lait , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-94, Veaux naissance, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-106, Vente veaux croisés, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLVB-27, Veaux boucherie, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-103, Génisses prêtes, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-96, Réformes , 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+	[Tableau]
+		titre= Quantités
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 7
+			{([VL-36]*100), Céréales VL + gén.|kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{([VLEM-23]/[VL-116]), Céréales embouche |kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{([VL-36]*100)+([VLEM-23]/[VL-116]), Besoins céréales |kg, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{([VL-67]/[VL-118]), Aliments vaches|kg, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{([VL-85]/[VL-117]), Aliments génisses|kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[VLEM-70], Aliments embouche|kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{([VLVB-19]/[VLVB-31]), Poudre de lait VB|kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+[Fin Doc]
+

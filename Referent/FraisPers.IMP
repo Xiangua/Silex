@@ -1,0 +1,51 @@
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 0
+TitreModule = Annexe : Frais de personnel
+CommentPage = Annexe
+
+	[Text]
+		Text = Frais de personnel
+		PosX = 15
+		PoxY = 60
+		Police= Arial,16,1,0,1
+
+	[Tableau]
+		titre=
+		PosX = 30
+		PoxY = 90
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 25
+			{RESSTRUC-31, *, 2, 7, 12, Arial, 10, 1, 0, 0}
+  			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{RESSTRUC-32, *,0 , -1, 12, Arial, 10, 1, 0, 0}
+  			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{RESSTRUC-33, *,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RESSTRUC-34, *,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RESSTRUC-35, *,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{[RESSTRUC-33]+[RESSTRUC-34]+[RESSTRUC-35], MO permanente,0 , -1, 12, Arial, 10, 1, 0, 0}
+			{RESSTRUC-47, *,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RESSTRUC-48, *,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RESSTRUC-49, *,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RESSTRUC-50, MO temporaire,0 , -1, 12, Arial, 10, 1, 0, 0}
+  			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{RESSTRUC-52, *,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RESSTRUC-53, *,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RESSTRUC-54, *,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RESSTRUC-51, MO autes act. div.,0 , -1, 12, Arial, 10, 1, 0, 0}
+  			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{RESSTRUC-36,*, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{RESSTRUC-37,*,0 , -1, 12, Arial, 10, 0, 0, 0}
+  			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{RESSTRUC-39,*, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{RESSTRUC-40,*,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RESSTRUC-41,*,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RESSTRUC-42,*,0 , -1, 12, Arial, 10, 0, 0, 0}
+
+
+[Fin Doc]
+

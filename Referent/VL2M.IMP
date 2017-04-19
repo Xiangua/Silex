@@ -1,0 +1,359 @@
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Vaches laitières
+CommentPage = Caractéristiques VL
+
+	[Text]
+		Text = Paramètres
+		PosX = 15
+		PoxY = 20
+		Police= Arial,16,1,0,1
+
+	[Tableau]
+		titre= Caractéristiques
+		PosX = 20
+		PoxY = 55
+		StyleTableau= 2
+		Largeur1Col= 40
+		LargeurColAnnuel = 18
+		AvecEntete = (Veaux| naissance)(Génisses| à élever)(Génisses| -1 an)(Génisses| 1 à 2 ans)(Génisses| +2 ans)(Vaches)(Taureaux)
+		Type= 0
+		Ligne = 6
+			{VL-122, UGB,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{VL-123, Céréales |kg , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-124, Aliments |kg,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{VL-125, Poudre de lait |kg , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VL-135, Valeur inventaire , 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+	[Tableau]
+		titre= Prix lait
+		PosX = 30
+		PoxY = 90
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 5
+			{VL-178, Vente lait 1,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{VL-180, Vente lait 2,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{VL-182, Vente lait 3,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{VL-184, Prix moyen,0 , 3, 12, Arial, 10, 0, 0, 0,/VIS}
+			{VL-93, Cession lait , 0, -1, 12, Arial, 10, 0, 0, 0}
+
+	[Tableau]
+		titre= Prix veaux
+		PosX = 30
+		PoxY = 120
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 3
+			{VL-94, Vente veaux,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{VL-106, Vente veaux croisés, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-95, Cession veaux, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+	[Tableau]
+		titre= Prix vaches et taureaux
+		PosX = 30
+		PoxY = 145
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne =7
+			{VL-96, Vente réformes, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-97, Achat génisses prêtes, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-98, Vente taureaux,3, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-99, Achat taureaux, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-113, Frais véto |/VL, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-114, Frais élevage |/VL, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-115, C.M.V. |/VL, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+	[Tableau]
+		titre= Prix génisses
+		PosX = 30
+		PoxY = 188
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 11
+			{VL-100, Achat gén. 1 à 2 ans, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-101, Achat gén. - 1 an, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-102, Achat gén. à élever, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-103, Vente gén. + 2 ans, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-104, Vente gén. 1 à 2 ans, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-105, Vente gén. - 1 an, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-107, Cession gén. + 2 ans, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-108, Cession gén. 1 à 2 ans, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-109, Cession gén. à élever, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-110, Frais véto gén. |/UGB, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-111, Frais élevage gén. |/UGB, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+	[Tableau]
+		titre= Prix divers
+		PosX = 30
+		PoxY = 245
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 4
+			{VL-116, Cession céréales|$/kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-118, Aliments vaches|$/kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-117, Aliments génisses|$/kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-119, Poudre de lait|$/kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Vaches laitières
+CommentPage = Effectifs et critères tech.
+
+	[Text]
+		Text = Effectifs
+		PosX = 20
+		PoxY = 30
+		Police= Arial,16,1,0,1
+
+	[Tableau]
+		titre= Reproducteurs
+		PosX = 30
+		PoxY = 55
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 5
+			{VL-1, Vaches eff. début, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-4, Sorties , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-5, Entrées, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-6, Achats , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{Vl-7, Vaches eff. fin, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+	[Tableau]
+		titre= Génisses d'élevage
+		PosX = 30
+		PoxY = 90
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 9
+			{VL-10, Génisses + 2 ans, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-11, Génisses 1 à 2 ans, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-12, Génisses - 1 an, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-13, Génisses à élever, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-17, Génisses vendues, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-21, Génisses achetées, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VL-22, Vaches eff. moyen , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{VL-23, UGB, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+	[Text]
+		Text = Critères techniques
+		PosX = 20
+		PoxY = 140
+		Police= Arial,16,1,0,1
+
+	[Tableau]
+		titre= Productions
+		PosX = 30
+		PoxY = 165
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 13
+			{VL-41, Veaux naissance, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-42, Veaux croisés , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-43, Veaux boucherie , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-44, Veaux embouche, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-25, Total veaux, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VL-177, Lait vendu 1, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-179, Lait vendu 2, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-181, Lait vendu 3, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-27, Lait transformé , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-28, Lait veaux, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-29, Volume lait, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{VL-30, Rendement laitier , 0, -1, 12, Arial, 10, 0, 0, 0}
+
+	[Tableau]
+		titre= Consommations
+		PosX = 30
+		PoxY = 240
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 5
+			{VL-32, Concentrés |kg/VL, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-33, Aliments |kg/VL, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-34, Céréales |kg/VL, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-35, Ration de base valorisée, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-36, Besoin céréales |qx, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Vaches laitières
+CommentPage = Marge vaches laitières
+
+	[Text]
+		Text = Marge vaches
+		PosX = 20
+		PoxY = 30
+		Police= Arial,16,1,0,1
+
+	[Tableau]
+		titre= Produits
+		PosX = 30
+		PoxY = 55
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 18
+			{VL-52, Produit lait, 2, 7, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VL-53, Veaux naissance , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-54, Cession gén. -1 an, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-55, Cession veaux, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-56, Poudre de lait VN , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-57, Produit veaux, 2, 7, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VL-58, Réformes repro., 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-59, Variation inventaire , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-60, Achats reproducteurs, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-61, Cession gén. prêtes, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-62, Coût renouvellement , 2, 15, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VL-63, Primes , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VL-64, Produits , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{VL-65,*, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+	[Tableau]
+		titre= Charges
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 11
+			{VL-66, Céréales, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-67, Aliments , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-68, C.M.V. , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-69, Total aliments, 2, 7, 12, Arial, 10, 0, 0, 0}
+			{VL-70, Coût compl. |/litre , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VL-71, Frais véto, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-72, Frais élevage , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VL-73, Charges , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{VL-74, * , 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+	[Tableau]
+		titre= Marge
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 2
+			{VL-75, Marge, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{VL-76, * , 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Vaches laitières
+CommentPage = Marge génisses
+
+	[Text]
+		Text = Marge génisses
+		PosX = 20
+		PoxY = 45
+		Police= Arial,16,1,0,1
+
+	[Tableau]
+		titre= Produits
+		PosX = 30
+		PoxY = 75
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 7
+			{VL-77, Ventes génisses, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-78, Cession gén. prêtes , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-79, Cession gén. -1 an, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-80, Achats génisses, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-81, Variation inventaire , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-82, Primes, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-83, Produits , 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+	[Tableau]
+		titre= Charges
+		PosX = 30
+		PoxY = 120
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 6
+			{VL-84, Céréales, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-85, Aliments , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-86, Poudre de lait, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-87, Frais véto, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-88, Frais élevage , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VL-89, Charges , 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+	[Tableau]
+		titre= Marge
+		PosX = 30
+		PoxY = 160
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 2
+			{VL-90, Marge , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{VL-91, Marge |/UGB , 2, 7, 12, Arial, 10, 1, 0, 0}
+
+[Fin Doc]
+

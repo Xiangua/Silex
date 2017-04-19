@@ -1,0 +1,64 @@
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Vache laitière => Transformation lait
+CommentPage = Transformation lait
+
+	[Text]
+		Text = Transformation lait
+		PosX = 20
+		PoxY = 30
+		Police= Arial,16,1,0,1
+
+	[Tableau]
+		titre= Gestion qté et prix
+		PosX = 30
+		PoxY = 60
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 12
+			{VLTR-13, Qté cédée, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLTR-14, % Perte , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLTR-15, Qté à transformer, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLTR-16, Qté transformée, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VLTR-17, Quantité 1, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLTR-18, Prix 1 , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLTR-19, Quantité 2, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{VLTR-20, Prix 2 , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLTR-21, Quantité 3, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{VLTR-22, Prix 3 , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLTR-23, Total vente , 2, 7, 12, Arial, 10, 1, 0, 0}
+
+	[Tableau]
+		titre= Marge transformation laitière
+		PosX = 30
+		PoxY = 140
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 14
+			{VLTR-1, Vente, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLTR-2, Cession, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLTR-3, Autres produits, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLTR-4, Produit brut, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{VLTR-5, Produit /litre, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VLTR-6, Charge 1   Qté, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLTR-7, Charge 2   %, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLTR-8, Charge 3   [], 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLTR-9, Charge opér., 2, 7, 12, Arial, 10, 1, 0, 0}
+			{VLTR-10, Charge /litre, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VLTR-11, Marge , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{VLTR-12, Marge /litre, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+[Fin Doc]
+

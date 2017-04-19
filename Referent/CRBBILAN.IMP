@@ -1,0 +1,81 @@
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Bilan
+CommentPage = Bilan
+
+	[Text]
+		Text = Bilan
+		PosX = 20
+		PoxY = 30
+		Police= Arial,16,1,0,1
+
+	[Tableau]
+		titre= ACTIF 
+		PosX = 30
+		PoxY = 55
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 1
+		Ligne = 24
+			{RES-234, *, 2, 15, 12, Arial, 10, 1, 0, 0}
+			{RES-235, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-236, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-237, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-238, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-239, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-240, *, 2, 15, 12, Arial, 10, 1, 0, 0}
+			{RES-241, *, 2, 15, 12, Arial, 10, 1, 0, 0}
+			{RES-242, *, 2, 15, 12, Arial, 10, 1, 0, 0}
+			{RES-243, *, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 10, Arial, 10, 0, 0, 0}
+			{RES-244, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-245, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-246, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-247, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-248, *, 2, 15, 12, Arial, 10, 1, 0, 0}
+			{RES-249, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-250, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-251, * , 2, 15, 12, Arial, 10, 1, 0, 0}
+			{RES-252, *, 2, 15, 12, Arial, 10, 1, 0, 0}
+			{RES-253, *, 2, 15, 12, Arial, 10, 1, 0, 0}
+			{RES-254, *, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{RES-256, *, 12, 7, 14, Arial, 11, 1, 0, 0}
+
+
+	[Tableau]
+		titre= PASSIF
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 1
+		Ligne = 21
+			{RES-259, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-260, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-281, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-261, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-262, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-263, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-264, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-266, *, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 10, Arial, 10, 0, 0, 0}
+			{RES-268, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-269, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-270, *, 2, 15, 12, Arial, 10, 1, 0, 0}
+			{RES-271, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-272, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-273, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-274, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-275, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-276, *, 2, 15, 12, Arial, 10, 1, 0, 0}
+			{RES-278, *, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{RES-280, *, 12, 7, 14, Arial, 11, 1, 0, 0}
+			
+

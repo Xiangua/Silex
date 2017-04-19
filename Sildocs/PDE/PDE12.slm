@@ -1,0 +1,55 @@
+{\rtf1\ansi\deff1\adeflang1025
+{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\fnil\fprq2\fcharset0 Arial Unicode MS;}{\f4\fnil\fprq2\fcharset0 Tahoma;}{\f5\fnil\fprq0\fcharset0 Tahoma;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red255\green255\blue255;\red128\green128\blue128;}
+{\stylesheet{\s1\cf0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\rtlch\afs22\lang1036\ltrch\dbch\langfe1036\hich\fs22\lang1036\loch\fs22\lang1036\snext1 Normal;}
+{\s2\sb240\sa120\keepn\cf0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\rtlch\af4\afs28\lang1036\ltrch\dbch\af3\langfe1036\hich\fs28\lang1036\loch\fs28\lang1036\sbasedon1\snext3 Heading;}
+{\s3\cf0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\rtlch\afs18\lang1036\ltrch\dbch\langfe1036\hich\fs18\lang1036\loch\fs18\lang1036\sbasedon1\snext3 Body Text;}
+{\s4\cf0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\rtlch\af5\afs18\lang1036\ltrch\dbch\langfe1036\hich\fs18\lang1036\loch\fs18\lang1036\sbasedon3\snext4 List;}
+{\s5\sb120\sa120\cf0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\rtlch\af5\afs24\lang1036\ai\ltrch\dbch\langfe1036\hich\fs24\lang1036\i\loch\fs24\lang1036\i\sbasedon1\snext5 caption;}
+{\s6\cf0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\rtlch\af5\afs22\lang1036\ltrch\dbch\langfe1036\hich\fs22\lang1036\loch\fs22\lang1036\sbasedon1\snext6 Index;}
+{\s7\keepn\cf2{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\rtlch\afs22\lang1036\ai\ltrch\dbch\langfe1036\hich\fs22\lang1036\i\loch\fs22\lang1036\i\sbasedon1\snext1{\*\soutlvl0} heading 1;}
+{\s8\keepn\cf0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\rtlch\afs20\lang1036\ab\ltrch\dbch\langfe1036\hich\fs20\lang1036\b\loch\fs20\lang1036\b\sbasedon1\snext1{\*\soutlvl1} heading 2;}
+{\s9\keepn\cf0\qc{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\rtlch\afs24\lang1036\ab\ltrch\dbch\langfe1036\hich\fs24\lang1036\b\loch\fs24\lang1036\b\sbasedon1\snext1{\*\soutlvl2} heading 3;}
+{\s10\cf0\tqc\tx4536\tqr\tx9072{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\rtlch\afs22\lang1036\ltrch\dbch\langfe1036\hich\fs22\lang1036\loch\fs22\lang1036\sbasedon1\snext10 header;}
+{\s11\cf0\tqc\tx4536\tqr\tx9072{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\rtlch\afs22\lang1036\ltrch\dbch\langfe1036\hich\fs22\lang1036\loch\fs22\lang1036\sbasedon1\snext11 footer;}
+{\s12\cf0\qc{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\rtlch\afs22\lang1036\ab\ltrch\dbch\langfe1036\hich\fs22\lang1036\b\loch\fs22\lang1036\b\sbasedon1\snext13 Title;}
+{\s13\sb240\sa120\keepn\cf0\qc{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\rtlch\af4\afs28\lang1036\ai\ltrch\dbch\af3\langfe1036\hich\fs28\lang1036\i\loch\fs28\lang1036\i\sbasedon2\snext3 Subtitle;}
+{\s14\cf0\tqc\tx7498\tqr\tx14997{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\rtlch\afs22\lang1036\ltrch\dbch\langfe1036\hich\fs22\lang1036\loch\fs22\lang1036\sbasedon1\snext14 header;}
+{\*\cs16\cf0\rtlch\af1\afs24\lang1036\ltrch\dbch\af1\langfe1036\hich\f1\fs24\lang1036\loch\f1\fs24\lang1036 Default Paragraph Font;}
+{\*\cs17\cf0\rtlch\af1\afs24\lang1036\ltrch\dbch\af1\langfe1036\hich\f1\fs24\lang1036\loch\f1\fs24\lang1036\sbasedon16 page number;}
+}
+{\info{\creatim\yr2007\mo6\dy11\hr16\min0}{\revtim\yr1601\mo1\dy1\hr0\min0}{\printim\yr1601\mo1\dy1\hr0\min0}{\comment StarWriter}{\vern6800}}\deftab708
+{\*\pgdsctbl
+{\pgdsc0\pgdscuse195\lndscpsxn\pgwsxn16840\pghsxn11907\marglsxn975\margrsxn868\margtsxn284\margbsxn611\headery0{\*\headeryb0\headerxl0\headerxr0\headeryh56}{\header 
+\pard\plain\pard\plain \absw350\absh23\pvpara\posy0\phcol\posxr{\*\flyvert35136\flyhorz54785\flyanchor0\flycntnt}\s10\cf0\tqc\tx4536\tqr\tx9072{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\rtlch\afs22\lang1036\ltrch\dbch\langfe1036\hich\fs22\lang1036\loch\fs22\lang1036
+\par \pard
+\pard\plain \s10\cf0\qr\tqc\tx4536\tqr\tx9072{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\margrsxn360\rtlch\afs20\lang1036\ab\ltrch\dbch\langfe1036\hich\fs20\lang1036\b\loch\fs20\lang1036\b {\rtlch \ltrch\loch\f1\fs20\lang1036\i0\b 12}
+\par }
+\pgdscnxt0 Standard;}}
+{\*\pgdscno0}\landscape\paperh11907\paperw16840\margl975\margr868\margt284\margb611\sectd\sbknone\lndscpsxn\pgwsxn16840\pghsxn11907\marglsxn975\margrsxn868\margtsxn514\margbsxn611\headery284{\header 
+\pard\plain\pard\plain \absw350\absh23\pvpara\posy0\phcol\posxr{\*\flyvert35136\flyhorz54785\flyanchor0\flycntnt}\s10\cf0\tqc\tx4536\tqr\tx9072{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\rtlch\afs22\lang1036\ltrch\dbch\langfe1036\hich\fs22\lang1036\loch\fs22\lang1036
+\par \pard
+\pard\plain \s10\cf0\qr\tqc\tx4536\tqr\tx9072{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\margrsxn360\rtlch\afs20\lang1036\ab\ltrch\dbch\langfe1036\hich\fs20\lang1036\b\loch\fs20\lang1036\b {\rtlch \ltrch\loch\f1\fs20\lang1036\i0\b 12}
+\par }
+\ftnbj\ftnstart1\ftnrstcont\ftnnar\aenddoc\aftnrstcont\aftnstart1\aftnnrlc
+\pard\plain \ltrpar\s1\cf0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\rtlch\afs20\lang1036\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\par \pard\plain \ltrpar\s9\cf0\qc{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\keepn\rtlch\afs24\lang1036\ab\ltrch\dbch\langfe1036\hich\fs24\lang1036\b\loch\fs24\lang1036\b {\rtlch \ltrch\loch\f1\fs24\lang1036\i0\b BILANS PREVISIONNELS \'96 SITUATIONS FINANCIERES {\fs22 (EN EUROS CONSTANTS)}}
+\par \pard\plain \ltrpar\s1\cf0\qc{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\rtlch\afs24\lang1036\ab\ltrch\dbch\langfe1036\hich\fs24\lang1036\b\loch\fs24\lang1036\b 
+\par \pard\plain \ltrpar\s1\cf0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\rtlch\afs20\lang1036\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f1\fs20\lang1036\i0\b0 #slx(taba2p1r1;larg4500;larg7500([200;120][;1;8;1;0;0;0;0;1;c;0;0;0;0;8][entete:6:1\'e8re_ann\'e9e_de_pr\'e9vision&Fin_de_pr\'e9vision;3;8;1;1;0;0;0;0;c;1;1;1;1;16]#[200;120][ACTIF_IMMOBILISE;3;8;1;1;0;0;0;0;l;1;1;1;1;8][totalC:0:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;
+120][frais_d'\'e9tablissement;3;8;1;0;0;0;0;0;l;1;1;1;1;8][totalC:0:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][Terrains,_am\'e9liorations_fonci\'e8res;3;8;1;0;0;0;0;0;l;1;1;1;1;8][totalC:LG(RES-235)_+_LG(RES-237):0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][Plantatio
+ns;3;8;1;0;0;0;0;0;l;1;1;1;1;8][serie:Res.DON+RES-236:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][Constructions_et_installations;3;8;1;0;0;0;0;0;l;1;1;1;1;8][totalC:LG(IMMORES-17)_+_LG(IMMORES-18):0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][Mat\'e9riel;3;8;1;0;
+0;0;0;0;l;1;1;1;1;8][serie:IMMORES.DON+IMMORES-19:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][Cheptel_permanent;3;8;1;0;0;0;0;0;l;1;1;1;1;8][serie:Res.DON+RES-242:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][Immobilisations_en_cours;3;8;1;0;0;0;0;0;l;1;1;1;1;
+8][serie:IMMORES.DON+IMMORES-20:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][Parts_sociales;3;8;1;0;0;0;0;0;l;1;1;1;1;8][serie:RES.DON+RES-241:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][ACTIF_CIRCULANT;3;8;1;1;0;0;0;0;l;1;1;1;1;8][totalC:0:0:0;3;8;1;0;0;0;0;
+0;c;1;1;1;1;8]#[200;120][EN_COURS_ET_STOCKS;3;8;1;0;0;0;0;0;l;1;1;1;1;8][totalC:0:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][Cheptel_en_cours_de_production;3;8;1;0;0;0;0;0;l;1;1;1;1;8][serie:Res.DON+RES-244:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][Valeur
+s_en_terre;3;8;1;0;0;0;0;0;l;1;1;1;1;8][serie:Res.DON+RES-245:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][Stocks_-_Approvisionnements;3;8;1;0;0;0;0;0;l;1;1;1;1;8][totalC:LG(RES-246)_+_LG(RES-247):0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][CREANCES_ET_DISPON
+IBLE;3;8;1;0;0;0;0;0;l;1;1;1;1;8][totalC:0:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][Cr\'e9ances_(clients,_TVA);3;8;1;0;0;0;0;0;l;1;1;1;1;8][totalC:LG(RES-249)_+_LG(RES-250):0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][Compte_d'associ\'e9s;3;8;1;0;0;0;0;0;l;1;1;1
+;1;8][serie:Res.DON+RES-251:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][Caisse_banque;3;8;1;0;0;0;0;0;l;1;1;1;1;8][serie:Res.DON+RES-253:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][ACTIF________________________________________Total;3;10;1;1;0;0;0;0;l;1;1;1;1
+;16][serie:Res.DON+RES-256:0:0;3;8;1;1;0;0;0;0;c;1;1;1;1;8]#[200;120][CAPITAUX_PROPRES;3;8;1;1;0;0;0;0;l;1;1;1;1;8][totalC:0:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][Capital_individuel_;5006;8;1;0;0;0;0;0;l;1;1;1;1;8][totalC:LG(RES-260)_+_LG(RES-262)_+_L
+G(RES-263):0:1;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][Capital_individuel,_social;3;8;1;0;0;0;0;0;l;1;1;1;1;8][serie:RES.DON+RES-259:0:1;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][R\'e9serves;3;8;1;0;0;0;0;0;l;1;1;1;1;8][serie:Res.DON+RES-281:0:0;3;8;1;0;0;0
+;0;0;c;1;1;1;1;8]#[200;120][Report_\'e0_nouveau;3;8;1;0;0;0;0;0;l;1;1;1;1;8][serie:Res.DON+RES-261:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][Subventions_d'investissement;3;8;1;0;0;0;0;0;l;1;1;1;1;8][serie:Res.DON+RES-264:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200
+;120][ENDETTEMENT;3;8;1;1;0;0;0;0;l;1;1;1;1;8][totalC:0:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][DETTES_FINANCIERES;3;8;1;0;0;0;0;0;l;1;1;1;1;8][totalC:0:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][emprunts_fonciers__;5006;8;1;0;0;0;0;0;l;1;1;1;1;8][total
+C:LG(IMMORES-34):0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][dettes_LMT_;5006;8;1;0;0;0;0;0;l;1;1;1;1;8][totalC:LG(IMMORES-35):0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][dettes_CT;3;8;1;0;0;0;0;0;l;1;1;1;1;8][serie:RES.DON+RES-272:0:0;5006;8;1;0;0;0;0
+;0;c;1;1;1;1;8]#[200;120][D\'e9couvert_bancaire,_OCCC;3;8;1;0;0;0;0;0;l;1;1;1;1;8][serie:Res.DON+RES-275:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][AUTRES_DETTES;3;8;1;0;0;0;0;0;l;1;1;1;1;8][totalC:0:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][Dettes_fournisse
+urs;3;8;1;0;0;0;0;0;l;1;1;1;1;8][serie:Res.DON+RES-273:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][Compte_d'associ\'e9s_;5006;8;1;0;0;0;0;0;l;1;1;1;1;8][totalC:LG(RES-271)_+_LG(RES-268):0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][D\'e9bit_TVA;3;8;1;0;0;0;0;0;l;
+1;1;1;1;8][serie:Res.DON+RES-274:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][PASSIF_______________________________________Total;3;10;1;1;0;0;0;0;l;1;1;1;1;16][serie:Res.DON+RES-280:0:0;3;8;1;1;0;0;0;0;c;1;1;1;1;8]))#}
+\par }

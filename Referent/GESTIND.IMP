@@ -1,0 +1,42 @@
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 0
+TitreModule = Annexe : Gestion des prélèvements
+CommentPage = Annexe
+
+	[Text]
+		Text = Gestion des prélèvements
+		PosX = 15
+		PoxY = 60
+		Police= Arial,16,1,0,1
+
+	[Tableau]
+		titre=
+		PosX = 30
+		PoxY = 90
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 17
+			{RESIND-1, *,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RESIND-5, Prélèvements,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RESIND-6, Marge de sécurité, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{RESIND-16, Prélèv.ts except.,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RESIND-17, Apports except.,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RESIND-18, Marge consolidé, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0,Trésorerie personnelle, 4, 15, 30, Arial, 12, 1, 1, 1}
+			{RESIND-5, Prélèvements,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RESIND-20, App. ou prél. except.,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RESIND-7, Autres revenus,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RESIND-8, Autres frais,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RESIND-9, CSG + RDS non déd.,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RESIND-12, Annuités privés,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RESIND-13, Impôt sur le revenu,0 , -1, 12, Arial, 10, 0, 0, 0}
+  			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{RESIND-14, Budget personnel, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{RESIND-15, Budget personnel /mois, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+[Fin Doc]
+

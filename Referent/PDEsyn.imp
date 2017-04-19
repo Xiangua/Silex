@@ -1,0 +1,45 @@
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Synthèse du PDE
+CommentPage = Synthèse du PDE
+
+
+	[Tableau]
+		titre= Revenu Disponible
+		PosX = 30
+		PoxY = 40
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 14
+			{[RES-132],Excédent Brut d'Exploit., 0, -1, 11, Arial, 10, 1, 0, 0,}
+			{[RES-133],-Annuités de l'entreprise, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-134],-Annuités des associés, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RSOC-415],-Part bénéf.ass.non exploit., 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RSOC-476],+MAD Terres et Batiments, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RSOC-477],-Impôts fonciers, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RSOC-478],-Assurances Bâtiments, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RSOC-479],-Frais financiers terrains, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RSOC-480],-Frais Finnaciers batiments, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-132]-[RES-133]-[RES-134]-[RES-164]+[RSOC-476]-[RSOC-477]-[RSOC-478]-[RSOC-479]-[RSOC-480],Revenu dispo. exploitation, 0, -1, 11, Arial, 10, 1, 0, 0,}
+			{0,, 4, 15, 4, Arial, 14, 1, 1, 1}
+			{[RESDIV-6]|2,Nombre d'UTAF, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{0,, 4, 15, 4, Arial, 14, 1, 1, 1}
+			{([RES-132]-[RES-133]-[RES-134]-[RES-164]+[RSOC-476]-[RSOC-477]-[RSOC-478]-[RSOC-479]-[RSOC-480])/[RESDIV-6],Revenu Dispo. / Ass. expl.*, 0, -1, 11, Arial, 10, 1, 0, 0,}
+
+
+	[Text]
+		Text = (*) Rappel : Pour bénéficier de la DJA, ce revenu du 5ème exercice doit être supérieur à 1 SMIC net et le revenu global
+		PosX = 10
+		PoxY = 100
+		Police= Arial,10,0,0,0
+	[Text]
+		Text = professionnel doit être inférieur à 3 SMIC net(Le SMIC net en vigeur au 1er janvier de l'année du dépôt du dossier)
+		PosX = 10
+		PoxY = 104
+		Police= Arial,10,0,0,0
+
+[Fin Doc]

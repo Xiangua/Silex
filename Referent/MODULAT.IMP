@@ -1,0 +1,100 @@
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Aides découplées - MAE - Autres
+CommentPage = Aides découplées - MAE - Autres
+
+	[Tableau]
+		titre= DPB
+		PosX = 30
+		PoxY = 35
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 19
+			{DPU-20, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-21, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-22, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-23, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-24, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-25, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-26, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-27, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-28, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-29, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-30, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-31, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-32, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-33, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-34, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-35, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{DPU-132, *, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{DPU-133, *, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+	[Tableau]
+		titre= Autres Aides déc.
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 18
+			{DPU-66, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-67, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-68, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-69, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-70, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-71, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-72, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-73, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-74, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-75, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-76, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-77, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-78, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-79, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-80, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-81, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{DPU-131, *, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+	[Tableau]
+		titre= MAE et autres aides
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 18
+			{DPU-98, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-99, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-100, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-101, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-102, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-103, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-104, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-105, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-106, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-107, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-108, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-109, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-110, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-111, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-112, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{DPU-113, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{DPU-135, *, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+
+[Fin Doc]
+

@@ -1,0 +1,58 @@
+{\rtf1\ansi\deff1\adeflang1025
+{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\fnil\fprq2\fcharset0 Arial Unicode MS;}{\f4\fswiss\fprq2\fcharset0 Lucida Sans Unicode;}{\f5\fnil\fprq2\fcharset0 Tahoma;}{\f6\fnil\fprq0\fcharset0 Tahoma;}{\f7\fswiss\fprq0\fcharset0 Tahoma;}{\f8\fswiss\fprq2\fcharset0 Tahoma;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+{\stylesheet{\s1\rtlch\af1\afs22\lang255\ltrch\dbch\af1\langfe1033\hich\f1\fs22\lang1036\loch\f1\fs22\lang1036\snext1 Normal;}
+{\s2\sb240\sa120\keepn\rtlch\af5\afs28\lang255\ltrch\dbch\af3\langfe1033\hich\fs28\lang1036\loch\fs28\lang1036\sbasedon1\snext3 Heading;}
+{\s3\rtlch\af1\afs18\lang255\ltrch\dbch\af1\langfe1033\hich\f1\fs18\lang1036\loch\f1\fs18\lang1036\sbasedon1\snext3 Body Text;}
+{\s4\rtlch\af7\afs18\lang255\ltrch\dbch\af1\langfe1033\hich\f1\fs18\lang1036\loch\f1\fs18\lang1036\sbasedon3\snext4 List;}
+{\s5\sb120\sa120\rtlch\af6\afs24\lang255\ai\ltrch\dbch\af1\langfe1033\hich\f1\fs24\lang1036\i\loch\f1\fs24\lang1036\i\sbasedon1\snext5 caption;}
+{\s6\rtlch\af6\afs22\lang255\ltrch\dbch\af1\langfe1033\hich\f1\fs22\lang1036\loch\f1\fs22\lang1036\sbasedon1\snext6 Index;}
+{\s7\sb120\sa120\rtlch\af7\afs20\lang255\ai\ltrch\dbch\af1\langfe1033\hich\f1\fs20\lang1036\i\loch\f1\fs20\lang1036\i\sbasedon1\snext7 caption;}
+{\s8\rtlch\af7\afs22\lang255\ltrch\dbch\af1\langfe1033\hich\f1\fs22\lang1036\loch\f1\fs22\lang1036\sbasedon1\snext8 Index;}
+{\s9\keepn\cf2\rtlch\af1\afs22\lang255\ai\ltrch\dbch\af1\langfe1033\hich\f1\fs22\lang1036\i\loch\f1\fs22\lang1036\i\sbasedon1\snext1{\*\soutlvl0} heading 1;}
+{\s10\keepn\rtlch\af1\afs20\lang255\ab\ltrch\dbch\af1\langfe1033\hich\f1\fs20\lang1036\b\loch\f1\fs20\lang1036\b\sbasedon1\snext1{\*\soutlvl1} heading 2;}
+{\s11\keepn\qc\rtlch\af1\afs24\lang255\ab\ltrch\dbch\af1\langfe1033\hich\f1\fs24\lang1036\b\loch\f1\fs24\lang1036\b\sbasedon1\snext1{\*\soutlvl2} heading 3;}
+{\s12\tqc\tx4536\tqr\tx9072\rtlch\af1\afs22\lang255\ltrch\dbch\af1\langfe1033\hich\f1\fs22\lang1036\loch\f1\fs22\lang1036\sbasedon1\snext12 header;}
+{\s13\tqc\tx4536\tqr\tx9072\rtlch\af1\afs22\lang255\ltrch\dbch\af1\langfe1033\hich\f1\fs22\lang1036\loch\f1\fs22\lang1036\sbasedon1\snext13 footer;}
+{\s14\sb240\sa120\keepn\rtlch\af8\afs28\lang255\ltrch\dbch\af4\langfe1033\hich\f1\fs28\lang1036\loch\f1\fs28\lang1036\sbasedon1\snext3 Heading;}
+{\s15\qc\rtlch\af1\afs22\lang255\ab\ltrch\dbch\af1\langfe1033\hich\f1\fs22\lang1036\b\loch\f1\fs22\lang1036\b\sbasedon1\snext16 Title;}
+{\s16\sb240\sa120\keepn\qc\rtlch\af8\afs28\lang255\ai\ltrch\dbch\af4\langfe1033\hich\f1\fs28\lang1036\i\loch\f1\fs28\lang1036\i\sbasedon14\snext3 Subtitle;}
+{\s17\tqc\tx7498\tqr\tx14997\rtlch\af1\afs22\lang255\ltrch\dbch\af1\langfe1033\hich\f1\fs22\lang1036\loch\f1\fs22\lang1036\sbasedon1\snext17 WW-header;}
+{\s18\tqc\tx4320\tqr\tx8640\rtlch\af1\afs22\lang255\ltrch\dbch\af1\langfe1033\hich\f1\fs22\lang1036\loch\f1\fs22\lang1036\sbasedon1\snext18 header;}
+{\*\cs20\rtlch\afs24\lang255\ltrch\dbch\langfe1033\hich\fs24\lang1033\loch\fs24\lang1033 Default Paragraph Font;}
+{\*\cs21\rtlch\afs24\lang255\ltrch\dbch\langfe1033\hich\fs24\lang1033\loch\fs24\lang1033\sbasedon20 page number;}
+}
+{\info{\creatim\yr2007\mo5\dy29\hr11\min39}{\revtim\yr1601\mo1\dy1\hr0\min0}{\printim\yr1601\mo1\dy1\hr0\min0}{\comment StarWriter}{\vern6800}}\deftab708
+{\*\pgdsctbl
+{\pgdsc0\pgdscuse195\lndscpsxn\pgwsxn16840\pghsxn11907\marglsxn975\margrsxn868\margtsxn284\margbsxn611\headery0{\*\headeryb227\headerxl0\headerxr0\headeryh283}{\header 
+\pard\plain\pard\plain \absw350\absh23\pvpara\posy0\phcol\posxr{\*\flyvert37600\flyhorz41985\flyanchor0\flycntnt}\s12\qr\tqc\tx4536\tqr\tx9072\rtlch\af1\afs22\lang255\ab\ltrch\dbch\af1\langfe1033\hich\f1\fs22\lang1036\b\loch\f1\fs22\lang1036\b {\rtlch \ltrch\loch\f1\fs22\lang1036\i0\b 7}
+\par \pard
+\pard\plain \s12\qr\tqc\tx4536\tqr\tx9072\rtlch\af1\afs20\lang255\ab\ltrch\dbch\af1\langfe1033\hich\f1\fs20\lang1036\b\loch\f1\fs20\lang1036\b {\rtlch \ltrch\loch\f1\fs20\lang1036\i0\b 7}
+\par }
+\pgdscnxt0 Standard;}}
+{\*\pgdscno0}\landscape\paperh11907\paperw16840\margl975\margr868\margt284\margb611\sectd\sbknone\lndscpsxn\pgwsxn16840\pghsxn11907\marglsxn975\margrsxn868\margtsxn567\margbsxn611\headery284{\header 
+\pard\plain\pard\plain \absw350\absh23\pvpara\posy0\phcol\posxr{\*\flyvert37600\flyhorz41985\flyanchor0\flycntnt}\s12\qr\tqc\tx4536\tqr\tx9072\rtlch\af1\afs22\lang255\ab\ltrch\dbch\af1\langfe1033\hich\f1\fs22\lang1036\b\loch\f1\fs22\lang1036\b {\rtlch \ltrch\loch\f1\fs22\lang1036\i0\b 7}
+\par \pard
+\pard\plain \s12\qr\tqc\tx4536\tqr\tx9072\rtlch\af1\afs20\lang255\ab\ltrch\dbch\af1\langfe1033\hich\f1\fs20\lang1036\b\loch\f1\fs20\lang1036\b {\rtlch \ltrch\loch\f1\fs20\lang1036\i0\b 7}
+\par }
+\ftnbj\ftnstart1\ftnrstcont\ftnnar\aenddoc\aftnrstcont\aftnstart1\aftnnrlc
+\pard\plain \ltrpar\s1\ql\rtlch\af1\afs20\lang255\ltrch\dbch\af1\langfe1033\hich\f1\fs20\lang1036\loch\f1\fs20\lang1036 
+\par \pard\plain \ltrpar\s11\qc\keepn\rtlch\af1\afs24\lang255\ab\ltrch\dbch\af1\langfe1033\hich\f1\fs24\lang1036\b\loch\f1\fs24\lang1036\b {\rtlch \ltrch\loch\f1\fs24\lang1036\i0\b COMPTES DE RESULTAT PREVISIONNELS ET SOLDES INTERMEDIAIRES DE GESTION}
+\par \pard\plain \ltrpar\s1\qc\rtlch\af1\afs24\lang255\ab\ltrch\dbch\af1\langfe1033\hich\f1\fs24\lang1036\b\loch\f1\fs24\lang1036\b 
+\par \pard\plain \ltrpar\s1\ql\rtlch\af1\afs22\lang255\ltrch\dbch\af1\langfe1033\hich\f1\fs22\lang1036\loch\f1\fs22\lang1036 {\rtlch \ltrch\loch\f1\fs22\lang1036\i0\b0 #slx(tabr0;larg4500;larg10000([200;120][;3;9;1;0;0;0;0;1;c;1;1;1;1;16][entete:5:1\'e8re_ann\'e9e_de_pr\'e9vision&Fin_de_pr\'e9vision;3;8;1;1;0;0;0;0;c;1;1;1;1;16]#[200;120][VALEUR_AJOUTEE;3;8;1;1;0;0;0;0;l;1;1;1;1;16][totalC:LG(RES-111)_+_LG(RES-109)_+_LG(RES-103)_+_L
+G(RES-104)_-_LG(RES-56):0:0;3;8;1;1;0;0;0;0;c;1;1;1;1;8]#[200;120][+_Indemnit\'e9s_et_subventions_d'exploitation;3;8;1;0;0;0;0;0;l;1;1;1;1;16][serie:Res.DON+RES-56:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][-_Imp\'f4ts_et_taxes;3;8;1;0;0;0;0;0;l;1;1;1;1;16][tota
+lC:LG(RES-103)_+_LG(RES-104):0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][-_Frais_de_personnel;3;8;1;0;0;0;0;0;l;1;1;1;1;16][totalC:LG(RES-107)_+_LG(RES-108):0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][-_Charges_sociales_exploitant;3;8;1;0;0;0;0;0;l;1;1;1;1;1
+6][serie:Res.DON+RES-106:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][-_R\'e9mun\'e9ration_du_travail_des_associ\'e9s;3;8;1;0;0;0;0;0;l;1;1;1;1;16][totalC:LG(RSOC-33):0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][EXCEDENT_BRUT_D'EXPLOITATION;3;8;1;1;0;0;0;0;l;1;1;1;1;16
+][totalC:LG(RES-111)_-_LG(RSOC-33):0:0;3;8;1;1;0;0;0;0;c;1;1;1;1;8]#[200;120][+_Autres_produits_..................................................;3;8;1;0;0;0;0;0;l;1;1;1;1;8][totalC:0:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][+_Autres_produits_..........
+........................................;3;8;1;0;0;0;0;0;l;1;1;1;1;8][totalC:0:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][-_Dotation_aux_amortissements;3;8;1;0;0;0;0;0;l;1;1;1;1;16][totalC:LG(RES-115)_+_LG(RES-116)_+_LG(RES-117)_+_LG(RES-118):0:0;3;8;1;0;0
+;0;0;0;c;1;1;1;1;8]#[200;120][-_Autres_charges_d'exploitation_....................................;3;8;1;0;0;0;0;0;l;1;1;1;1;8][totalC:0:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][-_Autres_charges_d'exploitation_....................................;3;8;1;0
+;0;0;0;0;l;1;1;1;1;8][totalC:0:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][RESULTAT_D'EXPLOITATION;3;8;1;1;0;0;0;0;l;1;1;1;1;16][totalC:LG8_+_LG9_+_LG10_-_LG11_-_LG12_-_LG13:0:0;3;8;1;1;0;0;0;0;c;1;1;1;1;8]#[200;120][+_Produits_financiers;3;8;1;0;0;0;0;0;l;
+1;1;1;1;16][totalC:0:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][-_Frais_financiers_\'e0_long_et_moyen_terme;3;8;1;0;0;0;0;0;l;1;1;1;1;16][serie:Res.DON+RES-113:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][-_Frais_financiers_\'e0_court_terme;3;8;1;0;0;0;0;0;l;1;1;1
+;1;16][serie:Res.DON+RES-114:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][-_Autres_charges_financi\'e8res_.......................................;3;8;1;0;0;0;0;0;l;1;1;1;1;8][totalC:0:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][-_Autres_charges_financi\'e8res_.....
+..................................;3;8;1;0;0;0;0;0;l;1;1;1;1;8][totalC:0:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][RESULTAT_COURANT_AVANT_IMPOTS;3;8;1;1;0;0;0;0;l;1;1;1;1;16][totalC:LG14_+_LG15_-_LG16_-_LG17_-_LG18_-_LG19:0:0;3;8;1;1;0;0;0;0;c;1;1;1;1;8]#
+[200;120][+_Quote-part_des_subventions;3;8;1;0;0;0;0;0;l;1;1;1;1;16][totalC:0:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][+_Vente_d'\'e9l\'e9ments_d'actif_immobilis\'e9s;3;8;1;0;0;0;0;0;l;1;1;1;1;16][totalC:0:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][+_Autre_produi
+t_exceptionnel;3;8;1;0;0;0;0;0;l;1;1;1;1;16][serie:Res.DON+RES-123:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][-_Valeur_comptable_des_actifs_c\'e9d\'e9s;3;8;1;0;0;0;0;0;l;1;1;1;1;16][totalC:0:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][-_Autres_charges_except._...
+................................;3;8;1;0;0;0;0;0;l;1;1;1;1;8][serie:RES.DON+RES-124:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][-_Autres_charges_except._...........................................;3;8;1;0;0;0;0;0;l;1;1;1;1;8][totalC:0:0:0;3;8;1;0;0;0;0;0;c;
+1;1;1;1;8]#[200;120][-_Imp\'f4ts_sur_les_b\'e9n\'e9fices;3;8;1;0;0;0;0;0;l;1;1;1;1;16][totalC:0:0:0;3;8;1;0;0;0;0;0;c;1;1;1;1;8]#[200;120][RESULTAT_DE_L'EXERCICE;3;8;1;1;0;0;0;0;l;1;1;1;1;16][totalC:LG20_+_LG21_+_LG22_+_LG23_-_LG24_-_LG25_-_LG26_-_LG27:0:0;3;8;1;1;
+0;0;0;0;c;1;1;1;1;8]))#}
+\par }

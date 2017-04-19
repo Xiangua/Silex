@@ -1,0 +1,76 @@
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Trésorerie
+CommentPage = Tableau de financement
+
+	[Text]
+		Text = Tableau de trésorerie
+		PosX = 20
+		PoxY = 30
+		Police= Arial,16,1,0,1
+
+	[Tableau]
+		titre=
+		PosX = 30
+		PoxY = 55
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 51
+			{RES-165, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-166, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-167, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-168, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-170, *, 2, 15, 12, Arial, 10, 1, 0, 0}
+			{RES-172, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-173, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-174, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RSOCIS-153, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC/VIS}
+			{RES-176, *, 12, 7, 14, Arial, 11, 1, 0, 0}
+			{0, , 4, 15, 10, Arial, 10, 0, 0, 0}
+			{RES-179, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-180, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-181, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-182, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-183, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-184, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-185, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-186, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-188, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-189, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-191, * , 2, 15, 12, Arial, 10, 1, 0, 0}
+			{RES-193, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-194, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-196, * , 2, 15, 12, Arial, 10, 1, 0, 0}
+			{RES-198, *  , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-200, *, 12, 7, 14, Arial, 11, 1, 0, 0}
+			{0, , 4, 15, 10, Arial, 10, 0, 0, 0}
+			{[RES-200]+[RES-176], Budget Total av. TVA & CT, 12, 7, 14, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 10, Arial, 10, 0, 0, 0}
+			{RES-203, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-204, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-205, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-206, *   , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-207, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-209, *, 12, 7, 14, Arial, 11, 1, 0, 0}
+			{0, , 4, 15, 10, Arial, 10, 0, 0, 0}
+			{RES-211, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-212, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-213, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-214, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-215, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC/VIS}
+			{RES-216, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC/VIS}
+			{RES-218, * , 12, 7, 14, Arial, 11, 1, 0, 0}
+			{0, , 4, 15, 10, Arial, 10, 0, 0, 0}
+			{RES-226, *, 12, 7, 14, Arial, 11, 1, 0, 0,0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0,/DEC}
+			{RES-228, * , 0, -1, 14, Arial, 10, 0, 0, 0,/DEC}
+			{RES-230, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{RES-232, *, 12, 7, 14, Arial, 11, 1, 0, 0}
+
+
+

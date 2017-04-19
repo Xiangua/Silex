@@ -1,0 +1,64 @@
+........................................................................................
+......SSSSSSSSS...IIIIIIIIII..LL........DDDDDDD.....OOOOOOOO....CCCCCCCC..SSSSSSSSS.....
+......SS..............II......LL........DD....DD...OO......OO...CC........SS............
+.......SS.............II......LL........DD....DD..OO........OO..CC..........SS..........
+.........SSSSS........II......LL........DD....DD..OO........OO..CC...........SSSSS......
+.............SS.......II......LL........DD....DD..OO........OO..CC...............SS.....
+.............SS.......II......LL........DD....DD...OO......OO...CC...............SS.....
+......SSSSSSSSS...IIIIIIIIII..LLLLLLLLL.DDDDDDDD....OOOOOOOO....CCCCCCCC..SSSSSSSSS.....
+........................................................................................
+ 	
+		Editeur de documents pour Silex - nom de code : SilDocs 
+
+
+Le logiciel se présente sous la forme d'une barre d'outils placée en haut de l'écran.
+Son but est d'automatiser l'édition des documents portant sur un dossier winSilex.
+Pour cela, l'utilisateur peut éditer depuis Sil-Docs des modèles de documents avec des 
+tableaux, des graphiques, du texte,... dont les données seront issues de winSilex.
+L'utilisateur peut alors utiliser un de ces modèles pour créer automatiquement un document 
+portant sur le dossier Silex de son choix. 
+
+	Principe de fonctionnement :
+
+Lorsque vous éditez des tableaux, des champs ou autres, SilDocs génère son propre code dé-
+limité par les balises #slx( )# qu'il insère dans votre document à l'emplacement du curseur.
+A la création d'un document, ce code est interprété par SilDocs et remplacé par ce que  
+vous avez initialement édité en utilisant les données propres à un dossier win-Silex.
+Sachant cela, vous pouvez ajouter / supprimer du texte, du code SilDocs n'importe où 
+et à n'importe quel moment dans un modèle. Vous pouvez également changer le style d'affichage 
+d'un code Sil-docs pour, par exemple, qu'une donnée apparaisse en italique (inutile pour les
+tableaux et les graphiques, la mise en forme se fait directement avec l'éditeur de SilDocs).
+Une seule chose à éviter absolument bien sûr : modifier directement le code entre 2 balises 
+#slx(... )# qui risquerait de ne plus être interprétable par SilDocs ! 
+
+	Installation : 
+
+Lancer le Setup sur le CD-Rom d'installation de SilDocs 2006.
+Au premier lancement de SilDocs, indiquez le numéro de série pour enregistrer le produit.
+
+Pour pouvoir utiliser SilDocs, vous devez bien sûr avoir winSilex 2006 (ou 2005) sur votre
+machine et un éditeur de texte : OpenOffice 2, MS Word ou Lotus Word Pro.
+
+	Lancement :
+
+Pour lancer le logiciel avec toutes les fonctionnalités d'édition de modèles/documents, 
+cliquez le raccourci SilDocs 2006 sur le bureau.
+Si vous n'avez pas à éditer de modèles mais seulement à créer des documents RTF depuis des 
+modèles existants, utilisez le bouton "Sil-Docs" dans winSilex après ouverture d'un dossier. 
+Ce bouton est équivalent au bouton "Créer Doc." dans la barre d'outils de Sil-Docs.
+
+	Utilisation :
+
+Personnalisez SilDocs en cliquant sur le bouton "Propriétés" lorsqu'il est présent ou par un 
+click droit n'importe où sur la barre d'outils.
+
+Editez des modèles en cliquant Nouveau ou bien Ouvrir pour travailler sur un modèle existant.
+Puis utilisez l'éditeur de SilDocs pour insérer des données, des tableaux, des graphiques,...
+
+Sauvegardez vos modèles de document au format SLM depuis la barre d'outils de SilDocs. 
+
+Enfin, créez vos documents RTF depuis vos modèles SLM. Pour cela, choisissez un dossier winSilex
+en cliquant le bouton "Autre". C'est sur ce dossier que seront issues les données présentes dans 
+le document créé. Cliquez ensuite sur le bouton "Créer doc." et choisissez le modèle à utiliser.
+Vous pouvez ouvrir vos documents créés en cliquant le bouton Ouvrir et en choisissant l'onglet 
+"Ouvrir un Document".

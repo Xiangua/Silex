@@ -1,0 +1,89 @@
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Cultures annuelles
+CommentPage = Récapitulatif Cultures
+
+	[Text]
+		Text = Récapitulatif résultat cultures annuelles
+		PosX = 40
+		PoxY = 35
+		Police= Arial,16,1,0,1
+
+	[Text]
+		Text = Eléments constitutifs de la marge brute globale
+		PosX = 50
+		PoxY = 45
+		Police= Arial,12,0,0,0
+
+
+	[Tableau]
+		titre= Produit brut
+		PosX = 30
+		PoxY = 70
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 9
+			{CltRes-1, Cultures de vente, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltRes-2, Cultures fourragères, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltRes-3, Cultures maraîchères , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{CltRes-5, Primes, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltRes-4, Autres produits, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltRes-6, Variation inventaire, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{CltRes-17, Produit brut, 2, 7, 14, Arial, 12, 1, 1, 0}
+
+
+	[Tableau]
+		titre= Charges opérationnelles
+		PosX = 30
+		PoxY = 0
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 8
+			{CltRes-7, Engrais, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltRes-8, Semences, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltRes-9, Prod. traitements, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltRes-10, Trvx / entreprise, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltRes-11, Taxes et cot. prof., 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltRes-12, Autres charges , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{CltRes-18, Charges opé., 2, 7, 14, Arial, 12, 1, 1, 0}
+
+
+	[Tableau]
+		titre= Achats végétaux
+		PosX = 30
+		PoxY = 0
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 4
+			{CltRes-13, Achats cult. alt., 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltRes-14, Achats fourrages, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{CltRes-19, Achats végétaux, 2, 7, 14, Arial, 12, 1, 1, 0}
+
+	[Tableau]
+		titre= Marge brute globale
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 1
+			{[CltRes-17]-([CltRes-18]+[CltRes-19]), Marge brute, 2, 7, 14, Arial, 12, 1, 1, 0}
+
+[Fin Doc]
+

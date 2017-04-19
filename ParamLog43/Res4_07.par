@@ -1,0 +1,421 @@
+PDE 4
+[Tableau1]
+	Nom = Résultat Produits
+	Type = Normal
+	Description = 61
+		 1010, RES-1, 0, 1, Produits, 0, -1, 18, Arial, 12, 0, 0, 0, 0, 
+				 1020, RES-2, [CltRes-1], 3, Cult. annuelles, 1, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /TVA/DEV
+				 1030, RES-3, [CltRes-2], 3, Fourrages, 1, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /TVA/DEV
+				 1040, RES-4, [CltRes-3], 3, Cult. maraîchères, 1, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /TVA/ZERO/DEV
+					 1041, RES-5, [CLTP-7], 5, Production vendue, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+					 1042, RES-6, 0, 5, Sous produits Cult. Pér., 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 1050, RES-7, [CLTP-7], 3, Cult. pérennes, -2, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /TVA/DEV
+				 1060, RES-8, [CltRes-4], 3, Autres produits, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/DEV
+				 1070, RES-9, [RESSAI-64]+[CULT-26]+[CLTP-80], 3, VI végétaux, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/DEV
+			 1080, RES-10, {1020}+{1030}+{1040}+{1050}+{1060}+{1070}, 2, Produits végétaux, 0, -1, 12, Arial, 10, 1, 1, 0, 0, /DEV
+				 1090, RES-11, [VLRes-1], 3, toto, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /TVA/DIV/DEV
+				 1100, RES-12, [CHRES-1], 3, Lait de chèvres, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /TVA/DIV/DEV
+				 1110, RES-13, [OLRES-1], 3, Lait de brebis, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /TVA/DIV/DEV
+				 1120, RES-14, [TRLAIT-1]+[TRLAIT-6], 3, Autres produits laitiers, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /TVA/DIV/DEV
+			 1130, RES-15, {1090}+{1100}+{1110}+{1120}, 2, Produits animaux, 0, -1, 12, Arial, 10, 1, 1, 0, 0, /DEV
+					 1140, RES-16, [VLRes-3], 5, Réformes vaches lait, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/DEV
+					 1150, RES-17, [VLRes-4], 5, Veaux de naissance, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/DEV
+					 1160, RES-18, [VLRes-5], 5, Autres bovins laitiers, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/DEV
+				 1170, RES-19, {1140}+{1150}+{1160}, 3, Bovins lait, -3, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /TVA/DEV
+					 1180, RES-20, [VARes-1], 5, Réformes vaches viande, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/DEV
+					 1190, RES-21, [VARes-2], 5, Autres bovins viande, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/DEV
+				 1200, RES-22, {1180}+{1190}, 3, Bovins viande, -2, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /TVA/DEV
+					 1210, RES-23, [OLRES-2]+[OVRES-1], 5, Réformes ovins, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/DEV
+					 1220, RES-24, [OLRES-3]+[OVRES-2], 5, Agneaux, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/DEV
+					 1230, RES-25, [OLRES-4]+[OVRES-3]+[OVRES-19], 5, Autres ovins, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/DEV
+				 1240, RES-26, {1210}+{1220}+{1230}, 3, Ovins, -3, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /TVA/DEV
+					 1250, RES-27, [CHRES-2], 5, Réformes caprins, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/DEV
+					 1260, RES-28, [CHRES-3], 5, Chevreaux, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/DEV
+					 1270, RES-29, [CHRES-4], 5, Autres caprins, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/DEV
+				 1280, RES-30, {1250}+{1260}+{1270}, 3, Caprins, -3, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /TVA/DEV
+					 1290, RES-31, [PORCRES-1]+[PORCRES-2], 5, Réformes porcins, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/DEV
+					 1300, RES-32, [PORCRES-3]+[PORCRES-4], 5, Porcelets, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/DEV
+					 1310, RES-33, [PORCRES-5], 5, Porcs, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/DEV
+					 1320, RES-34, [PORCRES-6], 5, Autres porcins, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/DEV
+				 1330, RES-35, {1290}+{1300}+{1310}+{1320}, 3, Porcs, -4, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /TVA/DEV
+				 1340, RES-36, [VLRes-12]+[OLRes-11]+[CHRes-11]+[OVRes-10]+[VARes-10]+[PORCRES-14], 3, VI animaux, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/DEV
+			 1350, RES-37, {1170}+{1200}+{1240}+{1280}+{1330}+{1340}, 2, Ventes et VI animaux, 0, -1, 12, Arial, 10, 1, 1, 0, 0, /DEV
+				 1360, RES-38, 0, 3, , 0, -1, 2, Arial, 9, 0, 0, 0, 0, /DEV
+					 1370, RES-39, 0, 5, Produits div. 1, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /TVA/DIV/ZERO/DEV
+					 1380, RES-40, 0, 5, Produits div. 2, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /TVA/DIV/ZERO/DEV
+					 1390, RES-41, 0, 5, Produits div. 3, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /TVA/DIV/ZERO/DEV
+					 1400, RES-42, 0, 5, Produits div. 4, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /TVA/DIV/ZERO/DEV
+					 1410, RES-43, 0, 5, Produits div. 5, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /TVA/DIV/ZERO/DEV
+					 1420, RES-44, 0, 5, Produits div. 6, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /TVA/DIV/ZERO/DEV
+					 1430, RES-45, 0, 5, Produits div. 7, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /TVA/DIV/ZERO/DEV
+					 1440, RES-46, 0, 5, Produits div. 8, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /TVA/DIV/ZERO/DEV
+					 1450, RES-47, 0, 5, Produits div. 9, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /TVA/DIV/ZERO/DEV
+					 1460, RES-48, 0, 5, Produits div. 10, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /TVA/DIV/ZERO/DEV
+					 1470, RES-49, {1370}+{1380}+{1390}+{1400}+{1410}+{1420}+{1430}+{1440}+{1450}+{1460}, 5, Produits act. div., 0, -1, 10, MS Sans serif, 9, 1, 0, 0, 0, /ZERO/DEV
+					 1480, RES-50, 0, 5, , 0, -1, 0, MS Sans serif, 9, 0, 0, 0, 0, /TVA
+					 1490, RES-51, 0, 5, VI act. div., 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/ZERO/DEV
+			 1500, RES-52, {1470}+{1480}+{1490}, 2, Produits act. div., -13, -1, 12, Arial, 10, 1, 1, 0, 0, /DEV
+					 1501, ***, [CLTP-84], 5, Vente transfo., 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /TVA/DEV
+					 1502, ***, [CLTP-82], 5, VI transfo., 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 1510, RES-53, {1501}+{1502}, 3, Transformation, 1, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+					 1520, RES-54, [PRIMES-1], 5, Primes ani., 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/DEV
+					 1530, RES-55, [PRIMES-3]+[PRIMES-5]+[PRIMES-7]+[PRIMES-9]+[CLTP-9], 5, Primes cultures, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/DEV
+					 1531, ***, 0, 5, , 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/ZERO/DEV
+					 1532, ***, [DPU-56], 5, Aides découplées, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/ZERO/DEV
+				 1540, RES-56, {1520}+{1530}+{1532}+{1531}, 3, Sub. d'exploitation, -4, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /TVA/DEV
+			 1550, RES-57, {1080}+{1130}+{1350}+{1500}+{1510}+{1540}, 2, Produit d'exploitation, 0, -1, 14, Arial, 10, 1, 1, 0, 1, /DEV
+
+[Tableau2]
+	Nom = Résultat charges
+	Type = Normal
+	Description = 74
+		 2010, RES-58, 0, 1, Charges, 0, -1, 18, Arial, 12, 0, 0, 0, 0, /TRESO=Achats;4;0
+				 2020, RES-59, 0, 3, , 0, -1, 5, Arial, 9, 0, 0, 0, 0, 
+					 2030, RES-60, [CltRes-7]+[Cltp-11], 5, Engrais, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/DEV
+					 2040, RES-61, [CltRes-8]+[Cltp-12], 5, Semences et plants, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/DEV/TRESO=Achats;40101;1
+					 2050, RES-62, [CltRes-9]+[Cltp-13], 5, Produits traitement, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/DEV/TRESO=Achats;40102;1
+					 2060, RES-63, [CltRes-10]+[Cltp-14], 5, Travaux entreprise, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/DEV/TRESO=Achats;40103;1
+					 2070, RES-64, [CltRes-11]+[Cltp-15], 5, Taxes et cot. prof., 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/DEV/TRESO=Achats;40104;1
+					 2080, RES-65, [CltRes-12]+[Cltp-62], 5, Divers cultures, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/ZERO/DEV/TRESO=Achats;40105;1
+				 2090, RES-66, {2030}+{2040}+{2050}+{2060}+{2070}+{2080}, 3, Charges végétaux, -6, -1, 12, Arial, 9, 0, 0, 0, 0, /DEV/TRESO=Achats;401;0
+					 2100, RES-67, [VLRes-6]+[OLRes-5]+[CHRes-5]+[OVRes-4]+[VARes-4]+[PORCRES-7], 5, Aliments, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/DEV/TRESO=Achats;40201;1
+					 2110, RES-68, [VLRes-7]+[OLRes-6]+[CHRes-6]+[OVRes-5]+[VARes-5]+[PORCRES-8], 5, Aliments divers, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/DEV/TRESO=Achats;40202;1
+					 2120, RES-69, [VLRes-8]+[OLRes-7]+[CHRes-7]+[OVRes-6]+[VARes-6]+[PORCRES-9], 5, Frais vétérinaires, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/DEV/TRESO=Achats;40203;1
+					 2130, RES-70, [VLRes-9]+[OLRes-8]+[CHRes-8]+[OVRes-7]+[VARes-7]+[PORCRES-10], 5, Divers animaux, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/DEV/TRESO=Achats;40204;1
+					 2140, RES-71, [CltRes-13], 5, Achats cult. alt., 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/ZERO/DEV/TRESO=Achats;40205;1
+					 2150, RES-72, [CltRes-14], 5, Achats fourrages, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/ZERO/DEV/TRESO=Achats;40206;1
+				 2160, RES-73, {2100}+{2110}+{2120}+{2130}+{2140}+{2150}, 3, Charges animaux, -6, -1, 12, Arial, 9, 0, 0, 0, 0, /DEV/TRESO=Achats;402;0
+				 2170, RES-74, [VLRes-21]+[PORCRES-11], 3, Autres charges opé., 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/DEV/TRESO=Achats;403;1
+				 2180, RES-75, [Cltp-21]+[TRLAIT-12], 3, Charges transfo., 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/DEV/TRESO=Achats;404;1
+					 2190, RES-76, 0, 5, Charges div. 1, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/ZERO/DEV/TRESO=Achats;40501;1
+					 2200, RES-77, 0, 5, Charges div. 2, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/ZERO/DEV/TRESO=Achats;40502;1
+					 2210, RES-78, 0, 5, Charges div. 3, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/ZERO/DEV/TRESO=Achats;40503;1
+					 2220, RES-79, 0, 5, Charges div. 4, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/ZERO/DEV/TRESO=Achats;40504;1
+					 2230, RES-80, 0, 5, Charges div. 5, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/ZERO/DEV/TRESO=Achats;40505;1
+					 2240, RES-81, 0, 5, Charges div. 6, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/ZERO/DEV/TRESO=Achats;40506;1
+					 2250, RES-82, 0, 5, Charges div. 7, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/ZERO/DEV/TRESO=Achats;40507;1
+					 2260, RES-83, 0, 5, Charges div. 8, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/ZERO/DEV/TRESO=Achats;40508;1
+					 2270, RES-84, 0, 5, Charges div. 9, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/ZERO/DEV/TRESO=Achats;40509;1
+				 2280, RES-85, {2190}+{2200}+{2210}+{2220}+{2230}+{2240}+{2250}+{2260}+{2270}, 3, Charges act. div., -9, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DEV/TRESO=Achats;405;0
+				 2290, RES-86, 0, 3, Achats produits, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DEV/TRESO=Achats;406;1
+			 2300, RES-87, {2090}+{2160}+{2170}+{2180}+{2280}+{2290}, 2, Charges opérat., 0, -1, 12, Arial, 10, 1, 1, 0, 0, /DEV
+				 2310, RES-88, 0, 3, , 0, -1, 5, Arial, 9, 0, 0, 0, 0, 
+					 2320, RES-89, [VLRes-10]+[OLRes-9]+[CHRes-9]+[OVRes-8]+[VARes-8]+[PORCRES-12], 5, Achats ani. repro., 0, -1, 12, Arial, 9, 0, 0, 0, 0, /DIV/DEV/TRESO=Achats;40701;1
+					 2330, RES-90, [VLRes-11]+[OLRes-10]+[CHRes-10]+[OVRes-9]+[VARes-9]+[PORCRES-13], 5, Achats autres ani., 0, -1, 12, Arial, 9, 0, 0, 0, 0, /DIV/DEV/TRESO=Achats;40702;1
+				 2340, RES-91, {2320}+{2330}, 3, Achats animaux, -2, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DEV/TRESO=Achats;407;0
+				 2350, ***, 0, 3, , 0, -1, 5, Arial, 9, 0, 0, 0, 0, 
+			 2360, RES-92, {1550}-{2300}-{2340}, 2, Marge brute globale, 0, -1, 14, Arial, 10, 1, 1, 0, 1, /DEV
+				 2370, ***, 0, 3, , 0, -1, 5, Arial, 9, 0, 0, 0, 0, 
+					 2380, RES-93, [RESSTRUC-1], 5, Carburants-lubrifiants, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/DEV/TRESO=Frais;50101;1
+					 2390, RES-94, [RESSTRUC-2], 5, Eau-électricité, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/DEV/TRESO=Frais;50102;1
+					 2400, RES-95, [RESSTRUC-3]+[Cltp-86], 5, Fermages, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/DEV/TRESO=Frais;50103;1
+					 2410, RES-96, [RESSTRUC-4], 5, Locations diverses, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/DEV/TRESO=Frais;50104;1
+					 2420, RES-97, [RESSTRUC-5], 5, Ent. bâtiment-foncier, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/DEV/TRESO=Frais;50105;1
+					 2430, RES-98, [RESSTRUC-6], 5, Entretien matériel, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/DEV/TRESO=Frais;50106;1
+					 2440, RES-99, [RESSTRUC-7], 5, Assurances, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/DEV/TRESO=Frais;50107;1
+					 2450, RES-100, [RESSTRUC-8], 5, Transport-déplacements, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/DEV/TRESO=Frais;50108;1
+					 2460, RES-101, [RESSTRUC-9], 5, Téléphone-abonnement, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/DEV/TRESO=Frais;50109;1
+					 2470, RES-102, [RESSTRUC-10], 5, Cotisations prof., 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/DEV/TRESO=Frais;50110;1
+					 2480, RES-103, [RESSTRUC-11], 5, Impôts fonciers, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/DEV/TRESO=Frais;50111;1
+					 2490, RES-104, [RESSTRUC-12], 5, Autres impôts et taxes, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/DEV/TRESO=Frais;50112;1
+					 2491, ***, [RESSTRUC-13]+[immores-96], 5, Divers, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/ZERO/DEV/TRESO=Frais;50113;1
+					 2500, RES-105, {2380}+{2390}+{2400}+{2410}+{2420}+{2430}+{2440}+{2450}+{2460}+{2470}+{2480}+{2490}+{2491}, 5, Frais de fonctionn.t, 0, -1, 12, Arial, 9, 1, 0, 0, 0, /DEV/TRESO=Frais;501;0
+					 2511, RES-106, [RESSTRUC-55], 5, Charges soc. expl., 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/DEV/TRESO=Frais;50202;1
+					 2512, RES-107, [RESSTRUC-33]+[RESSTRUC-47]+[CLTP-43]+[CULT-104], 5, Salaires du pers., 0, -1, 10, Arial, 9, 0, 0, 0, 0, /TVA/DIV/ZERO/DEV/TRESO=Frais;50203;1
+					 2513, RES-108, [RESSTRUC-34]+[RESSTRUC-48], 5, Charges soc. sal., 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/DIV/ZERO/DEV/TRESO=Frais;50204;1
+					 2514, ***, [RESSTRUC-35]+[RESSTRUC-49], 5, Autres charges sal., 0, -1, 12, Arial, 9, 0, 0, 0, 0, /TVA/ZERO/DEV/TRESO=Frais;50205;1
+					 2515, RES-109, {2511}+{2512}+{2513}+{2514}, 5, Frais de personnel, 0, -1, 12, Arial, 9, 1, 0, 0, 0, /DEV/TRESO=Frais;502;0
+				 2520, RES-110, {2500}+{2515}, 3, Frais de structure, -19, -1, 12, Arial, 9, 0, 0, 0, 0, /DEV/TRESO=Frais;5;0
+				 2530, ***, 0, 3, , 0, -1, 5, Arial, 9, 0, 0, 0, 0, 
+			 2540, RES-111, {2360}-{2520}, 2, Excédent brut d'expl., 0, -1, 14, Arial, 10, 1, 1, 0, 1, /DEV
+				 2550, RES-112, 0, 3, , 0, -1, 5, Arial, 9, 0, 0, 0, 0, /DEV
+					 2560, RES-113, [IMMORES-28]+[IMMORES-29]+[IMMORES-32]+[IMMORES-33], 5, Frais finan. + ADI, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /DEV
+					 2561, RES-114, {7120}, 5, Frais OCC, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /ZERO/DEV
+					 2570, RES-115, [Cltp-22]+[IMMORES-94], 5, Amort. plantations, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /DEV
+					 2580, RES-116, [IMMORES-10], 5, Amort. bâtiments, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /DEV
+					 2590, RES-117, [IMMORES-12], 5, Amort. matériels, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /DEV
+					 2600, RES-118, [IMMORES-9]+[IMMORES-11]+[IMMORES-13], 5, Amort. autres, 0, -1, 12, Arial, 9, 0, 0, 0, 0, /DEV
+				 2610, RES-119, {2560}+{2561}+{2570}+{2580}+{2590}+{2600}, 3, Amort. + frais financiers, -6, -1, 12, Arial, 9, 0, 0, 0, 0, /DEV
+				 2620, RES-120, 0, 3, , 0, -1, 5, Arial, 9, 0, 0, 0, 0, /DEV
+			 2630, RES-121, {2540}-{2610}, 2, Résultat courant, 0, -1, 14, Arial, 10, 1, 1, 0, 1, /DEV
+				 2640, RES-122, 0, 3, , 0, -1, 5, MS Sans serif, 9, 1, 0, 0, 0, /DEV
+				 2650, RES-123, [IMMORES-22]+[IMMORES-42]+[Cltp-63], 3, Produits excep., 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 2660, RES-124, [IMMORES-23]+[Cltp-64], 3, Charges excep., 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 2670, RES-125, 0, 3, , 0, -1, 5, MS Sans serif, 9, 1, 0, 0, 0, /DEV
+			 2680, RES-126, {2630}+{2650}-{2660}, 2, Résultat exercice, 0, -1, 14, Arial, 10, 1, 1, 0, 1, /DEV
+
+[Tableau3]
+	Nom = Résultat Solde
+	Type = Normal
+	Description = 40
+		 3010, RES-127, 0, 1, Critères Princ., 0, -1, 18, Arial, 10, 0, 0, 0, 0, 
+				 3020, RES-128, 0, 3, , 0, -1, 5, MS Sans serif, 9, 1, 0, 0, 0, 
+			 3030, RES-129, {4030}+{6050}+{1540}, 2, Chiffre d'affaires, 0, -1, 12, MS Sans serif, 10, 1, 0, 0, 1, /DEV
+				 3040, RES-130, 0, 3, , 0, -1, 3, MS Sans serif, 9, 1, 0, 0, 0, /DEV
+				 3050, RES-131, {2360}, 3, Marge brute globale, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+			 3060, RES-132, {2540}, 2, Excédent brut, 0, -1, 12, MS Sans serif, 10, 1, 0, 0, 1, /DEV
+				 3070, RES-133, [IMMORES-29]+[IMMORES-30]+[IMMORES-32]+[IMMORES-33]+{7120}, 3, Annuités, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 3080, RES-134, 0, 3, Annuités associés, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 3081, ***, [RSOC-415], 3, Rev. Ass. non expl., 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 3082, ***, [RSOC-481], 3, MAD, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+			 3090, RES-135, {3060}-{3070}-{3080}-{3081}+{3082}, 2, Revenu disponible, 0, -1, 12, MS Sans serif, 10, 1, 0, 0, 1, /DEV
+				 3100, RES-136, [RESIND-5], 3, Prélèvements, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 3110, RES-137, {3090}-{3100}, 3, Cap. int. de fin., 0, -1, 10, MS Sans serif, 9, 1, 0, 0, 0, /DEV
+				 3120, RES-138, 0, 3, , 0, -1, 5, MS Sans serif, 9, 1, 0, 0, 0, /DEV
+				 3130, RES-139, 0, 10, Sur le projet : => Investissement de [IMMORES-47:0] $. => Emprunt de [IMMORES-48:0] $.  => Subvention de [IMMORES-49:0] $., 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 3140, RES-140, 0, 3, , 0, -1, 5, MS Sans serif, 9, 1, 0, 0, 0, 
+				 3150, RES-141, {5120}, 3, Investissements, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 3160, RES-142, [IMMORES-45], 3, Emprunts, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 3170, RES-143, {5190}, 3, Subventions, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 3180, RES-144, 0, 3, , 0, -1, 5, MS Sans serif, 9, 1, 0, 0, 0, 
+				 3200, RES-145, {3090}/([RESDIV-6;2]), 3, Revenu dispo./Exploitant, 0, -1, 10, MS Sans serif, 9, 1, 0, 0, 0, /DEV
+				 3220, RES-146, 0, 3, , 0, -1, 5, MS Sans serif, 9, 1, 0, 0, 0, 
+				 3230, RES-147, 100*{2360}/{1550}, 3, M.B.G / produit |%, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, 
+				 3240, RES-148, 100*{2540}/{1550}, 3, E.B.E / produit |%, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, 
+				 3250, RES-149, 100*{3090}/{1550}, 3, R.D / produit |%, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, 
+				 3260, RES-150, 100*{3110}/{1550}, 3, Cap. int. de fin. / produit|%, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, 
+				 3270, RES-151, 0, 3, , 0, -1, 3, MS Sans serif, 9, 1, 0, 0, 0, 
+				 3290, ***, 0, 3, , 0, -1, 2, MS Sans serif, 9, 1, 0, 0, 0, 
+				 3300, RES-152, 100*({3070}+{3080})/{2540}, 3, Annuités / E.B.E|%, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, 
+				 3301, RES-153, 100*([IMMORES-30]+[IMMORES-32]+{3080})/{2540}, 3, Annuités(Hors CT) / E.B.E|%, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, 
+				 3310, RES-154, ({8200}+{8210})/({9200})|2, 3, Ratio de trésorerie, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, 
+				 3320, RES-155, 0, 3, Ratio de trésorerie ext., 0, -1, 0, MS Sans serif, 9, 0, 0, 0, 0, 
+				 3330, RES-156, ({9220}/{8240})*100, 3, Taux d'endettement|%, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, 
+				 3340, RES-157, 0, 3, Taux d'endettement ext.|%, 0, -1, 0, MS Sans serif, 9, 0, 0, 0, 0, 
+				 3350, RES-158, {9130}, 3, Dettes LMT, 0, -1, 0, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 3360, RES-159, {9200}-({9150}+{9180}), 3, Dettes CT, 0, -1, 0, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 3370, RES-160, {3350}+{3360}, 3, Endettement, 0, -1, 0, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 3380, RES-161, ({3060}-{4100}-{4110}-{4120}), 3, Cap. int. de fin., 0, -1, 0, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 3390, RES-162, 100*({3380}/{1550}), 3, Cap. int. de fin./produit, 0, -1, 0, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 3400, ***, 0, 3, 0, 0, -1, 0, MS Sans serif, 9, 0, 0, 0, 0, 
+
+[Tableau4]
+	Nom = Budget Annuel
+	Type = Normal
+	Description = 14
+		 4010, RES-163, 0, 1, Trésorerie, 0, -1, 18, Arial, 12, 0, 0, 0, 0, 
+				 4020, RES-164, 0, 3, , 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, 
+				 4030, RES-165, {1080}+{1130}+{1350}-{1340}+{1500}-{1490}+{1510}-{1502}-{1070}, 3, Ventes, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 4040, RES-166, {1540}, 3, Autres produits, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 4050, RES-167, {2300}+{2520}+[RESSAI-37]+[RESSAI-41], 3, Achats et frais, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/DEV
+				 4060, RES-168, {2340}-{5090}, 3, Achats animaux, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 4070, RES-169, 0, 3, , 0, -1, 5, MS Sans serif, 4, 0, 0, 0, 0, /DEV
+				 4080, RES-170, {4030}+{4040}-{4050}-{4060}, 3, Budget courant, 0, -1, 10, MS Sans serif, 9, 1, 0, 0, 0, /DEV
+				 4090, RES-171, 0, 3, , 0, -1, 10, MS Sans serif, 9, 1, 0, 0, 0, /DEV
+				 4100, RES-172, [IMMORES-30], 3, Annuités, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 4110, RES-173, [IMMORES-29]+[IMMORES-32]+[IMMORES-33], 3, Autres frais finan., 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 4120, RES-174, [RESIND-5], 3, Prélèvements, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 4130, RES-175, 0, 3, , 0, -1, 10, MS Sans serif, 9, 1, 0, 0, 0, /DEV
+			 4140, RES-176, {4080}-{4100}-{4110}-{4120}, 2, Budget annuel, 0, -1, 14, Arial, 10, 1, 1, 0, 1, /DEV
+
+[Tableau5]
+	Nom = Budget Exceptionnel
+	Type = Normal
+	Description = 24
+		 5010, RES-177, 0, 1, Trésorerie, 0, -1, 18, Arial, 12, 0, 0, 0, 0, 
+				 5020, RES-178, 0, 3, , 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, 
+				 5030, RES-179, [IMMORES-6], 3, Frais d'établissement, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 5040, RES-180, [IMMORES-1], 3, Terrains, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 5050, RES-181, [Cltp-35]+[IMMORES-93], 3, Plantations, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /ZERO/DEV
+				 5060, RES-182, [IMMORES-2], 3, Aménagements, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /ZERO/DEV
+				 5070, RES-183, [IMMORES-3], 3, Constructions, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 5080, RES-184, [IMMORES-5]+[IMMORES-4], 3, Matériel, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 5090, RES-185, [VLRES-15]+[VLRES-16]+[OLRES-14]+[OLRES-15]+[CHRES-14]+[CHRES-15]+[OVRes-13]+[OVRes-14]+[VARes-13]+[VARes-14], 3, Cheptel, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 5100, RES-186, [IMMORES-7]+[IMMORES-38], 3, Autres invest., 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 5110, RES-187, 0, 3, , 0, -1, 5, MS Sans serif, 9, 1, 0, 0, 0, /DEV
+				 5111, RES-188, [IMMORES-53], 3, Revente matériel, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /ZERO/DEV
+				 5112, RES-189, [IMMORES-54], 3, Revente autres, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 5113, RES-190, 0, 3, , 0, -1, 5, MS Sans serif, 9, 1, 0, 0, 0, /DEV
+				 5120, RES-191, {5030}+{5040}+{5050}+{5060}+{5070}+{5080}+{5090}+{5100}-{5111}-{5112}, 3, Investissements, 0, -1, 10, MS Sans serif, 9, 1, 0, 0, 0, /DEV
+				 5130, RES-192, 0, 3, , 0, -1, 10, MS Sans serif, 9, 1, 0, 0, 0, /DEV
+				 5140, RES-193, [IMMORES-24]+[IMMORES-25], 3, Emprunts LMT, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 5150, RES-194, [IMMORES-39], 3, Remb. prêts / anticip., 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 5160, RES-195, 0, 3, , 0, -1, 5, MS Sans serif, 9, 1, 0, 0, 0, /DEV
+				 5170, RES-196, {5140}-{5150}, 3, Emprunts, 0, -1, 10, MS Sans serif, 9, 1, 0, 0, 0, /DEV
+				 5180, RES-197, 0, 3, , 0, -1, 10, MS Sans serif, 9, 1, 0, 0, 0, /DEV
+				 5190, RES-198, [IMMORES-46], 3, Subventions, 0, -1, 10, MS Sans serif, 9, 1, 0, 0, 0, /DEV
+				 5200, RES-199, 0, 3, , 0, -1, 10, MS Sans serif, 9, 1, 0, 0, 0, /DEV
+			 5210, RES-200, {5170}-{5120}+{5190}, 2, Budget exceptionnel, 0, -1, 14, Arial, 10, 1, 1, 0, 1, /DEV
+
+[Tableau6]
+	Nom = Budget TVA Trésorerie
+	Type = Normal
+	Description = 18
+		 6010, RES-201, 0, 1, Trésorerie, 0, -1, 18, Arial, 12, 0, 0, 0, 0, 
+				 6020, RES-202, 0, 3, , 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, 
+				 6030, RES-203, [IMMORES-52]+[CLTP-78], 3, TVA / immobilisations, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 6040, RES-204, <DON:11440>, 3, TVA / achats, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 6050, RES-205, <DON:10270>, 3, TVA / ventes, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 6060, RES-206, 0, 3, Remb. régularisation, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /CALC/DEV
+				 6070, RES-207, 0, 3, Acomptes, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /CALC/DEV
+				 6080, RES-208, 0, 3, , 0, -1, 5, MS Sans serif, 9, 1, 0, 0, 0, /DEV
+			 6090, RES-209, 0, 2, Budget TVA, 0, -1, 14, Arial, 10, 1, 0, 0, 0, /CALC/DEV
+				 6100, RES-210, 0, 3, , 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 6110, RES-211, [RESSAI-6], 3, VI comptes clients, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 6120, RES-212, [RESSAI-15], 3, VI comptes fourni., 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 6130, RES-213, [IMMORES-26], 3, Emprunts CT, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 6140, RES-214, [IMMORES-40], 3, Remb. emprunts CT, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 6150, RES-215, 0, 3, Prélèvements except., 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /ZERO/DEV
+				 6160, RES-216, 0, 3, Apports except., 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /ZERO/DEV
+				 6161, RES-217, 0, 3, , 0, -1, 5, MS Sans serif, 9, 1, 0, 0, 0, 
+			 6170, RES-218, {6120}-{6110}+{6130}-{6140}-{6150}+{6160}, 2, Situation court terme, 0, -1, 14, Arial, 10, 1, 1, 0, 1, /DEV
+
+[Tableau7]
+	Nom = Budget Solde
+	Type = Normal
+	Description = 14
+		 7010, RES-219, 0, 1, Trésorerie, 0, -1, 18, Arial, 12, 0, 0, 0, 0, 
+				 7020, RES-220, 0, 3, , 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, 
+				 7030, RES-221, {4140}, 3, Budget annuel, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 7040, RES-222, {5210}, 3, Budget invest.- financ., 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 7050, RES-223, {6090}, 3, Budget TVA, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 7060, RES-224, {6170}, 3, Situation à court terme, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 7070, RES-225, 0, 3, , 0, -1, 5, MS Sans serif, 9, 1, 0, 0, 0, /DEV
+			 7080, RES-226, {7030}+{7040}+{7050}+{7060}, 2, Budget total, 0, -1, 14, Arial, 10, 1, 0, 0, 0, /DEV
+				 7090, RES-227, 0, 3, , 0, -1, 10, MS Sans serif, 9, 1, 0, 0, 0, /DEV
+			 7100, RES-228, 0, 2, Solde début, 0, -1, 14, Arial, 10, 1, 0, 0, 0, /CALC/DEV
+				 7110, RES-229, 0, 3, , 0, -1, 10, MS Sans serif, 9, 1, 0, 0, 0, /DEV
+			 7120, RES-230, 0, 2, Intérêts / découvert, 0, -1, 14, Arial, 10, 1, 0, 0, 4, /CALC/DEV
+				 7130, RES-231, 0, 3, , 0, -1, 10, MS Sans serif, 9, 1, 0, 0, 0, /DEV
+			 7140, RES-232, 0, 2, Solde cumulé, 0, -1, 14, Arial, 11, 1, 1, 0, 1, /CALC/DEV
+
+[Tableau8]
+	Nom = Bilan Actif
+	Type = Bilan
+	Description = 24
+		 8010, RES-233, 0, 1, Actif, 0, -1, 18, Arial, 12, 0, 0, 0, 0, 
+				 8020, RES-234, [IMMORES-20], 3, Immo. incorporelles, 0, -1, 11, Arial, 9, 1, 0, 0, 0, /DEV/TRESO=Actif;1010101;1
+		 8030, RES-235, [IMMORES-15], 4, Terrains, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV/TRESO=Actif;101010201;1
+		 8040, RES-236, [Cltp-53]+[IMMORES-95], 4, Plantations, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /ZERO/DEV/TRESO=Actif;101010202;1
+		 8050, RES-237, [IMMORES-16], 4, Aménag. fonciers, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /ZERO/DEV/TRESO=Actif;101010203;1
+		 8060, RES-238, [IMMORES-17], 4, Constructions, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV/TRESO=Actif;101010204;1
+		 8070, RES-239, [IMMORES-18]+[IMMORES-19], 4, Matériel et outillage, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV/TRESO=Actif;101010205;1
+				 8080, RES-240, {8030}+{8040}+{8050}+{8060}+{8070}, 3, Immo. corporelles, 0, -1, 11, Arial, 9, 1, 0, 0, 0, /DEV/TRESO=Actif;1010102;0
+				 8090, RES-241, [IMMORES-21]+[IMMORES-55], 3, Immo. financières, 0, -1, 11, Arial, 9, 1, 0, 0, 0, /DEV/TRESO=Actif;1010103;1
+				 8100, RES-242, [VLRes-13]+[OLRes-12]+[CHRes-12]+[OVRes-11]+[VARes-11]+[PORCRES-15], 3, Animaux reproducteurs, 0, -1, 11, Arial, 9, 1, 0, 0, 0, /DIV/DEV/TRESO=Actif;1010104;1
+			 8110, RES-243, {8020}+{8080}+{8090}+{8100}, 2, ACTIF IMMOBILISE, 0, -1, 12, Arial, 10, 1, 1, 0, 0, /DEV/TRESO=Actif;10101;0
+		 8120, RES-244, [VLRes-14]+[OLRes-13]+[CHRes-13]+[OVRes-12]+[VARes-12]+[PORCRES-16], 4, Stocks animaux, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/DEV/TRESO=Actif;101020101;1
+		 8130, RES-245, [RESSAI-40], 4, Avances aux cultures, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV/TRESO=Actif;101020102;1
+		 8140, RES-246, [RESSAI-32]+[CULT-43]+[CULT-44]+[CULT-45]+[CLTP-79]+[CLTP-81], 4, Stocks végétaux, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/DEV/TRESO=Actif;101020103;1
+		 8150, RES-247, [RESSAI-36]+[PORCRES-17], 4, Stocks appro., 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/DEV/TRESO=Actif;101020104;1
+				 8160, RES-248, {8120}+{8130}+{8140}+{8150}, 3, Stocks, 0, -1, 11, Arial, 9, 1, 0, 0, 0, /DEV/TRESO=Actif;1010201;0
+		 8170, RES-249, [RESSAI-4], 4, Créances clients, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DIV/DEV/TRESO=Actif;101020201;1
+		 8180, RES-250, 0, 4, Etat, 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /CALC/DEV/TRESO=Actif;101020202;1
+		 8190, RES-251, 0, 4, Comptes courants asso., 0, -1, 10, MS Sans serif, 9, 0, 0, 0, 0, /DEV
+				 8200, RES-252, {8170}+{8180}+{8190}, 3, Créances, 0, -1, 11, Arial, 9, 1, 0, 0, 0, /DEV/TRESO=Actif;1010202;0
+				 8210, RES-253, 0, 3, Disponible, 0, -1, 11, Arial, 9, 1, 0, 0, 0, /CALC/DEV/TRESO=Actif;1010203;1
+			 8220, RES-254, {8160}+{8200}+{8210}, 2, ACTIF CIRCULANT, 0, -1, 12, Arial, 10, 1, 1, 0, 0, /DEV/TRESO=Actif;10102;0
+				 8230, RES-255, 0, 3, , 0, -1, 3, Arial, 9, 0, 0, 0, 0, /DEV
+			 8240, RES-256, {8110}+{8220}, 2, TOTAL ACTIF, 0, -1, 12, Arial, 10, 1, 1, 0, 0, /DEV/TRESO=Actif;101;0
+
+[Tableau9]
+	Nom = Bilan passif
+	Type = Bilan
+	Description = 25
+		 9010, RES-257, 0, 1, PASSIF, 0, -1, 18, Arial, 12, 0, 0, 0, 0, 
+				 9020, RES-258, 0, 3, , 0, -1, 12, Arial, 9, 0, 0, 0, 0, 
+				 9030, RES-259, 0, 3, Capital social, 0, -1, 12, Arial, 9, 1, 0, 0, 0, /DEV/TRESO=Passif;1020101;1
+				 9040, RES-260, 0, 3, Capital ind., 0, -1, 12, Arial, 9, 1, 0, 0, 0, /DEV/TRESO=Passif;1020102;1
+				 9041, RES-281, 0, 3, Réserves, 0, -1, 12, Arial, 9, 1, 0, 0, 0, /DEV
+				 9050, RES-261, 0, 3, Report à nouveau, 0, -1, 12, MS Sans serif, 9, 1, 0, 0, 0, /DEV/TRESO=Passif;1020103;1
+				 9060, RES-262, -{4120}, 3, Compte de l'exploitant, 0, -1, 12, Arial, 9, 1, 0, 0, 0, /DEV/TRESO=Passif;1020104;1
+				 9070, RES-263, {2680}, 3, Résultat, 0, -1, 12, MS Sans serif, 9, 1, 0, 0, 0, /DEV/TRESO=Passif;1020105;1
+				 9080, RES-264, [IMMORES-43]+[cltp-59], 3, Subventions d'équip., 0, -1, 12, MS Sans serif, 9, 1, 0, 0, 0, /DEV/TRESO=Passif;1020106;1
+				 9090, RES-265, 0, 3, , 0, -1, 3, Arial, 9, 0, 0, 0, 0, /DEV
+			 9100, RES-266, 0, 2, CAPITAUX PROPRES, 0, -1, 12, Arial, 10, 1, 1, 0, 0, /DEV/TRESO=Passif;10201;0
+				 9110, RES-267, 0, 3, , 0, -1, 5, Arial, 9, 0, 0, 0, 0, /DEV
+		 9120, RES-268, 0, 4, Comptes bloqués asso., 0, -1, 11, MS Sans serif, 9, 0, 0, 0, 0, /DEV/TRESO=Passif;102020101;1
+		 9130, RES-269, [IMMORES-34]+[IMMORES-35], 4, Emprunts exploitation LMT, 0, -1, 11, MS Sans serif, 9, 0, 0, 0, 0, /DEV/TRESO=Passif;102020102;1
+				 9140, RES-270, {9120}+{9130}, 3, Dettes LMT, 0, -1, 12, MS Sans serif, 9, 1, 0, 0, 0, /DEV/TRESO=Passif;1020201;0
+		 9150, RES-271, 0, 4, Comptes courants asso., 0, -1, 9, MS Sans serif, 9, 0, 0, 0, 0, /DEV/TRESO=Passif;102020201;1
+		 9160, RES-272, [IMMORES-36], 4, Emprunts court-terme, 0, -1, 11, MS Sans serif, 9, 0, 0, 0, 0, /DEV/TRESO=Passif;102020202;1
+		 9170, RES-273, [RESSAI-12], 4, Dettes fournisseurs, 0, -1, 9, MS Sans serif, 9, 0, 0, 0, 0, /DIV/DEV/TRESO=Passif;102020203;1
+		 9180, RES-274, 0, 4, Etat, 0, -1, 11, MS Sans serif, 9, 0, 0, 0, 0, /CALC/DEV/TRESO=Passif;102020204;1
+		 9190, RES-275, 0, 4, Découvert bancaire, 0, -1, 11, MS Sans serif, 9, 0, 0, 0, 0, /CALC/ZERO/DEV/TRESO=Passif;102020205;1
+				 9200, RES-276, {9150}+{9160}+{9170}+{9180}+{9190}, 3, Dettes CT, 0, -1, 12, Arial, 10, 1, 0, 0, 0, /DEV/TRESO=Passif;1020202;0
+				 9210, RES-277, 0, 3, , 0, -1, 3, Arial, 9, 0, 0, 0, 0, /DEV
+			 9220, RES-278, {9140}+{9200}, 2, DETTES TOTALES, 0, -1, 12, Arial, 10, 1, 1, 0, 0, /DEV/TRESO=Passif;10202;0
+				 9230, RES-279, 0, 3, , 0, -1, 3, Arial, 9, 0, 0, 0, 0, /DEV
+			 9240, RES-280, 0, 2, TOTAL PASSIF, 0, -1, 12, Arial, 10, 1, 1, 0, 0, /CALC/DEV/TRESO=Passif;102;0
+
+[Tableau10]
+	Nom = 1 TVA From 1
+	Type = TVA
+	Description = 27
+				 10010, Enr, <TVA:1020> , 3, TVA Cult. annuelles, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 10020, Enr, <TVA:1030> , 3, TVA Fourrages, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 10030, Enr, <TVA:1040> , 3, TVA Cult. maraîchères, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 10040, Enr, <TVA:1050> , 3, TVA Cult. pérennes, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 10050, Enr, <TVA:1090> , 3, TVA toto, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 10060, Enr, <TVA:1100> , 3, TVA Lait de chèvres, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 10070, Enr, <TVA:1110> , 3, TVA Lait de brebis, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 10080, Enr, <TVA:1120> , 3, TVA Autres produits laitiers, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 10090, Enr, <TVA:1170> , 3, TVA Bovins lait, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 10100, Enr, <TVA:1200> , 3, TVA Bovins viande, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 10110, Enr, <TVA:1240> , 3, TVA Ovins, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 10120, Enr, <TVA:1280> , 3, TVA Caprins, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 10130, Enr, <TVA:1330> , 3, TVA Porcs, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 10140, Enr, <TVA:1370> , 3, TVA Produits div. 1, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 10150, Enr, <TVA:1380> , 3, TVA Produits div. 2, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 10160, Enr, <TVA:1390> , 3, TVA Produits div. 3, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 10170, Enr, <TVA:1400> , 3, TVA Produits div. 4, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 10180, Enr, <TVA:1410> , 3, TVA Produits div. 5, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 10190, Enr, <TVA:1420> , 3, TVA Produits div. 6, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 10200, Enr, <TVA:1430> , 3, TVA Produits div. 7, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 10210, Enr, <TVA:1440> , 3, TVA Produits div. 8, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 10220, Enr, <TVA:1450> , 3, TVA Produits div. 9, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 10230, Enr, <TVA:1460> , 3, TVA Produits div. 10, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 10240, Enr, <TVA:1480> , 3, TVA , 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 10250, Enr, <TVA:1501> , 3, TVA Vente transfo., 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 10260, Enr, <TVA:1540> , 3, TVA Sub. d'exploitation, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 10270, Enr, 0 , 2, Total TVA Vente, 0, -1, 12, Arial, 9, 1, 1, 0, 0, 
+
+[Tableau11]
+	Nom = 2 TVA From 2
+	Type = TVA
+	Description = 44
+				 11010, Enr, <TVA:2030> , 3, TVA Engrais, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11020, Enr, <TVA:2040> , 3, TVA Semences et plants, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11030, Enr, <TVA:2050> , 3, TVA Produits traitement, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11040, Enr, <TVA:2060> , 3, TVA Travaux entreprise, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11050, Enr, <TVA:2070> , 3, TVA Taxes et cot. prof., 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11060, Enr, <TVA:2080> , 3, TVA Divers cultures, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11070, Enr, <TVA:2100> , 3, TVA Aliments, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11080, Enr, <TVA:2110> , 3, TVA Aliments divers, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11090, Enr, <TVA:2120> , 3, TVA Frais vétérinaires, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11100, Enr, <TVA:2130> , 3, TVA Divers animaux, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11110, Enr, <TVA:2140> , 3, TVA Achats cult. alt., 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11120, Enr, <TVA:2150> , 3, TVA Achats fourrages, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11130, Enr, <TVA:2170> , 3, TVA Autres charges opé., 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11140, Enr, <TVA:2180> , 3, TVA Charges transfo., 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11150, Enr, <TVA:2190> , 3, TVA Charges div. 1, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11160, Enr, <TVA:2200> , 3, TVA Charges div. 2, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11170, Enr, <TVA:2210> , 3, TVA Charges div. 3, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11180, Enr, <TVA:2220> , 3, TVA Charges div. 4, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11190, Enr, <TVA:2230> , 3, TVA Charges div. 5, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11200, Enr, <TVA:2240> , 3, TVA Charges div. 6, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11210, Enr, <TVA:2250> , 3, TVA Charges div. 7, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11220, Enr, <TVA:2260> , 3, TVA Charges div. 8, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11230, Enr, <TVA:2270> , 3, TVA Charges div. 9, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11240, Enr, <TVA:2280> , 3, TVA Charges act. div., 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11250, Enr, <TVA:2290> , 3, TVA Achats produits, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11260, Enr, <TVA:2340> , 3, TVA Achats animaux, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11270, Enr, <TVA:2380> , 3, TVA Carburants-lubrifiants, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11280, Enr, <TVA:2390> , 3, TVA Eau-électricité, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11290, Enr, <TVA:2400> , 3, TVA Fermages, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11300, Enr, <TVA:2410> , 3, TVA Locations diverses, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11310, Enr, <TVA:2420> , 3, TVA Ent. bâtiment-foncier, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11320, Enr, <TVA:2430> , 3, TVA Entretien matériel, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11330, Enr, <TVA:2440> , 3, TVA Assurances, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11340, Enr, <TVA:2450> , 3, TVA Transport-déplacements, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11350, Enr, <TVA:2460> , 3, TVA Téléphone-abonnement, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11360, Enr, <TVA:2470> , 3, TVA Cotisations prof., 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11370, Enr, <TVA:2480> , 3, TVA Impôts fonciers, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11380, Enr, <TVA:2490> , 3, TVA Autres impôts et taxes, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11390, Enr, <TVA:2491> , 3, TVA Divers, 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11400, Enr, <TVA:2511> , 3, TVA Charges soc. expl., 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11410, Enr, <TVA:2512> , 3, TVA Salaires du pers., 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11420, Enr, <TVA:2513> , 3, TVA Charges soc. sal., 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11430, Enr, <TVA:2514> , 3, TVA Autres charges sal., 0, -1, 8, Arial, 7, 0, 0, 0, 0, /ZERO/DEV
+				 11440, Enr, 0 , 2, Total TVA Achat, 0, -1, 12, Arial, 9, 1, 1, 0, 0, 
+

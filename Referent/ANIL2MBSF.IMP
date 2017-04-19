@@ -1,0 +1,77 @@
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Marge brute TitreModuleEnCour
+CommentPage = Marge brute TitreModuleEnCour
+
+	[Text]
+		Text = Marge brute et répartition surface fourragère
+		PosX = 30
+		PoxY = 35
+		Police= Arial,12,1,0,0
+
+	[Tableau]
+		titre= Répartition surface
+		PosX = 30
+		PoxY = 60
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 21
+			{MBSFR-161,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSFR-162,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSFR-163,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSFR-164,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSFR-165,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSFR-166,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSFR-167,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSFR-168,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSFR-169,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSFR-170,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSFR-171,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSFR-172,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSFR-173,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSFR-174,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSFR-175,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSFR-176,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSFR-177,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSFR-178,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSFR-179,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{MBSFR-180, Surface , 2, 7, 14, Arial, 12, 1, 1, 0}
+
+
+	[Tableau]
+		titre= Marge brute
+		PosX = 30
+		PoxY = 1
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 16
+			{MBSF-261, Surface  , 0, -1, 12, Arial, 10, 1, 0, 0}
+			{MBSF-262, UGB, 0, -1, 12, Arial, 10, 1, 0, 0}
+			{MBSF-263, Chargement, 0, -1, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{MBSF-264, Marge animale, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{MBSF-265, Vente de fourrage, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSF-266, Achat de fourrage, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSF-267, Primes/divers SF, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{MBSF-268, Produit SFP, 2, 7, 14, Arial, 12, 1, 1, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{MBSF-269, Charges SFP, 2, 7, 14, Arial, 12, 1, 1, 0}
+			{[MBSF-269]/[MBSF-261], Charges SFP/HA, 2, 7, 14, Arial, 12, 1, 1, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{MBSF-270, Marge brute, 2, 7, 14, Arial, 12, 1, 1, 0}
+			{MBSF-271, Marge brute/Ha, 2, 7, 14, Arial, 12, 1, 1, 0}
+
+
+
+[Fin Doc]
+

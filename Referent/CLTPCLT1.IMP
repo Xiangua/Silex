@@ -1,0 +1,78 @@
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Cultures pérennes
+
+	[Tableau]
+		titre=
+		PosX = 30
+		PoxY = 70
+		StyleTableau= 2
+		Largeur1Col= 40
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 4
+			{CltP#-1, Surface occupée, 2, 7, 14, Arial, 11, 1, 1, 0}
+			{CltP#-5, Quantité produite, 2, 7, 14, Arial, 11, 1, 1, 0}
+			{Cltpt#-27, Rdt moyen, 2, 7, 14, Arial, 11, 1, 1, 0}
+			{CltP#-6, Prix moyen, 2, 7, 14, Arial, 11, 1, 1, 0}
+
+	[Tableau]
+		titre= Produits
+		PosX = 30
+		PoxY =
+		StyleTaBleau= 2
+		Largeur1Col= 40
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 6
+			{CltP#-7, Production vendue, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-11, Production cédée, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltPt#-42, Variation inventaire, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-12, Primes et sous produits, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-13, Produits, 2, 7, 14, Arial, 11, 1, 1, 0}
+			{CltP#-14, *, 2, 7, 14, Arial, 11, 1, 1, 0}
+
+	[Tableau]
+		titre= Charges
+		PosX = 30
+		PoxY =
+		StyleTableau= 2
+		Largeur1Col= 40
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 14
+			{CltP#-15, Engrais amendement, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-16, Plants remplacement, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-17, Produits traitements, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-18, Trvx par tiers, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-19, Taxes et cot. prof., 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-20, Entretien irrigation, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-21, Eau énergie, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-22, Assurance, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-23, Fournitures, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-24, Entretien palissage, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-58, Main d'oeuvre, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-35, Amortissements, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-26, Charges , 2, 7, 14, Arial, 11, 1, 1, 0}
+			{CltP#-27, *, 2, 7, 14, Arial, 11, 1, 1, 0}
+
+	[Tableau]
+		titre= Marge
+		PosX = 30
+		PoxY =
+		StyleTableau= 2
+		Largeur1Col= 40
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 2
+			{CltP#-28, Marge semi-directe, 2, 7, 14, Arial, 11, 1, 1, 0}
+			{CltP#-29, *, 2, 7, 14, Arial, 11, 1, 1, 0}
+
+[Fin Doc]
+

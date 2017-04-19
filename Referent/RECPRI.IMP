@@ -1,0 +1,173 @@
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Récapitulatif subventions d'exploitation
+CommentPage = Récapitulatif prime
+
+	[Tableau]
+		titre= Sub. expl. animaux
+		PosX = 30
+		PoxY = 35
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 60
+			{PRIAni-1,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-2,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-3,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-4,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-5,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-6,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-7,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-9,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-10,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-11,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-12,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-13,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-14,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-15,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-16,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-17,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-18,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-19,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-20,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-21,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-22,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-23,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-24,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-25,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-26,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-27,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-28,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-29,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-30,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-31,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-32,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-33,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-34,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-35,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-36,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-37,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-38,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-39,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-40,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-41,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-42,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-43,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-44,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-45,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-46,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-47,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-48,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-49,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-50,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-51,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-52,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-53,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-54,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-55,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-56,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{PRIAni-57,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{PRIAni-102,Total primes ani., 2, 7, 12, Arial, 10, 1, 0, 0}
+			{Primes-2,*, 2, 7, 12, Arial, 10, 1, 0, 0,/VIS}
+
+
+	[Tableau]
+		titre= Sub. expl. cultures
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 45
+			{CPRI1-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI2-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI3-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI4-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI5-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI6-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI7-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI8-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI9-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI10-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI11-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI12-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI13-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI14-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI15-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI16-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI17-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI18-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI19-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI20-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{CULT-100,*, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{CPRI101-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI102-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI103-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI104-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI105-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI106-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI107-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI108-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI109-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI110-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI111-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI112-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI113-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI114-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI115-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI116-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI117-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI118-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI119-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI120-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{CULT-101,*, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+	[Tableau]
+		titre=
+		PosX = 30
+		PoxY = 2
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 24
+			{CPRI201-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI202-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI203-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI204-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI205-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI206-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI207-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI208-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI209-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI210-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI211-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI212-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI213-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI214-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI215-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI216-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI217-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI218-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI219-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CPRI220-8,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{CULT-102,*, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{[CULT-100]+[CULT-101]+[CULT-102],Total primes cult., 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+
+[Fin Doc]
+

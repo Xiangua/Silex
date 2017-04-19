@@ -1,0 +1,9 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TR|25 Jun 2002 09:16:16 -0000
+vti_extenderversion:SR|4.0.2.2717
+vti_nexttolasttimemodified:TR|25 Jun 2002 09:16:16 -0000
+vti_author:SR|file1
+vti_nosourcecontrol:SR|True
+vti_modifiedby:SR|file1
+vti_timecreated:TR|25 Jun 2002 09:16:14 -0000
+vti_backlinkinfo:VX|

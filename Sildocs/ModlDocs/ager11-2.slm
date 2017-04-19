@@ -1,0 +1,564 @@
+{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff0\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1036\deflangfe1036{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f10\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}
+{\f36\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}Monotype Sorts;}{\f198\froman\fcharset238\fprq2 Times New Roman CE;}{\f199\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f201\froman\fcharset161\fprq2 Times New Roman Greek;}
+{\f202\froman\fcharset162\fprq2 Times New Roman Tur;}{\f203\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f204\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f205\froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\f206\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f208\fswiss\fcharset238\fprq2 Arial CE;}{\f209\fswiss\fcharset204\fprq2 Arial Cyr;}{\f211\fswiss\fcharset161\fprq2 Arial Greek;}{\f212\fswiss\fcharset162\fprq2 Arial Tur;}
+{\f213\fbidi \fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f214\fbidi \fswiss\fcharset178\fprq2 Arial (Arabic);}{\f215\fswiss\fcharset186\fprq2 Arial Baltic;}{\f216\fswiss\fcharset163\fprq2 Arial (Vietnamese);}
+{\f218\fmodern\fcharset238\fprq1 Courier New CE;}{\f219\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f221\fmodern\fcharset161\fprq1 Courier New Greek;}{\f222\fmodern\fcharset162\fprq1 Courier New Tur;}
+{\f223\fbidi \fmodern\fcharset177\fprq1 Courier New (Hebrew);}{\f224\fbidi \fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f225\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f226\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;
+\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red255\green255\blue255;\red230\green230\blue230;}{\stylesheet{\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 
+\rtlch \af0\afs24\alang1025 \ltrch \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \snext0 \styrsid661145 Normal;}{\s1\ql \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin0\itap0 \rtlch \ab\af0\afs28\alang1025 
+\ltrch \b\scaps\fs28\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext0 \styrsid661145 heading 1;}{\s2\ql \li0\ri0\sb240\sa60\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \rtlch 
+\ab\ai\af1\afs28\alang1025 \ltrch \b\i\f1\fs28\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext0 \styrsid8665918 heading 2;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch \af0\afs20 \ltrch \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{
+\s15\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch \ab\af0\afs24\alang1025 \ltrch \b\fs24\cf6\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext15 \styrsid10371920 Body Text;}}{\*\listtable
+{\list\listtemplateid-1751097686\listhybrid{\listlevel\levelnfc255\levelnfcn255\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\leveltext\leveltemplateid-1658049804\'01\u-3856 ?;}{\levelnumbers;}\rtlch \af10\afs24 \ltrch 
+\f10\fs24\fbias0 \fi-360\li1260\jclisttab\tx900\lin1260 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1980
+\jclisttab\tx1980\lin1980 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2700\jclisttab\tx2700\lin2700 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li3420\jclisttab\tx3420\lin3420 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li4140\jclisttab\tx4140\lin4140 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4860\jclisttab\tx4860\lin4860 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5580\jclisttab\tx5580\lin5580 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0
+{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li6300\jclisttab\tx6300\lin6300 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67895301
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li7020\jclisttab\tx7020\lin7020 }{\listname ;}\listid189220988}}{\*\listoverridetable{\listoverride\listid189220988\listoverridecount0\ls1}}{\*\pgptbl {\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}}
+{\*\rsidtbl \rsid609593\rsid661145\rsid1048758\rsid1075743\rsid1139763\rsid1342631\rsid1525894\rsid1653077\rsid2435034\rsid4600250\rsid4672753\rsid5008117\rsid5586149\rsid5594153\rsid6118939\rsid6567924\rsid6951708\rsid7145379\rsid8016460\rsid8665918
+\rsid9640373\rsid9718326\rsid10049698\rsid10103122\rsid10371920\rsid10582108\rsid10695542\rsid11868133\rsid11997315\rsid12852353\rsid13061310\rsid13445604\rsid13700868\rsid13846355\rsid14501003\rsid14684151\rsid14825290\rsid15022194\rsid15537462
+\rsid15802572\rsid15933178\rsid16080916}{\*\generator Microsoft Word 10.0.2627;}{\info{\title #slx(OrgaLogo0)#}{\author CER43}{\operator CER43}{\creatim\yr2006\mo4\dy25\hr15\min43}{\revtim\yr2006\mo4\dy28\hr16\min21}{\version39}{\edmins84}{\nofpages20}
+{\nofwords7831}{\nofchars43075}{\*\company CER43}{\nofcharsws50805}{\vern16437}}\paperw11906\paperh16838\margl1417\margr1417\margt1417\margb1417\ltrsect 
+\deftab708\widowctrl\ftnbj\aenddoc\hyphhotz425\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\formshade\horzdoc\dgmargin\dghspace180\dgvspace180\dghorigin1417\dgvorigin1417\dghshow1\dgvshow1
+\jexpand\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\splytwnine\ftnlytwnine\htmautsp\nolnhtadjtbl\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\allowfieldendsel\wrppunct\asianbrkrule\rsidroot661145 \fet0\ltrpar 
+\sectd \ltrsect\linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3
+\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+\trowd \irow0\irowband0\lastrow \ltrrow\ts11\trgaph70\trleft-70\trftsWidth1\trautofit1\trpaddl70\trpaddr70\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone 
+\cltxlrtb\clftsWidth3\clwWidth3490\clshdrawnil \cellx3420\clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth5722\clshdrawnil \cellx9142\pard\plain \ltrpar
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid1653077 \rtlch \af0\afs24\alang1025 \ltrch \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \af0 \ltrch \insrsid661145 #slx(OrgaLogo0)#\cell }\pard \ltrpar
+\qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid1653077 {\rtlch \ab\af0\afs28 \ltrch \b\fs28\insrsid661145 #slx(OrgaNom0)#
+\par #slx(OrgaRue0)# - #slx(OrgaVille0)#
+\par }{\rtlch \ab\af0\afs28 \ltrch \b\fs28\lang2057\langfe1036\langnp2057\insrsid661145 {\field{\*\fldinst SYMBOL 40 \\f "Wingdings" \\s 14}{\fldrslt\f10\fs28}}}{\rtlch \ab\af0\afs28 \ltrch \b\fs28\lang2057\langfe1036\langnp2057\insrsid661145 
+#slx(OrgaTel0)#   }{\rtlch \ab\af0\afs28 \ltrch \b\fs28\lang2057\langfe1036\langnp2057\insrsid661145 {\field{\*\fldinst SYMBOL 58 \\f "Wingdings" \\s 14}{\fldrslt\f10\fs28}}}{\rtlch \ab\af0\afs28 \ltrch 
+\b\fs28\lang2057\langfe1036\langnp2057\insrsid661145  #slx(OrgaFax0)#}{\rtlch \af0 \ltrch \lang2057\langfe1036\langnp2057\insrsid661145 \cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch \af0 \ltrch 
+\lang2057\langfe1036\langnp2057\insrsid661145 \trowd \irow0\irowband0\lastrow \ltrrow\ts11\trgaph70\trleft-70\trftsWidth1\trautofit1\trpaddl70\trpaddr70\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone 
+\cltxlrtb\clftsWidth3\clwWidth3490\clshdrawnil \cellx3420\clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth5722\clshdrawnil \cellx9142\row }\pard \ltrpar
+\qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid661145 {\rtlch \af0 \ltrch \insrsid661145 ___________________________________________________________________________
+\par 
+\par }\trowd \irow0\irowband0\lastrow \ltrrow\ts11\trqc\trgaph70\trrh397\trleft-70\trbrdrt\brdrengrave\brdrw60 \trbrdrl\brdrengrave\brdrw60 \trbrdrb\brdremboss\brdrw60 \trbrdrr\brdremboss\brdrw60 \trftsWidth1\trautofit1\trpaddl70\trpaddr70\trpaddfl3\trpaddfr3 
+\clvertalc\clbrdrt\brdrengrave\brdrw60 \clbrdrl\brdrengrave\brdrw60 \clbrdrb\brdremboss\brdrw60 \clbrdrr\brdremboss\brdrw60 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth9212\clcbpatraw18 \cellx9142\pard \ltrpar
+\qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid1653077 {\rtlch \ab\af0\afs32 \ltrch \b\fs32\insrsid661145 DOCUMENT DE SYNTHESE\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 
+{\rtlch \ab\af0\afs32 \ltrch \b\fs32\insrsid661145 \trowd \irow0\irowband0\lastrow \ltrrow\ts11\trqc\trgaph70\trrh397\trleft-70\trbrdrt\brdrengrave\brdrw60 \trbrdrl\brdrengrave\brdrw60 \trbrdrb\brdremboss\brdrw60 \trbrdrr\brdremboss\brdrw60 
+\trftsWidth1\trautofit1\trpaddl70\trpaddr70\trpaddfl3\trpaddfr3 \clvertalc\clbrdrt\brdrengrave\brdrw60 \clbrdrl\brdrengrave\brdrw60 \clbrdrb\brdremboss\brdrw60 \clbrdrr\brdremboss\brdrw60 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth9212\clcbpatraw18 
+\cellx9142\row }\pard \ltrpar\ql \li5220\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin5220\itap0\pararsid661145 {\rtlch \af0 \ltrch \insrsid661145 
+\par }\trowd \irow0\irowband0\lastrow \ltrrow\ts11\trgaph70\trrh1230\trleft5150\trftsWidth1\trautofit1\trpaddl70\trpaddr70\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone 
+\cltxlrtb\clftsWidth3\clwWidth3992\clshdrawnil \cellx9142\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid1653077 {\rtlch \ab\af0\afs26 \ltrch \b\fs26\insrsid661145 #slx(nomAssocies)#
+\par #slx(nomSociete)#
+\par #slx(adresse)#
+\par #slx(commune)#\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch \ab\af0\afs26 \ltrch \b\fs26\insrsid661145 \trowd \irow0\irowband0\lastrow \ltrrow
+\ts11\trgaph70\trrh1230\trleft5150\trftsWidth1\trautofit1\trpaddl70\trpaddr70\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth3992\clshdrawnil \cellx9142\row 
+}\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid661145 {\rtlch \af0 \ltrch \insrsid661145 
+\par }\trowd \irow0\irowband0\lastrow \ltrrow\ts11\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trautofit1\trpaddl70\trpaddr70\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth9212\clshdrawnil \cellx9142\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid1653077 {\rtlch \af0 \ltrch \insrsid661145 T\'e9l\'e9phone\~: #slx(tel)# - Fax\~: #slx(fax)#
+\par #slx(assNesLe)#
+\par Dipl\'f4me \endash  Formation\~: \cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch \af0 \ltrch \insrsid661145 \trowd \irow0\irowband0\lastrow \ltrrow\ts11\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 
+\trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \trftsWidth1\trautofit1\trpaddl70\trpaddr70\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb
+\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth9212\clshdrawnil \cellx9142\row }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid661145 {\rtlch \af0 \ltrch \insrsid661145 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid1653077 {\rtlch \af0 \ltrch \insrsid661145 Date de r\'e9alisation de l\rquote \'e9tude\~: #slx(date(1))#
+\par Etude faite par\~: #slx(conseiller)#
+\par Date d\'e9but de pr\'e9vision\~: #slx(dateDebut)#
+\par Zone installation\~: #slx(regionAgri)#\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch \af0 \ltrch \insrsid661145 \trowd \irow0\irowband0\lastrow \ltrrow\ts11\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 
+\trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \trftsWidth1\trautofit1\trpaddl70\trpaddr70\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb
+\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth9212\clshdrawnil \cellx9142\row }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid661145 {\rtlch \af0 \ltrch \insrsid661145 
+\par }\pard\plain \ltrpar\s1\ql \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin0\itap0\pararsid661145 \rtlch \ab\af0\afs28\alang1025 \ltrch \b\scaps\fs28\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \af0 \ltrch 
+\ul\insrsid661145 Pr\'e9sentation de l\rquote exploitation et du projet
+\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid661145 \rtlch \af0\afs24\alang1025 \ltrch \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \af0 \ltrch \insrsid661145 
+\par #slx(descProjet)#
+\par }{\rtlch \af0 \ltrch \insrsid10582108 
+\par 
+\par }\pard\plain \ltrpar\s1\ql \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin0\itap0\pararsid10582108 \rtlch \ab\af0\afs28\alang1025 \ltrch \b\scaps\fs28\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \af0 
+\ltrch \insrsid10582108 \page }{\rtlch \af0 \ltrch \ul\insrsid10582108 Main d\rquote oeuvre
+\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid661145 \rtlch \af0\afs24\alang1025 \ltrch \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \af0 \ltrch \insrsid10582108 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch \af0 \ltrch \insrsid10582108 #slx(taba2p1cr2;larg4000;larg10000([560;120][__;5006;9;1;0;0;0;0;1;l;0;1;0;1;8][entete:1:1\'e8re_ann\'e9e_de_pr\'e9
+vision&Fin_de_pr\'e9vision;5006;10;1;0;1;0;0;0;c;1;1;1;1;8]#[380;120][Nombre_d'U.T.H._permanentes__;5006;10;1;1;0;0;0;0;l;1;0;1;1;8][serie:RESDIV.DON+RES
+DIV-4:2:2;5006;10;1;1;0;0;0;0;c;1;0;1;1;8]#[280;120][_____dont_U.T.A._familiales___;5006;10;1;0;0;0;0;0;l;0;0;1;1;8][serie:RESDIV.DON+RESDIV-1:2:2;5006;10;1;0;0;0;0;0;c;0;0;1;1;8]#[280;120][_____dont_salari\'e9
+s_permanents_____;5006;10;1;0;0;0;0;0;l;0;1;1;1;8
+][serie:RESDIV.DON+RESDIV-2:2:2;5006;10;1;0;0;0;0;0;c;0;1;1;1;8]#[280;120][;5006;10;1;1;0;0;0;1;c;0;0;0;0;8][espace;5006;10;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][Nombre_d'U.T.H._temporaires__;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][serie:RESDIV.DON+RESDIV-5:2:2;500
+6;10;1;0;0;0;0;0;c;1;1;1;1;8]))#}{\rtlch \af0 \ltrch \insrsid661145 
+\par }{\rtlch \af0 \ltrch \insrsid15802572 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15802572 {\rtlch \ab\af0\afs28 \ltrch \b\scaps\fs28\ul\insrsid15802572 Mode de faire-valoir (ha)
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch \af0 \ltrch \insrsid15802572 
+\par #slx(taba2p1cr2;larg4000;larg10000([560;120][_;5006;9;1;0;0;0;0;1;c;0;1;0;1;8][entete:1:1\'e8re_ann\'e9e_de_pr\'e9vision&Fin_de_pr\'e9vision;5006;10;1;0;1;0;0;0;c;1;1;1;1;8]#[280;120][Propri\'e9t\'e9_;5006;12;1;1;0
+;0;0;0;l;1;1;1;1;8][totalC:LG(CULT-6)+LG(CLTP-87):2:2;5006;12;1;1;0;0;0;0;c;1;1;1;1;8]#[280;120][Fermage___;5006;10;1;0;0;0;0;0;l;0;0;1;1;8][totalC:LG(CLTP-91)+LG(CLTP-92)+LG(CULT-4)-LG(CULT-6):2:2;5006;10;1;0;0;0;0;0;c;0;0;1;1;8]#[280;120][M\'e9
+tayage___;500
+6;10;1;0;0;0;0;0;l;0;1;1;1;8][totalC:LG(CLTP-88)+LG(CLTP-89)+LG(CLTP-90):2:2;5006;10;1;0;0;0;0;0;c;0;1;1;1;8]#[280;120][Surface_Agricole_Utile_(S.A.U.)__;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP-1)+LG(CULT-4):2:2;5006;10;1;1;0;0;0;0;c;1;1;1;1;8]))#
+
+\par }{\rtlch \af0 \ltrch \insrsid4600250 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4600250 {\rtlch \ab\af0\afs28 \ltrch \b\scaps\fs28\ul\insrsid4600250 Enc\'e9pagement (ha)
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch \af0 \ltrch \insrsid15537462 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6118939 {\rtlch \af0 \ltrch \insrsid6118939 #slx(INFO:Attention_!:11:Attention:R\'e9cup\'e8re_TOUTES_les_cultures_p\'e9rennes_indiff\'e9
+remment._Le_total_ne_comprend_par_contre_que_la_viticulture:)#
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch \af0 \ltrch \insrsid6118939\charrsid15537462 
+\par }{\rtlch \af0 \ltrch \insrsid9640373 
+\par }{\rtlch \af0 \ltrch \insrsid1048758 #slx(taba2p1cr2;larg4000;larg10000([560;120][_;5006;9;1;0;0;0;0;0;c;0;0;0;0;8][entete:1:1\'e8re_ann\'e9e_de_pr\'e9vision&Fin_de_pr\'e9vision;5006;10;1;0;1;0;0;0;c;1;1;1;1;8]))#}{\rtlch \af0 \ltrch 
+\insrsid1048758\charrsid1048758 
+\par }{\rtlch \af0 \ltrch \insrsid15022194 #slx(cultper0taba2p1cr2;larg4000;larg10000([280;120][%slx(@p-pn:7)%;5006;10;1;1;0;0;0;1;l;1;1;1;1;8][scltp:@1:2:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]))#}{\rtlch \af0 \ltrch \insrsid15022194\charrsid4600250 
+\par }{\rtlch \af0 \ltrch \insrsid4600250 #slx(taba2p1cr2;larg4000;larg10000([280;120][TOTAL_;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][serie:CLTP.DON+Cltp-2:2:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]))#
+\par }{\rtlch \af0 \ltrch \insrsid8665918 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8665918 {\rtlch \af0 \ltrch \insrsid8665918 \page 
+\par }\trowd \irow0\irowband0\lastrow \ltrrow\ts11\trqc\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trautofit1\trpaddl70\trpaddr70\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat1\cltxlrtb\clftsWidth3\clwWidth9212\clcbpatraw1 \cellx9142\pard\plain \ltrpar
+\s2\qc \li0\ri0\keepn\widctlpar\intbl\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\pararsid8665918 \rtlch \ab\ai\af1\afs28\alang1025 \ltrch \b\i\f1\fs28\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \ai0\af1\afs32 \ltrch 
+\i0\fs32\insrsid8665918\charrsid8665918 PRODUCTION VITICOLE\cell }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \rtlch \af0\afs24\alang1025 \ltrch \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {
+\rtlch \af0 \ltrch \insrsid8665918\charrsid8665918 \trowd \irow0\irowband0\lastrow \ltrrow\ts11\trqc\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv
+\brdrs\brdrw10 \trftsWidth1\trautofit1\trpaddl70\trpaddr70\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat1\cltxlrtb\clftsWidth3\clwWidth9212\clcbpatraw1 \cellx9142\row 
+}\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8665918 {\rtlch \af0 \ltrch \insrsid8665918 
+\par }\pard \ltrpar\ql \fi708\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8665918 {\rtlch \ab\af0 \ltrch \b\insrsid8665918 {\field{\*\fldinst SYMBOL 213 \\f "Monotype Sorts" \\s 12}{\fldrslt\f36\fs24}}}{\rtlch \ab\af0 \ltrch 
+\b\insrsid8665918  SURFACES EN PLEINE PRODUCTION (ha)
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch \af0 \ltrch \insrsid8665918\charrsid8665918 
+\par }{\rtlch \af0 \ltrch \insrsid13061310 
+#slx(taba2p1cr0;larg2000;larg7200([280;120][%slx(CLTP1.DON+Cltp1-i86)%___;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT1-20):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP2.DON+Cltp2-i86)%____;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT2
+-
+20):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP3.DON+Cltp3-i86)%_____;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT3-20):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP4.DON+Cltp4-i86)%______;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][total
+C
+:LG(CLTPT4-20):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP5.DON+Cltp5-i86)%_______;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT5-20):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP6.DON+Cltp6-i86)%________;5006;10;1;1;0;0;0;0;l;1
+;
+1;1;1;8][totalC:LG(CLTPT6-20):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP7.DON+Cltp7-i86)%_________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT7-20):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP8.DON+Cltp8-i86)%__________;5006
+;
+10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT8-20):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP9.DON+Cltp9-i86)%___________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT9-20):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP10.DON+Cltp
+1
+0-i86)%____________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT10-20):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP11.DON+Cltp11-i86)%_____________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT11-20):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]
+#
+[280;120][%slx(CLTP12.DON+Cltp12-i86)%______________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT12-20):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP13.DON+Cltp13-i86)%_______________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT13-20):7
+:
+1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP14.DON+Cltp14-i86)%________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT14-20):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP15.DON+Cltp15-i86)%_________________;5006;10;1;1;0;0;0
+;
+0;l;1;1;1;1;8][totalC:LG(CLTPT15-20):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP16.DON+Cltp16-i86)%___________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT16-20):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP17.DON+Cltp1
+7
+-i86)%__________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT17-20):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP18.DON+Cltp18-i86)%___________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT18-20):7:1;5006;10;1;0;0;0;0;0;c
+;
+1;1;1;1;8]#[280;120][%slx(CLTP19.DON+Cltp19-i86)%____________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT19-20):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP20.DON+Cltp20-i86)%_____________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][
+t
+otalC:LG(CLTPT20-20):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP21.DON+Cltp21-i86)%______________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT21-20):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP22.DON+Cltp22-i86)%______
+_
+________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT22-20):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP23.DON+Cltp23-i86)%________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT23-20):7:1;5006;10;1;0;0;0;0;0;c;1;
+1
+;1;1;8]#[280;120][%slx(CLTP24.DON+Cltp24-i86)%_________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT24-20):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP25.DON+Cltp25-i86)%__________________________;5006;10;1;1;0;0;0;0;l;1;1;
+1
+;1;8][totalC:LG(CLTPT25-20):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP26.DON+Cltp26-i86)%___________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT26-20):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP27.DON+Cltp27
+-
+i86)%____________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT27-20):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP28.DON+Cltp28-i86)%_____________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT28-20):7:1;50
+0
+6;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP29.DON+Cltp29-i86)%______________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT29-20):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP30.DON+Cltp30-i86)%__________________________
+_
+____;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT30-20):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[560;120][Surface_en_pleine_production__;5006;10;1;1;0;0;0;1;l;1;1;1;1;8][totalC:LG1+LG2+LG3+LG4+LG5+LG6+LG7+LG8+LG9+LG10+LG11+LG12+LG13+LG14+LG15+LG16+LG17+L
+G
+18+LG19+LG20+LG21+LG22+LG23+LG24+LG25+LG26+LG27+LG28+LG29+LG30:7:1;5006;10;1;1;0;0;0;0;c;1;1;1;1;8]#[280;120][;5006;10;1;1;0;0;0;1;c;0;0;0;0;8][espace;5006;10;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][Surface_en_vignes_;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][serie:CLT
+P
+.DON+Cltp-2:7:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[560;120][Surface_avant_pleine_production_;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT1-19)+LG(CLTPT2-19)+LG(CLTPT3-19)+LG(CLTPT4-19)+LG(CLTPT5-19)+LG(CLTPT6-19)+LG(CLTPT7-19)+LG(CLTPT8-19)+LG(CLTPT9-1
+9
+)+LG(CLTPT10-19)+LG(CLTPT11-19)+LG(CLTPT12-19)+LG(CLTPT13-19)+LG(CLTPT14-19)+LG(CLTPT15-19)+LG(CLTPT16-19)+LG(CLTPT17-19)+LG(CLTPT18-19)+LG(CLTPT19-19)+LG(CLTPT20-19)+LG(CLTPT21-19)+LG(CLTPT22-19)+LG(CLTPT23-19)+LG(CLTPT24-19)+LG(CLTPT25-19)+LG(CLTPT26-19
+)+LG(CLTPT27-19)+LG(CLTPT28-19)+LG(CLTPT29-19)+LG(CLTPT30-19):7:2;5006;10;1;1;0;0;0;0;c;1;1;1;1;8]))#}{\rtlch \af0 \ltrch \insrsid6118939 
+\par }{\rtlch \af0 \ltrch \insrsid10371920 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10371920 \rtlch \ab\af0\afs24\alang1025 \ltrch \b\fs24\cf6\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \af0 \ltrch \insrsid10371920 
+Attention, \'ab\~surfaces en pleine production\~\'bb et \'ab\~surface avant pleine production\~\'bb incluent les cultures p\'e9rennes quelque soit leur type (viti, arbo, autre).
+\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10371920 \rtlch \af0\afs24\alang1025 \ltrch \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \af0 \ltrch \insrsid10371920 
+\par }{\rtlch \ab\af0 \ltrch \b\insrsid10371920 {\field{\*\fldinst SYMBOL 213 \\f "Monotype Sorts" \\s 12}{\fldrslt\f36\fs24}}}{\rtlch \ab\af0 \ltrch \b\insrsid10371920  PRODUCTION ANNUELLE PREVISIONNELLE (hl)
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch \af0 \ltrch \insrsid10371920 
+#slx(taba2p1cr0;larg2000;larg7200([280;120][%slx(CLTP1.DON+Cltp1-i86)%_;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT1-26):2:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;1
+20][%slx(CLTP2.DON+Cltp2-i86)%__;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT2-26):2:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP3.DON+Cltp3-i86)%___;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT3-26):2:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#
+[
+280;120][%slx(CLTP4.DON+Cltp4-i86)%____;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT4-26):2:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP5.DON+Cltp5-i86)%_____;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT5-26):2:1;5006;10;1;0;0;0;0;0;c;1;
+1
+;1;1;8]#[280;120][%slx(CLTP6.DON+Cltp6-i86)%______;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT6-26):2:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP7.DON+Cltp7-i86)%_______;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT7-26):2:1;5006;10;1;0
+;
+0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP8.DON+Cltp8-i86)%________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT8-26):2:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP9.DON+Cltp9-i86)%_________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT9-26
+)
+:2:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP10.DON+Cltp10-i86)%__________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT10-26):2:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP11.DON+Cltp11-i86)%___________;5006;10;1;1;0;0;0;0;l;1;1;
+1
+;1;8][totalC:LG(CLTPT11-26):2:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP12.DON+Cltp12-i86)%____________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT12-26):2:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP13.DON+Cltp13-i86)%_________
+_
+___;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT13-26):2:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP14.DON+Cltp14-i86)%______________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT14-26):2:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx
+(
+CLTP15.DON+Cltp15-i86)%_______________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT15-26):2:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP16.DON+Cltp16-i86)%________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT16-26):2:1;5006;10;1;
+0
+;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP17.DON+Cltp17-i86)%_________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT17-26):2:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP18.DON+Cltp18-i86)%__________________;5006;10;1;1;0;0;0;0;l;1;1;1;
+1
+;8][totalC:LG(CLTPT18-26):2:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP19.DON+Cltp19-i86)%___________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT19-26):2:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP20.DON+Cltp20-i86)%____
+_
+_______________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT20-26):2:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP21.DON+Cltp21-i86)%_____________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT21-26):2:1;5006;10;1;0;0;0;0;0;c;1;1;1;
+1
+;8]#[280;120][%slx(CLTP22.DON+Cltp22-i86)%______________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT22-26):2:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP23.DON+Cltp23-i86)%_______________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][tot
+a
+lC:LG(CLTPT23-26):2:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP24.DON+Cltp24-i86)%________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT24-26):2:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP25.DON+Cltp25-i86)%_______
+_
+_________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT25-26):2:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP26.DON+Cltp26-i86)%__________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT26-26):2:1;5006;10;1;0;0;0;0;0;c
+;
+1;1;1;1;8]#[280;120][%slx(CLTP27.DON+Cltp27-i86)%___________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT27-26):2:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP28.DON+Cltp28-i86)%____________________________;5006;10;1;1;0;0;0;0
+;
+l;1;1;1;1;8][totalC:LG(CLTPT28-26):2:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP29.DON+Cltp29-i86)%_____________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT29-26):2:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP30.D
+ON+Cltp30-i86)%______________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT30-26):2:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]))#
+\par }{\rtlch \af0 \ltrch \insrsid1075743 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1075743 {\rtlch \ab\af0\afs26 \ltrch \b\fs26\ul\insrsid1075743 Les hypoth\'e8ses de rendement sont les suivantes}{\rtlch \af0 \ltrch \insrsid1075743 \~:
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch \af0 \ltrch \insrsid1525894 
+\par }{\rtlch \af0 \ltrch \insrsid1075743 #slx(taba2p1cr0;larg2000;larg7200([280;120][_;5006;9;1;0;0;0;0;0;c;0;0;0;0;8][entete:1:1\'e8re_ann\'e9e_de_pr\'e9vision&Fin_de_pr\'e9vision;5006;10;1;1;0;0;0;0;c;1;1;1;1;8]))#}{\rtlch \af0 \ltrch 
+\insrsid1075743\charrsid1075743 
+\par }{\rtlch \af0 \ltrch \insrsid1075743 #slx(taba2p1cr0;larg2000;larg7200([280;120][%slx(CLTP1.DON+Cltp1-i86)%_;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT1-27):7:1;5006;10;1;0;0;0;0;0;c;1;1;1
+;1;8]#[280;120][%slx(CLTP2.DON+Cltp2-i86)%__;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT2-27):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP3.DON+Cltp3-i86)%___;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT3-27):7:1;5006;10;1;0;0;0;0;0;c
+;
+1;1;1;1;8]#[280;120][%slx(CLTP4.DON+Cltp4-i86)%____;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT4-27):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP5.DON+Cltp5-i86)%_____;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT5-27):7:1;5006;10;1;0;
+0
+;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP6.DON+Cltp6-i86)%______;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT6-27):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP7.DON+Cltp7-i86)%_______;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT7-27):7:1
+;
+5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP8.DON+Cltp8-i86)%________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT8-27):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP9.DON+Cltp9-i86)%_________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:
+L
+G(CLTPT9-27):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP10.DON+Cltp10-i86)%__________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT10-27):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP11.DON+Cltp11-i86)%___________;5006;10;1;1;0;
+0
+;0;0;l;1;1;1;1;8][totalC:LG(CLTPT11-27):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP12.DON+Cltp12-i86)%____________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT12-27):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP13.DON+Cltp13-i8
+6
+)%_____________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT13-27):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP14.DON+Cltp14-i86)%______________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT14-27):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[2
+8
+0;120][%slx(CLTP15.DON+Cltp15-i86)%_______________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT15-27):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP16.DON+Cltp16-i86)%________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT16-27):7:
+1
+;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP17.DON+Cltp17-i86)%_________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT17-27):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP18.DON+Cltp18-i86)%__________________;5006;10;1;1;0;0;
+0
+;0;l;1;1;1;1;8][totalC:LG(CLTPT18-27):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP19.DON+Cltp19-i86)%___________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT19-27):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP20.DON+Cltp
+2
+0-i86)%____________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT20-27):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP21.DON+Cltp21-i86)%_____________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT21-27):7:1;5006;10;1;0;0;0;
+0
+;0;c;1;1;1;1;8]#[280;120][%slx(CLTP22.DON+Cltp22-i86)%______________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT22-27):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP23.DON+Cltp23-i86)%_______________________;5006;10;1;1;0;0;0;0;l;1;
+1
+;1;1;8][totalC:LG(CLTPT23-27):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP24.DON+Cltp24-i86)%________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT24-27):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP25.DON+Cltp25-
+i
+86)%_________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT25-27):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP26.DON+Cltp26-i86)%__________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT26-27):7:1;5006;10;1
+;
+0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP27.DON+Cltp27-i86)%___________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT27-27):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP28.DON+Cltp28-i86)%____________________________;5006;10
+;
+1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT28-27):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP29.DON+Cltp29-i86)%_____________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT29-27):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%
+slx(CLTP30.DON+Cltp30-i86)%______________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTPT30-27):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]))#
+\par }{\rtlch \af0 \ltrch \insrsid10695542 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10695542 {\rtlch \ab\af0 \ltrch \b\insrsid10695542 {\field{\*\fldinst SYMBOL 213 \\f "Monotype Sorts" \\s 12}{\fldrslt\f36\fs24}}}{\rtlch \ab\af0 \ltrch 
+\b\insrsid10695542  VENTES PREVISIONNELLES DE BOUTEILLES
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch \af0 \ltrch \insrsid10695542 
+\par }{\rtlch \af0 \ltrch \insrsid2435034 #slx(taba2p1cr0;larg2000;larg7200([280;120][_;5006;9;1;0;0;0;0;0;c;0;0;0;0;8][entete:1:1\'e8re_ann\'e9e_de_pr\'e9vision&Fin_de_pr\'e9vision;5006;10;1;1;0;0;0;0;c;1;1;1;1;8]))#}{\rtlch \af0 \ltrch 
+\insrsid10695542\charrsid2435034 
+\par }{\rtlch \af0 \ltrch \insrsid14684151 #slx(taba2p1cr0;larg2000;larg7200([280;120][%slx(CLTP1.DON+Cltp1-i86)%;5006;10;1;1;0;0;0;0;l
+;1;1;1;1;8][totalC:LG(CLTP1-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP2.DON+Cltp2-i86)%__;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP2-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP3.DON+Cltp3-i86)%___;5006;10;1;1;0;0;0
+;
+0;l;1;1;1;1;8][totalC:LG(CLTP3-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP4.DON+Cltp4-i86)%____;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP4-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP5.DON+Cltp5-i86)%_____;5006;10;1;
+1
+;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP5-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP6.DON+Cltp6-i86)%______;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP6-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP7.DON+Cltp7-i86)%_______
+;
+5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP7-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP8.DON+Cltp8-i86)%________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP8-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP9.DON+Cltp9
+-
+i86)%_________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP9-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP10.DON+Cltp10-i86)%__________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP10-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][
+%
+slx(CLTP11.DON+Cltp11-i86)%___________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP11-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP12.DON+Cltp12-i86)%____________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP12-74):7:1;5006;10;1;0;0;0;
+0
+;0;c;1;1;1;1;8]#[280;120][%slx(CLTP13.DON+Cltp13-i86)%_____________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP13-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP14.DON+Cltp14-i86)%______________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(
+C
+LTP14-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP15.DON+Cltp15-i86)%_______________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP15-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP16.DON+Cltp16-i86)%________________;5006;10;
+1
+;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP16-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP17.DON+Cltp17-i86)%_________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP17-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP18.DON+
+C
+ltp18-i86)%__________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP18-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP19.DON+Cltp19-i86)%___________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP19-74):7:1;5006;10;1;0;0;0;0;
+0
+;c;1;1;1;1;8]#[280;120][%slx(CLTP20.DON+Cltp20-i86)%____________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP20-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP21.DON+Cltp21-i86)%_____________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8
+]
+[totalC:LG(CLTP21-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP22.DON+Cltp22-i86)%______________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP22-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP23.DON+Cltp23-i86)%______
+_
+________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP23-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP24.DON+Cltp24-i86)%________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP24-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;
+1
+;1;8]#[280;120][%slx(CLTP25.DON+Cltp25-i86)%_________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP25-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP26.DON+Cltp26-i86)%__________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1
+;
+8][totalC:LG(CLTP26-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP27.DON+Cltp27-i86)%___________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP27-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP28.DON+Cltp28-i86)
+%
+____________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP28-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP29.DON+Cltp29-i86)%_____________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP29-74):7:1;5006;10;1
+;
+0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP30.DON+Cltp30-i86)%______________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP30-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][TOTAL_Bouteilles__;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG1
++LG2+LG3+LG4+LG5+LG6+LG7+LG8+LG9+LG10+LG11+LG12+LG13+LG14+LG15+LG16+LG17+LG18+LG19+LG20+LG21+LG22+LG23+LG24+LG25+LG26+LG27+LG28+LG29+LG30:7:1;5006;10;1;1;0;0;0;0;c;1;1;1;1;8]))#}{\rtlch \af0 \ltrch \insrsid6118939 
+\par }{\rtlch \af0 \ltrch \insrsid609593 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid609593 {\rtlch \ab\af0\afs26 \ltrch \b\fs26\ul\insrsid609593 Les hypoth\'e8ses de prix moyen par bouteille sont les suivantes}{\rtlch \af0 \ltrch 
+\insrsid609593 \~:
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch \af0 \ltrch \insrsid609593 
+\par #slx(taba2p1cr0;larg2000;larg7200([280;120][_;5006;9;1;0;0;0;0;0;c;0;0;0;0;8][entete:1:1\'e8re_ann\'e9e_de_pr\'e9vision&Fin_de_pr\'e9vision;5006;10;1;1;0;0;0;0;c;1;1;1;1;8]))#}{\rtlch \af0 \ltrch \insrsid609593\charrsid609593 
+\par }{\rtlch \af0 \ltrch \insrsid609593 #slx(taba2p1cr0;larg2000;larg7200([280;120][%slx(CLTP1.DON+Cltp1-i86)%;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][t
+otalC:(LG(CLTP1-11)+LG(CLTP1-75))/LG(CLTP1-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP2.DON+Cltp2-i86)%__;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:(LG(CLTP2-11)+LG(CLTP2-75))/LG(CLTP2-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx
+(
+CLTP3.DON+Cltp3-i86)%___;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:(LG(CLTP3-11)+LG(CLTP3-75))/LG(CLTP3-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP4.DON+Cltp4-i86)%____;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:(LG(CLTP4-11)+LG(CLTP4-75))/LG(
+C
+LTP4-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP5.DON+Cltp5-i86)%_____;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:(LG(CLTP5-11)+LG(CLTP5-75))/LG(CLTP5-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP6.DON+Cltp6-i86)%______;5006;1
+0
+;1;1;0;0;0;0;l;1;1;1;1;8][totalC:(LG(CLTP6-11)+LG(CLTP6-75))/LG(CLTP6-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP7.DON+Cltp7-i86)%_______;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:(LG(CLTP7-11)+LG(CLTP7-75))/LG(CLTP7-74):7:1;5006;10;1;0;0;0
+;
+0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP8.DON+Cltp8-i86)%________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:(LG(CLTP8-11)+LG(CLTP8-75))/LG(CLTP8-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP9.DON+Cltp9-i86)%_________;5006;10;1;1;0;0;0;0;l;1;1;1;1
+;
+8][totalC:(LG(CLTP9-11)+LG(CLTP9-75))/LG(CLTP9-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP10.DON+Cltp10-i86)%__________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:(LG(CLTP10-11)+LG(CLTP10-75))/LG(CLTP10-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;
+8
+]#[280;120][%slx(CLTP11.DON+Cltp11-i86)%___________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:(LG(CLTP11-11)+LG(CLTP11-75))/LG(CLTP11-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP12.DON+Cltp12-i86)%____________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8
+]
+[totalC:(LG(CLTP12-11)+LG(CLTP12-75))/LG(CLTP12-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP13.DON+Cltp13-i86)%_____________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:(LG(CLTP13-11)+LG(CLTP13-75))/LG(CLTP13-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;
+1
+;1;8]#[280;120][%slx(CLTP14.DON+Cltp14-i86)%______________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:(LG(CLTP14-11)+LG(CLTP14-75))/LG(CLTP14-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP15.DON+Cltp15-i86)%_______________;5006;10;1;1;0;0;0;0;l
+;
+1;1;1;1;8][totalC:(LG(CLTP15-11)+LG(CLTP15-75))/LG(CLTP15-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP16.DON+Cltp16-i86)%________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:(LG(CLTP16-11)+LG(CLTP16-75))/LG(CLTP16-74):7:1;5006;10;1;0;0
+;
+0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP17.DON+Cltp17-i86)%_________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:(LG(CLTP17-11)+LG(CLTP17-75))/LG(CLTP17-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP18.DON+Cltp18-i86)%__________________;50
+0
+6;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:(LG(CLTP18-11)+LG(CLTP18-75))/LG(CLTP18-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP19.DON+Cltp19-i86)%___________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:(LG(CLTP19-11)+LG(CLTP19-75))/LG(CLTP19
+-
+74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP20.DON+Cltp20-i86)%____________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:(LG(CLTP20-11)+LG(CLTP20-75))/LG(CLTP20-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP21.DON+Cltp21-i
+8
+6)%_____________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:(LG(CLTP21-11)+LG(CLTP21-75))/LG(CLTP21-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP22.DON+Cltp22-i86)%______________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:(LG(CLTP
+2
+2-11)+LG(CLTP22-75))/LG(CLTP22-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP23.DON+Cltp23-i86)%_______________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:(LG(CLTP23-11)+LG(CLTP23-75))/LG(CLTP23-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#
+[
+280;120][%slx(CLTP24.DON+Cltp24-i86)%________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:(LG(CLTP24-11)+LG(CLTP24-75))/LG(CLTP24-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP25.DON+Cltp25-i86)%_________________________;5006;10;
+1
+;1;0;0;0;0;l;1;1;1;1;8][totalC:(LG(CLTP25-11)+LG(CLTP25-75))/LG(CLTP25-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP26.DON+Cltp26-i86)%__________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:(LG(CLTP26-11)+LG(CLTP26-75))/LG(CLTP2
+6
+-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP27.DON+Cltp27-i86)%___________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:(LG(CLTP27-11)+LG(CLTP27-75))/LG(CLTP27-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP28.DON+
+C
+ltp28-i86)%____________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:(LG(CLTP28-11)+LG(CLTP28-75))/LG(CLTP28-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP29.DON+Cltp29-i86)%_____________________________;5006;10;1;1;0;0;0;0;l;1;1;
+1
+;1;8][totalC:(LG(CLTP29-11)+LG(CLTP29-75))/LG(CLTP29-74):7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(CLTP30.DON+Cltp30-i86)%______________________________;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:(LG(CLTP300-11)+LG(CLTP30-75))/LG(CLTP30-74):7:1;500
+6;10;1;0;0;0;0;0;c;1;1;1;1;8]))#}{\rtlch \af0 \ltrch \insrsid609593\charrsid609593 
+\par }{\rtlch \af0 \ltrch \insrsid609593 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7145379 {\rtlch \ab\af0 \ltrch \b\insrsid7145379 {\field{\*\fldinst SYMBOL 213 \\f "Monotype Sorts" \\s 12}{\fldrslt\f36\fs24}}}{\rtlch \ab\af0 \ltrch 
+\b\insrsid7145379  CHARGES OPERATIONNELLES
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7145379 \rtlch \ab\af0\afs24\alang1025 \ltrch \b\fs24\cf6\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \af0 \ltrch \insrsid7145379 
+Attention, les charges op\'e9rationnelles moyennes incluent les cultures p\'e9rennes quelque soit leur type (viti, arbo, autre).
+\par }{\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid7145379 
+\par }{\rtlch \af0 \ltrch \cf0\insrsid7145379 Les charges op\'e9rationnelles relatives \'e0 la conduite du vignoble ont \'e9t\'e9 estim\'e9es comme suit}{\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid7145379  (hors charges de main d\rquote \'9c
+uvre, taille et vendange)\~:
+\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch \af0\afs24\alang1025 \ltrch \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \af0 \ltrch \insrsid7145379 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6567924 {\rtlch \af0 \ltrch \insrsid7145379 #slx(taba2p1cr2;larg4000;larg10000([560;120][;5006;10;1;1;0;0;0;1;c;0;0;0;0;8][entete:1:1\'e8re_ann\'e9e_de_pr\'e9
+vision&Fin_de_pr\'e9vision;5006;10;1;0;1;0;
+0;0;c;1;1;1;1;8]#[280;120][Engrais_/_ha_;5006;10;1;0;0;0;0;0;l;1;0;1;1;8][totalC:LG(CLTP-11)/LG(CLTP-1):0:2;5006;10;1;0;0;0;0;0;c;1;0;1;1;8]#[280;120][Produits_phytosanitaires_/_ha__;5006;10;1;0;0;0;0;0;l;0;0;1;1;8][totalC:LG(CLTP-13)/LG(CLTP-1):0:2;5006;
+10;1;0;0;0;0;0;c;0;0;1;1;8]#[280;120][Plants_de_remplacement_/_ha__;5006;10;1;0;0;0;0;0;l;0;0;1;1;8][totalC:LG(CLTP-12)/LG(CLTP-1):0:2;5006;10;1;0;0;0;0;0;c;0;0;1;1;8]#[280;120][Assurance_gr\'ea
+le_/_ha___;5006;10;1;0;0;0;0;0;l;0;0;1;1;8][totalC:LG(CLTP-18)/LG(
+CLTP-1):0:2;5006;10;1;0;0;0;0;0;c;0;0;1;1;8]#[280;120][Fournitures_diverses_/_ha____;5006;10;1;0;0;0;0;0;l;0;0;1;1;8][totalC:LG(CLTP-19)/LG(CLTP-1):0:2;5006;10;1;0;0;0;0;0;c;0;0;1;1;8]#[280;120][Entretien_palissage_/_ha_____;5006;10;1;0;0;0;0;0;l;0;1;1;1;
+8][totalC:LG(CLTP-20)/LG(CLTP-1):0:2;5006;10;1;0;0;0;0;0;c;0;1;1;1;8]#[280;120][TOTAL_en_\'80/ha_;5006;10;1;1;0;0;0;0;l;1;1;1;1;8][totalC:LG2+LG3+LG4+LG5+LG6+LG7:0:2;5006;10;1;1;0;0;0;0;c;1;1;1;1;8]))#
+\par }{\rtlch \af0 \ltrch \insrsid6567924 
+\par }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6567924 \rtlch \ab\af0\afs24\alang1025 \ltrch \b\fs24\cf6\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \af0 \ltrch \cf0\insrsid6567924 
+Les charges sp\'e9cifiques \'e0 la vinification, la mise en bouteilles et la commercialisation ont \'e9t\'e9 estim\'e9es \'e0\~:
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch \af10 \ltrch \f10\insrsid6567924 \loch\af10\dbch\af0\hich\f10 \'f0\tab}}\pard \ltrpar\s15\ql \fi-360\li720\ri0\widctlpar\aspalpha\aspnum\faauto\ls1\adjustright\rin0\lin720\itap0\pararsid6567924 {\rtlch \ab0\af0 
+\ltrch \b0\cf0\insrsid6567924 Produits \'9cnologiques
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch \af10 \ltrch \f10\insrsid6567924 \loch\af10\dbch\af0\hich\f10 \'f0\tab}Mati\'e8res s\'e8ches
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch \af10 \ltrch \f10\insrsid6567924 \loch\af10\dbch\af0\hich\f10 \'f0\tab}Mise en bouteille
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch \af10 \ltrch \f10\insrsid6567924 \loch\af10\dbch\af0\hich\f10 \'f0\tab}Commercialisation et communication (publicit\'e9, salons\'85)
+\par }\pard \ltrpar\s15\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6567924 {\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid6567924 
+\par }{\rtlch \af0 \ltrch \cf0\insrsid6567924 {\field{\*\fldinst SYMBOL 213 \\f "Monotype Sorts" \\s 12}{\fldrslt\f36\fs24}}}{\rtlch \af0 \ltrch \cf0\insrsid6567924  MODE DE COMMERCIALISATION
+\par }{\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid6567924 
+\par #slx(modeCom)#
+\par 
+\par }{\rtlch \af0 \ltrch \cf0\insrsid6567924 {\field{\*\fldinst SYMBOL 213 \\f "Monotype Sorts" \\s 12}{\fldrslt\f36\fs24}}}{\rtlch \af0 \ltrch \cf0\insrsid6567924  PLANTATIONS
+\par }{\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid6567924 
+\par Le programme pr\'e9visionnel d\rquote arrachages et de plantations serait le suivant\~:
+\par }{\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid10103122 
+\par }\trowd \irow0\irowband0\lastrow \ltrrow\ts11\trqc\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl70\trpaddr70\trpaddfl3\trpaddfr3\tblrsid10103122 \clvertalc\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2268\clshdrawnil 
+\cellx2198\clvertalc\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1985\clshdrawnil \cellx4183\clvertalc\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 
+\clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1985\clshdrawnil \cellx6168\pard \ltrpar\s15\qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid1653077 {\rtlch \af0 \ltrch \cf0\insrsid6567924 Campagne ONIVINS\cell 
+Arrachage\cell Plantation\cell }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \rtlch \af0\afs24\alang1025 \ltrch \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \ab\af0 \ltrch 
+\b\insrsid6567924 \trowd \irow0\irowband0\lastrow \ltrrow\ts11\trqc\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl70\trpaddr70\trpaddfl3\trpaddfr3\tblrsid10103122 \clvertalc\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2268\clshdrawnil 
+\cellx2198\clvertalc\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1985\clshdrawnil \cellx4183\clvertalc\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 
+\clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1985\clshdrawnil \cellx6168\row }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6567924 \rtlch \ab\af0\afs24\alang1025 \ltrch 
+\b\fs24\cf6\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid16080916 
+\par }\pard \ltrpar\s15\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10103122 {\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid10103122 
+#slx(tabd1p2cr0;larg2300;larg2000;larg2000([280;120][%slx(date1)%_;5006;10;1;1;0;0;0;0;c;1;1;1;1;8][%slx(formule:1a:lg(cltp1-4)+lg(cltp2-4)lg(cltp3-4)+lg(cltp4-4)+lg(cltp5-4)+lg(cltp6-4)+lg(cltp7-4)+lg(cltp8-4)+lg(cltp9-4)+lg(cltp10-4)+lg(cltp11-4)+lg(clt
+p
+12-4)+lg(cltp13-4)+lg(cltp14-4)+lg(cltp15-4)+lg(cltp16-4)+lg(cltp17-4)+lg(cltp18-4)+lg(cltp19-4)+lg(cltp20-4)+lg(cltp21-4)+lg(cltp22-4)+lg(cltp23-4)+lg(cltp24-4)+lg(cltp25-4)+lg(cltp26-4)+lg(cltp27-4)+lg(cltp28-4)+lg(cltp29-4)+lg(cltp30-4))%;5006;10;1;0;0
+;
+0;0;0;l;1;1;1;1;8][totalC:LG(CLTP1-96!A1)+LG(CLTP2-96!A1)+LG(CLTP3-96!A1)+LG(CLTP4-96!A1)+LG(CLTP5-96!A1)+LG(CLTP5-96!A1)+LG(CLTP6-96!A1)+LG(CLTP7-96!A1)+LG(CLTP8-96!A1)+LG(CLTP9-96!A1)+LG(CLTP10-96!A1)+LG(CLTP11-96!A1)+LG(CLTP12-96!A1)+LG(CLTP13-96!A1)+L
+G
+(CLTP14-96!A1)+LG(CLTP15-96!A1)+LG(CLTP16-96!A1)+LG(CLTP17-96!A1)+LG(CLTP18-96!A1)+LG(CLTP19-96!A1)+LG(CLTP20-96!A1)+LG(CLTP21-96!A1)+LG(CLTP22-96!A1)+LG(CLTP23-96!A1)+LG(CLTP24-96!A1)+LG(CLTP25-96!A1)+LG(CLTP26-96!A1)+LG(CLTP27-96!A1)+LG(CLTP28-96!A1)+LG
+(
+CLTP29-96!A1)+LG(CLTP30-96!A1):7:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(date2)%_;5006;10;1;1;0;0;0;0;c;1;1;1;1;8][%slx(formule:2a:lg(cltp1-4)+lg(cltp2-4)lg(cltp3-4)+lg(cltp4-4)+lg(cltp5-4)+lg(cltp6-4)+lg(cltp7-4)+lg(cltp8-4)+lg(cltp9-4)+lg(cltp
+1
+0-4)+lg(cltp11-4)+lg(cltp12-4)+lg(cltp13-4)+lg(cltp14-4)+lg(cltp15-4)+lg(cltp16-4)+lg(cltp17-4)+lg(cltp18-4)+lg(cltp19-4)+lg(cltp20-4)+lg(cltp21-4)+lg(cltp22-4)+lg(cltp23-4)+lg(cltp24-4)+lg(cltp25-4)+lg(cltp26-4)+lg(cltp27-4)+lg(cltp28-4)+lg(cltp29-4)+lg(
+c
+ltp30-4))%;5006;10;1;0;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP1-96!A2)+LG(CLTP2-96!A2)+LG(CLTP3-96!A2)+LG(CLTP4-96!A2)+LG(CLTP5-96!A2)+LG(CLTP5-96!A2)+LG(CLTP6-96!A2)+LG(CLTP7-96!A2)+LG(CLTP8-96!A2)+LG(CLTP9-96!A2)+LG(CLTP10-96!A2)+LG(CLTP11-96!A2)+LG(CLTP12-
+9
+6!A2)+LG(CLTP13-96!A2)+LG(CLTP14-96!A2)+LG(CLTP15-96!A2)+LG(CLTP16-96!A2)+LG(CLTP17-96!A2)+LG(CLTP18-96!A2)+LG(CLTP19-96!A2)+LG(CLTP20-96!A2)+LG(CLTP21-96!A2)+LG(CLTP22-96!A2)+LG(CLTP23-96!A2)+LG(CLTP24-96!A2)+LG(CLTP25-96!A2)+LG(CLTP26-96!A2)+LG(CLTP27-9
+6
+!A2)+LG(CLTP28-96!A2)+LG(CLTP29-96!A2)+LG(CLTP30-96!A2):7:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(date3)%_;5006;10;1;1;0;0;0;0;c;1;1;1;1;8][%slx(formule:3a:lg(cltp1-4)+lg(cltp2-4)lg(cltp3-4)+lg(cltp4-4)+lg(cltp5-4)+lg(cltp6-4)+lg(cltp7-4)+lg(clt
+p
+8-4)+lg(cltp9-4)+lg(cltp10-4)+lg(cltp11-4)+lg(cltp12-4)+lg(cltp13-4)+lg(cltp14-4)+lg(cltp15-4)+lg(cltp16-4)+lg(cltp17-4)+lg(cltp18-4)+lg(cltp19-4)+lg(cltp20-4)+lg(cltp21-4)+lg(cltp22-4)+lg(cltp23-4)+lg(cltp24-4)+lg(cltp25-4)+lg(cltp26-4)+lg(cltp27-4)+lg(c
+l
+tp28-4)+lg(cltp29-4)+lg(cltp30-4))%;5006;10;1;0;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP1-96!A3)+LG(CLTP2-96!A3)+LG(CLTP3-96!A3)+LG(CLTP4-96!A3)+LG(CLTP5-96!A3)+LG(CLTP5-96!A3)+LG(CLTP6-96!A3)+LG(CLTP7-96!A3)+LG(CLTP8-96!A3)+LG(CLTP9-96!A3)+LG(CLTP10-96!A3)+LG
+(
+CLTP11-96!A3)+LG(CLTP12-96!A3)+LG(CLTP13-96!A3)+LG(CLTP14-96!A3)+LG(CLTP15-96!A3)+LG(CLTP16-96!A3)+LG(CLTP17-96!A3)+LG(CLTP18-96!A3)+LG(CLTP19-96!A3)+LG(CLTP20-96!A3)+LG(CLTP21-96!A3)+LG(CLTP22-96!A3)+LG(CLTP23-96!A3)+LG(CLTP24-96!A3)+LG(CLTP25-96!A3)+LG(
+C
+LTP26-96!A3)+LG(CLTP27-96!A3)+LG(CLTP28-96!A3)+LG(CLTP29-96!A3)+LG(CLTP30-96!A3):7:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(date4)%_;5006;10;1;1;0;0;0;0;c;1;1;1;1;8][%slx(formule:4a:lg(cltp1-4)+lg(cltp2-4)lg(cltp3-4)+lg(cltp4-4)+lg(cltp5-4)+lg(cl
+t
+p6-4)+lg(cltp7-4)+lg(cltp8-4)+lg(cltp9-4)+lg(cltp10-4)+lg(cltp11-4)+lg(cltp12-4)+lg(cltp13-4)+lg(cltp14-4)+lg(cltp15-4)+lg(cltp16-4)+lg(cltp17-4)+lg(cltp18-4)+lg(cltp19-4)+lg(cltp20-4)+lg(cltp21-4)+lg(cltp22-4)+lg(cltp23-4)+lg(cltp24-4)+lg(cltp25-4)+lg(cl
+t
+p26-4)+lg(cltp27-4)+lg(cltp28-4)+lg(cltp29-4)+lg(cltp30-4))%;5006;10;1;0;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP1-96!A4)+LG(CLTP2-96!A4)+LG(CLTP3-96!A4)+LG(CLTP4-96!A4)+LG(CLTP5-96!A4)+LG(CLTP5-96!A4)+LG(CLTP6-96!A4)+LG(CLTP7-96!A4)+LG(CLTP8-96!A4)+LG(CLTP9-9
+6
+!A4)+LG(CLTP10-96!A4)+LG(CLTP11-96!A4)+LG(CLTP12-96!A4)+LG(CLTP13-96!A4)+LG(CLTP14-96!A4)+LG(CLTP15-96!A4)+LG(CLTP16-96!A4)+LG(CLTP17-96!A4)+LG(CLTP18-96!A4)+LG(CLTP19-96!A4)+LG(CLTP20-96!A4)+LG(CLTP21-96!A4)+LG(CLTP22-96!A4)+LG(CLTP23-96!A4)+LG(CLTP24-96
+!
+A4)+LG(CLTP25-96!A4)+LG(CLTP26-96!A4)+LG(CLTP27-96!A4)+LG(CLTP28-96!A4)+LG(CLTP29-96!A4)+LG(CLTP30-96!A4):7:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(date5)%_;5006;10;1;1;0;0;0;0;c;1;1;1;1;8][%slx(formule:5a:lg(cltp1-4)+lg(cltp2-4)lg(cltp3-4)+lg(c
+l
+tp4-4)+lg(cltp5-4)+lg(cltp6-4)+lg(cltp7-4)+lg(cltp8-4)+lg(cltp9-4)+lg(cltp10-4)+lg(cltp11-4)+lg(cltp12-4)+lg(cltp13-4)+lg(cltp14-4)+lg(cltp15-4)+lg(cltp16-4)+lg(cltp17-4)+lg(cltp18-4)+lg(cltp19-4)+lg(cltp20-4)+lg(cltp21-4)+lg(cltp22-4)+lg(cltp23-4)+lg(clt
+p
+24-4)+lg(cltp25-4)+lg(cltp26-4)+lg(cltp27-4)+lg(cltp28-4)+lg(cltp29-4)+lg(cltp30-4))%;5006;10;1;0;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP1-96!A5)+LG(CLTP2-96!A5)+LG(CLTP3-96!A5)+LG(CLTP4-96!A5)+LG(CLTP5-96!A5)+LG(CLTP5-96!A5)+LG(CLTP6-96!A5)+LG(CLTP7-96!A5)+L
+G
+(CLTP8-96!A5)+LG(CLTP9-96!A5)+LG(CLTP10-96!A5)+LG(CLTP11-96!A5)+LG(CLTP12-96!A5)+LG(CLTP13-96!A5)+LG(CLTP14-96!A5)+LG(CLTP15-96!A5)+LG(CLTP16-96!A5)+LG(CLTP17-96!A5)+LG(CLTP18-96!A5)+LG(CLTP19-96!A5)+LG(CLTP20-96!A5)+LG(CLTP21-96!A5)+LG(CLTP22-96!A5)+LG(C
+L
+TP23-96!A5)+LG(CLTP24-96!A5)+LG(CLTP25-96!A5)+LG(CLTP26-96!A5)+LG(CLTP27-96!A5)+LG(CLTP28-96!A5)+LG(CLTP29-96!A5)+LG(CLTP30-96!A5):7:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(date6)%_;5006;10;1;1;0;0;0;0;c;1;1;1;1;8][%slx(formule:6a:lg(cltp1-4)+lg
+(
+cltp2-4)lg(cltp3-4)+lg(cltp4-4)+lg(cltp5-4)+lg(cltp6-4)+lg(cltp7-4)+lg(cltp8-4)+lg(cltp9-4)+lg(cltp10-4)+lg(cltp11-4)+lg(cltp12-4)+lg(cltp13-4)+lg(cltp14-4)+lg(cltp15-4)+lg(cltp16-4)+lg(cltp17-4)+lg(cltp18-4)+lg(cltp19-4)+lg(cltp20-4)+lg(cltp21-4)+lg(cltp
+2
+2-4)+lg(cltp23-4)+lg(cltp24-4)+lg(cltp25-4)+lg(cltp26-4)+lg(cltp27-4)+lg(cltp28-4)+lg(cltp29-4)+lg(cltp30-4))%;5006;10;1;0;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP1-96!A6)+LG(CLTP2-96!A6)+LG(CLTP3-96!A6)+LG(CLTP4-96!A6)+LG(CLTP5-96!A6)+LG(CLTP5-96!A6)+LG(CLTP6
+-
+96!A6)+LG(CLTP7-96!A6)+LG(CLTP8-96!A6)+LG(CLTP9-96!A6)+LG(CLTP10-96!A6)+LG(CLTP11-96!A6)+LG(CLTP12-96!A6)+LG(CLTP13-96!A6)+LG(CLTP14-96!A6)+LG(CLTP15-96!A6)+LG(CLTP16-96!A6)+LG(CLTP17-96!A6)+LG(CLTP18-96!A6)+LG(CLTP19-96!A6)+LG(CLTP20-96!A6)+LG(CLTP21-96!
+A
+6)+LG(CLTP22-96!A6)+LG(CLTP23-96!A6)+LG(CLTP24-96!A6)+LG(CLTP25-96!A6)+LG(CLTP26-96!A6)+LG(CLTP27-96!A6)+LG(CLTP28-96!A6)+LG(CLTP29-96!A6)+LG(CLTP30-96!A6):7:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(date7)%_;5006;10;1;1;0;0;0;0;c;1;1;1;1;8][%slx(
+f
+ormule:7a:lg(cltp1-4)+lg(cltp2-4)lg(cltp3-4)+lg(cltp4-4)+lg(cltp5-4)+lg(cltp6-4)+lg(cltp7-4)+lg(cltp8-4)+lg(cltp9-4)+lg(cltp10-4)+lg(cltp11-4)+lg(cltp12-4)+lg(cltp13-4)+lg(cltp14-4)+lg(cltp15-4)+lg(cltp16-4)+lg(cltp17-4)+lg(cltp18-4)+lg(cltp19-4)+lg(cltp2
+0
+-4)+lg(cltp21-4)+lg(cltp22-4)+lg(cltp23-4)+lg(cltp24-4)+lg(cltp25-4)+lg(cltp26-4)+lg(cltp27-4)+lg(cltp28-4)+lg(cltp29-4)+lg(cltp30-4))%;5006;10;1;0;0;0;0;0;l;1;1;1;1;8][totalC:LG(CLTP1-96!A7)+LG(CLTP2-96!A7)+LG(CLTP3-96!A7)+LG(CLTP4-96!A7)+LG(CLTP5-96!A7)
++
+LG(CLTP5-96!A7)+LG(CLTP6-96!A7)+LG(CLTP7-96!A7)+LG(CLTP8-96!A7)+LG(CLTP9-96!A7)+LG(CLTP10-96!A7)+LG(CLTP11-96!A7)+LG(CLTP12-96!A7)+LG(CLTP13-96!A7)+LG(CLTP14-96!A7)+LG(CLTP15-96!A7)+LG(CLTP16-96!A7)+LG(CLTP17-96!A7)+LG(CLTP18-96!A7)+LG(CLTP19-96!A7)+LG(CL
+TP20-96!A7)+LG(CLTP21-96!A7)+LG(CLTP22-96!A7)+LG(CLTP23-96!A7)+LG(CLTP24-96!A7)+LG(CLTP25-96!A7)+LG(CLTP26-96!A7)+LG(CLTP27-96!A7)+LG(CLTP28-96!A7)+LG(CLTP29-96!A7)+LG(CLTP30-96!A7):7:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]))#}{\rtlch \ab0\af0 \ltrch 
+\b0\cf0\insrsid10103122\charrsid10103122 
+\par }\pard \ltrpar\s15\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5594153 {\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid5594153 \page 
+\par }\trowd \irow0\irowband0\lastrow \ltrrow\ts11\trqc\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trautofit1\trpaddl70\trpaddr70\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat1\cltxlrtb\clftsWidth3\clwWidth9212\clcbpatraw1 \cellx9142\pard\plain \ltrpar
+\s2\qc \li0\ri0\keepn\widctlpar\intbl\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\pararsid5594153 \rtlch \ab\ai\af1\afs28\alang1025 \ltrch \b\i\f1\fs28\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \ai0\af1\afs32 \ltrch 
+\i0\fs32\insrsid5594153\charrsid5594153 INVESTISSEMENTS ET FINANCEMENTS\cell }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \rtlch \af0\afs24\alang1025 \ltrch 
+\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \af0 \ltrch \insrsid5594153 \trowd \irow0\irowband0\lastrow \ltrrow\ts11\trqc\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 
+\trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \trftsWidth1\trautofit1\trpaddl70\trpaddr70\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\clcbpat1\cltxlrtb\clftsWidth3\clwWidth9212\clcbpatraw1 \cellx9142\row }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5594153 \rtlch \ab\af0\afs24\alang1025 \ltrch 
+\b\fs24\cf6\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid5594153 
+\par }\pard \ltrpar\s15\qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5594153 {\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid5594153 
+#slx(taba2p1c0;larg2000;larg7200([240;10][Immos_-_Emprunts_:_Investissements_-_Financements;3;10;1;0;0;0;0;0;c;1;1;1;1;8][imemp:inves:7:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]))#
+\par 
+\par }\pard \ltrpar\s15\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5594153 {\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid5594153 \page 
+\par }\pard\plain \ltrpar\s2\qc \li0\ri0\keepn\widctlpar\intbl\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\pararsid5594153 \rtlch \ab\ai\af1\afs28\alang1025 \ltrch \b\i\f1\fs28\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \ab0\af1 
+\ltrch \b0\insrsid5594153 \page }{\rtlch \ai0\af1\afs32 \ltrch \i0\fs32\insrsid5594153\charrsid5594153 INDICATEURS ECONOMIQUES\cell }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \rtlch \af0\afs24\alang1025 
+\ltrch \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \af0 \ltrch \insrsid5594153 \trowd \irow0\irowband0\lastrow \ltrrow\ts11\trqc\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr
+\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \trftsWidth1\trautofit1\trpaddl70\trpaddr70\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\clcbpat1\cltxlrtb\clftsWidth3\clwWidth9212\clcbpatraw1 \cellx9142\row }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5594153 \rtlch \ab\af0\afs24\alang1025 \ltrch 
+\b\fs24\cf6\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid5594153 
+\par }\pard \ltrpar\s15\qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5594153 {\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid5594153 #slx(taba2p1c0;larg2300;larg7200([240;120][;1;9;1;0;0;0;0;0;c;0;0;0;0;8][entete:1:1\'e8re_ann\'e9
+e_de_pr\'e9vision&Fin_de_pr\'e9vision;5006;10;1;1;0;0;0;0;c;1;1;1;1;8]#[240;120][;3;10;1;0;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][Chiffre_d'af
+faires____;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][totalC:LG(RES-165)+LG(RES-166):0:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[240;120][Il_s'agit_des_ventes_de_l'ann\'e9e_H.T.,_indemnit\'e9
+s_compensatrices_incluses.____;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0
+;c;0;0;0;0;8]#[240;120][;3;10;1;0;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][;5006;12;1;1;0;0;0;1;c;0;0;0;0;8][espace;5006;12;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][Exc\'e9
+dent_Brut_d'Expl._____;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][serie:RES.DON+RES-111:0:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][La_recherche_de_bonnes_performances_agricoles_et_commerciales,_donc_d'un_E.B.E._important,_doit_\'eatre_une_pr\'e9occupation_premi
+\'e8re_de_l'agriculteur_soucieux_de_la_comp\'e9titivit\'e9_de_son_entreprise.___;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][C'est_une_condition_indispensable_pour_la_p\'e9rennit\'e9
+_de_l'entreprise.___;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][L'E.B.E_intervient_dans_le_calcul_de_nombreux_ratios_que_sont_les_indicateurs_de_rentabilit\'e9
+.__;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][Il_r\'e9sulte_de_la_diff\'e9rence_entre_les_produits_courants_et_les_charges_courantes_de_l'exploitation_(charges_op\'e9
+rationnelles_et_frais_de_structure)_+_les_fermages_per\'e7us_par_les_associ\'e9s_pour_leurs_biens_propres_-_les_imp\'f4ts_fonciers_des_terres_mises_\'e0_disposition_de_la_soci\'e9t\'e9
+.___;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][Il_doit_permettre_de_rembourser_les_annuit\'e9s_de_l'entreprise,_assurer_des_pr\'e9l\'e8vements_priv\'e9s_suffisants_tout_en_laissant_une_marge_de_s\'e9curit\'e9
+,_indispensable_\'e0_la_p\'e9rennit\'e9_de_l'exploitation.___;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][;3;10;1;0;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][R\'e9
+sultat_courant___;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][serie:RES.DON+RES-121:0:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][Il_s'agit_du_revenu_de_l'ann\'e9e_"pro
+duits_-_charges"_(en_incluant_les_variations_de_stocks,_les_amortissements_et_les_frais_financiers).___;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][Ce_crit\'e8re_est_\'e9galement_appel\'e9
+_Revenu_Agricole._Pour_le_calcul_du_r\'e9sultat_courant_des_associ\'e9s,_il_est_tenu_compte_des_frais_financiers_relatifs_aux_emprunts_professionnels_non_pris_en_charge_par_la_soci\'e9t\'e9
+_(non_inscrits_au_bilan).___;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][;5006;12;1;1;0;0;0;1;c;0;0;0;0;8][espace;5006;12;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][Marge_de_S\'e9curit\'e9
+__(M.S.)__;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][serie:RES.DON+RES-161:0:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[240;120][M.S._consolid\'e9e__;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][to
+talC:LG(RES-161)-LG(RES-134):0:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[240;120][La_Marge_de_S\'e9curit\'e9_s'obtient_apr\'e8s_r\'e8glement_des_annuit\'e9s_et_pr\'e9l\'e8vements_priv\'e9
+s._Elle_traduit_:____;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][-_la_marge_de_manoeuvre_de_l'entreprise_pour_supporter_les_al\'e9as_\'e9
+conomiques,_____;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;5006;12;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][-_la_capacit\'e9_de_celle-ci_\'e0_faire_face_\'e0_de_nouveaux_investissements_et_\'e0_accro\'eetre_ses_pr\'e9l\'e8
+vements._____;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][La_"Marge_de_S\'e9curit\'e9_consolid\'e9e"_indique_l'\'e9volution_de_celle-ci_int\'e9grant_les_annuit\'e9s_des_associ\'e9
+s_(emprunts_JA_ou_fonciers)_qui_normalement_sont_pris_en
+_charge_personnellement_par_ceux-ci.__;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;5006;12;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][_;5006;9;1;0;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[480;120][;5006;12;1;1;0;0;0;1;c;0;0;0;0;8][espace;5006;12;1;0
+;0;0;0;0;c;0;0;0;0;8]#[560;120][Revenu_disponible_/_chef_d'exploitation_____;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][serie:RES.DON+RES-145:0:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][Le_Revenu_Disponible_est_calcul\'e9_de_la_mani\'e8
+re_suivante_:____;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][(E.B.E._de_la_soci\'e9t\'e9_-_Annuit\'e9s_Soci\'e9t\'e9_-_Annuit\'e9s_Associ\'e9s_+_Mises_\'e0_disposition_associ\'e9s)_/_Nombre_d'associ\'e9
+s_;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][Afin_de_pouvoir_pr\'e9tendre_aux_aides_\'e0_l'installation,_ce_revenu_doit_atteindre,_en_3\'e8me_ann\'e9e_un_minimum_de_10_920_\'80
+/chef_d'exploitation__pour_une_installation_comme_agriculteur_\'e0_titre_principal.____;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]))#
+\par }{\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid5586149 
+\par }{\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid13445604 
+#slx(taba2p1c0;larg2300;larg7200([280;120][AUTONOMIE_-_EFFICACITE__;5138;12;1;1;0;0;0;0;l;0;0;0;0;8][espace;5006;10;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][;5006;10;1;1;0;0;0;1;c;0;0;0;0;8][espace;5006;10;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][
+M.B.G._/_Produit_(%);5138;10;1;1;0;0;0;0;l;0;0;0;0;8][serie:RES.DON+RES-147:0:2;5138;10;1;0;0;0;0;0;c;1;1;1;1;8]#[240;120][Ce_ratio_mesure_l'ind\'e9pendance_de_l'entreprise_vis-\'e0-vis_de_ses_fournisseurs_ext\'e9rieurs_en_ce_qui_concerne_les_charges_op
+\'e9rationnelles._On_parle_\'e9
+galement_d'autonomie_de_l'exploitation._;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][;3;10;1;0;0;0;0;0;c;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][E.B.E._/_Produit_(%);5138;10;1;1;0;0;0;0;l;0
+;0;0;0;8][serie:RES.DON+RES-148:0:2;5138;10;1;0;0;0;0;0;c;1;1;1;1;8]#[240;120][Ce_ratio_sert_\'e0_comparer_le_niveau_d'efficacit\'e9_de_plusieurs_entreprises_:_il_est_en_effet_ind\'e9
+pendant_des_politiques_d'investissement_et_des_choix_fiscaux_de_l'exploitant._;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][;3;10;1;0;0;0;0;0;c;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][S\'e9curit\'e9
+_/_Produit_(%);5138;10;1;1;0;0;0;0;l;0;0;0;0;8][serie:RES.DON+RES-150:0:2;5138;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][Ce_ratio_permet_de_cerner_le_niveau_de_r\'e9sistance_de_l'entreprise_\'e0_des_\'e9v\'e9nements_impr\'e9
+vus,_des_besoins_de_financements_ou_de_pr\'e9l\'e8vements_suppl\'e9mentaires,_compte_tenu_de_son_volume_d'activit\'e9._;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]))#}{\rtlch \ab0\af0 \ltrch 
+\b0\cf0\insrsid15933178\charrsid13445604 
+\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15933178 \rtlch \af0\afs24\alang1025 \ltrch \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \ab\af0 \ltrch \b\insrsid15933178 \page }{
+\rtlch \af0 \ltrch \insrsid15933178 
+\par }\pard\plain \ltrpar\s2\qc \li0\ri0\keepn\widctlpar\intbl\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\pararsid15933178 \rtlch \ab\ai\af1\afs28\alang1025 \ltrch \b\i\f1\fs28\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch 
+\af0\afs24 \ltrch \f0\fs24\insrsid15933178 \page }{\rtlch \ab0\af1 \ltrch \b0\insrsid15933178 \page }{\rtlch \af0\afs24 \ltrch \f0\fs24\insrsid15933178 \page }{\rtlch \ab0\af1 \ltrch \b0\insrsid15933178 \page \page }{\rtlch \ai0\af1\afs32 \ltrch 
+\i0\fs32\insrsid15933178\charrsid15933178 INDICATEURS FINANCIERS\cell }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \rtlch \af0\afs24\alang1025 \ltrch \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 
+{\rtlch \af0 \ltrch \insrsid15933178 \trowd \irow0\irowband0\lastrow \ltrrow\ts11\trqc\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trautofit1\trpaddl70\trpaddr70\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat1\cltxlrtb\clftsWidth3\clwWidth9212\clcbpatraw1 \cellx9142\row 
+}\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15933178 \rtlch \ab\af0\afs24\alang1025 \ltrch \b\fs24\cf6\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \ab0\af0 \ltrch 
+\b0\cf0\insrsid15933178 
+\par }\pard \ltrpar\s15\qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5594153 {\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid15933178 #slx(taba2p1c0;larg2000;larg7200([10;120][;3;10;1;1;0;0;0;1;l;0;0;0;0;8][entete:1:1\'e8re_ann\'e9
+e_de_pr\'e9vision&Fin_de_pr\'e9
+vision;3;10;1;1;0;0;0;0;c;1;1;1;1;8]#[10;120][;3;10;1;0;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[10;120][ENDETTEMENT_;5006;10;1;1;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[10;120][Endettement_LMT_;5138;10;1;0;0;0;0;0;l;0
+;0;0;0;8][totalC:LG(RES-270)-LG(RES-268):0:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][Endettement_associ\'e9
+s___;5138;10;1;0;0;0;0;0;l;0;0;0;0;8][totalC:LG(IMMORES-66):0:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[10;120][Endettement_CT__;5138;10;1;0;0;0;0;0;l;0;0;0
+;0;8][totalC:LG(RES-276)-LG(RES-271):0:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][;5006;12;1;1;0;0;0;1;c;0;0;0;0;8][espace;5006;12;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][Total_endettement__;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][totalC:LG4+LG5+LG6:0:2;5006;10;1;1
+;0;0;0;0;c;1;1;1;1;8]))#
+\par 
+\par #slx(taba2p1cr0;larg2000;larg7200([240;120][Fonds_de_Roulement__;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][serie:RESBIS.DON+RESBIS-6:0:2;3;10;1;0;0;0;0;0;c;1;1;1;1;8]#[240;120][Le_Fonds_de_Roulement_(F.R.)_traduit_le_besoin_de_financement_de_l'activit\'e9
+_courante_(capitaux_propres_+_emprunts_L.M.T._-_Immobilisations)_de_l'entreprise._;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][;3;10;1;0;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][Bes
+oin_Fonds_Roul.t_;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][serie:RESBIS.DON+RESBIS-9:0:2;3;10;1;0;0;0;0;0;c;1;1;1;1;8]#[240;120][Le_Besoin_en_Fonds_de_Roulement_(B.F.R.)_indique_la_somme_d'argent__qui_doit__\'ea
+tre_investie_dans_l'entreprise_pour_permettre_son_fonctionnement_avec_une_tr\'e9sorerie_\'e9quilibr\'e9
+e.__;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][;3;10;1;0;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][Tr\'e9sorerie_Nette_;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][tota
+lS:LG1-LG4:0:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][La_Tr\'e9sorerie_Nette_repr\'e9sente,_si_elle_est_positive,_un_exc\'e9dent_de_ressource_que_l'on_retrouve_sous_forme_de_liquidit\'e9s._Elle_est_alors_r\'e9v\'e9latrice_d'une_situation_financi\'e8
+re_saine.___;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;5006;12;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][Une_Tr\'e9sorerie_Nette_n\'e9gative_indique_par_contre_des_difficult\'e9s_de_tr\'e9sorerie_induisant_la_n\'e9cessit\'e9_de_trouver_des_financements_\'e0
+_court_terme_:_pr\'eat_court_terme,_ouverture_de_cr\'e9dit,_d\'e9couvert_bancaire..._;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;5006;12;1;0;0;0;0;0;c;0;0;0;0;8]))#
+\par }{\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid6951708 
+\par #slx(taba2p1c0;larg2000;larg7200([240;120][EVOLUTION_DES_ANNUITES;3;10;1;1;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][Anciennes_annuit\'e9
+s__;5138;10;1;0;0;0;0;0;l;0;0;0;0;8][serie:IMMORES.DON+IMMORES-78:0:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[240;120][Nouvelles_annuit\'e9s__;5138;10;1;0;0;0;0;0;l;0;0;0;0;8][serie:IMMORES.DON+IMMORES-79:0:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[240;120][Annuit
+\'e9s_associ\'e9
+s__;5138;10;1;0;0;0;0;0;l;0;0;0;0;8][serie:RESBIS.DON+RESBIS-4:0:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][;5006;12;1;1;0;0;0;1;c;0;0;0;0;8][espace;5006;12;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][TOTAL;3;10;1;1;0;0;0;0;l;0;0;0;0;8][totalC:LG2+LG3+LG4
+:0:2;5006;10;1;1;0;0;0;0;c;1;1;1;1;8]#[240;120][Somme_des_remboursements_d'emprunts_(capital_+_int\'e9r\'eats)_inscrits_au_bilan_de_l'entreprise_+_emprunts_professionnels_rembours\'e9s_par_les_associ\'e9
+s_;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][;3;10;1;0;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][%_annuit\'e9
+s_/_E.B.E._;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][serie:RES.DON+RES-152:0:2;3;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][C'est_un_des_crit\'e8res_clef_de_l'endettement._Il_mesure_le_poids_du_remboursement_annuel_par_la_soci\'e9t\'e9_par_rapport_\'e0_la_rentabilit
+\'e9_de_l'entreprise.__;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]))#
+\par }{\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid12852353 
+\par #slx(gph(Ech\'e9ancier_soci\'e9t\'e9;10;1;4;0;;0;0;2;5;2661,5;5618,5;5416;5880;0;7890;165;5385;667;7140;3;582;720;7244;5190;5574;30;60;1;1;1;1;;11;30;;11;30;;11;0;;11;30;14;[RESBIS-3;Total_Entreprise;2;RESBIS.DON;0;0;128;192;80;1][RESBIS-4;Total_Associ
+\'e9s;2;RESBIS.DON;0;255;0;0;40;1][RESBIS-1;Anciennes_Annuit\'e9s;2;RESBIS.DON;0;0;128;255;40;1][RESBIS-2;Nouvelles_Annuit\'e9s;2;RESBIS.DON;0;128;255;255;40;1]))#
+\par 
+\par }\pard \ltrpar\s15\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12852353 {\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid12852353 \page 
+\par }\pard\plain \ltrpar\s2\qc \li0\ri0\keepn\widctlpar\intbl\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\pararsid12852353 \rtlch \ab\ai\af1\afs28\alang1025 \ltrch \b\i\f1\fs28\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch 
+\ai0\af1\afs32 \ltrch \i0\fs32\insrsid12852353\charrsid12852353 REPERES DE TRESORERIE\cell }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \rtlch \af0\afs24\alang1025 \ltrch 
+\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \af0 \ltrch \insrsid12852353 \trowd \irow0\irowband0\lastrow \ltrrow\ts11\trqc\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 
+\trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \trftsWidth1\trautofit1\trpaddl70\trpaddr70\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\clcbpat1\cltxlrtb\clftsWidth3\clwWidth9212\clcbpatraw1 \cellx9142\row }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12852353 \rtlch \ab\af0\afs24\alang1025 \ltrch 
+\b\fs24\cf6\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid12852353 
+\par }\pard \ltrpar\s15\qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5594153 {\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid11997315 #slx(taba2p1cr0;larg2000;larg7200([240;120][;3;10;1;1;0;0;0;1;l;0;0;0;0;8][entete:1:1\'e8re_ann\'e9
+e_de_pr\'e9vision&Fin_de_pr\'e9
+vision;3;10;1;1;0;0;0;0;c;1;1;1;1;8]#[240;120][;3;10;1;0;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][Budget_courant_;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][serie:RES.DON+RES-170:0:1;3;10;1;1;0;0;0;0;c;1;1;1;1;8]#[240;120][R\'e9
+mun._associ\'e9s__;5138;10;1;0;0;0;0;0;l;0;0;0;0;8][serie:RES.DON+RES-174:0:1;3;10;1;0;0;0;0;0;c;1;0;1;1;8]#[240;120][Annuit\'e9
+s_+_Frais_Fin._;5138;10;1;0;0;0;0;0;l;0;0;0;0;8][serie:RES.DON+RES-133:0:1;3;10;1;0;0;0;0;0;c;0;1;1;1;8]#[240;120][Budget_annuel_;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][serie:RES.DON+RES-176:0:1;3;10;1;1;0;0;0;0;c;1;1;1;1;8]#[240;120][C'est_la_tr\'e9sorerie_d
+\'e9gag\'e9e_par_l'exploitation,_une_fois_les_besoins_couverts_(pr\'e9l\'e8vements_priv\'e9s,_remboursements_d'emprunts)_;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;
+0;0;0;0;0;c;0;0;0;0;8]#[240;120][;3;10;1;0;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][Budget_total_;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][serie:RES.DON+RES-226:0:2;3;10;1;1;0;0;0;0;c;1;1;1;1;8]#[240;120][Il_repr\'e9sente_la_tr\'e9
+sorerie_d\'e9gag\'e9e_sur_un_exercice_apr\'e8s_r\'e9
+alisation_des_investissements_et_de_leur_financement_(emprunts,_subventions,_apports_personnels)._;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][;3;10;1;0;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;
+0;0;0;c;0;0;0;0;8]#[240;120][Tr\'e9sorerie_cumul\'e9e_;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][serie:RES.DON+RES-232:0:2;3;10;1;1;0;0;0;0;c;1;1;1;1;8]#[240;120][La_tr\'e9sorerie_cumul\'e9e_correspond_au_solde_bancaire_pr\'e9visionnel_\'e0
+_la_fin_de_chaque_exercice._;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]))#}{\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid12852353 
+\par }{\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid11997315 
+\par 
+\par #slx(gph(Du_budget_courant_au_budget_annuel;10;1;4;0;;0;0;2;5;1101,5;7028,5;5401;5880;0;7890;135;5265;157;7875;18;522;720;7244;5190;5574;30;60;1;1;1;1;;11;30;Budgets;11;30;Annuit\'e9s_-_Pr\'e9l\'e8vements;11;30;;11;30;16;[RES-172:0;Annuit\'e9
+s;1;RES.DON;0;255;0;0;30;1][RES-174:0;Pr\'e9l\'e8vements;1;RES.DON;0;128;255;128;30;1][RES-176:0;Budget_annuel;3;RES.DON;0;255;255;128;30;2][RES-170:0;Budget_courant;3;RES.DON;0;255;255;128;30;1]))#
+\par }{\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid14825290 
+\par 
+\par }\pard \ltrpar\s15\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14825290 {\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid14825290 \page 
+\par }\pard\plain \ltrpar\s2\qc \li0\ri0\keepn\widctlpar\intbl\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\pararsid14825290 \rtlch \ab\ai\af1\afs28\alang1025 \ltrch \b\i\f1\fs28\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch 
+\ai0\af1\afs32 \ltrch \i0\fs32\insrsid14825290\charrsid14825290 SYNTHESE DES RESULTATS ET CONCLUSION\cell }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \rtlch \af0\afs24\alang1025 \ltrch 
+\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \af0 \ltrch \insrsid14825290 \trowd \irow0\irowband0\lastrow \ltrrow\ts11\trqc\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 
+\trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \trftsWidth1\trautofit1\trpaddl70\trpaddr70\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\clcbpat1\cltxlrtb\clftsWidth3\clwWidth9212\clcbpatraw1 \cellx9142\row }\pard\plain \ltrpar\s15\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14825290 \rtlch \ab\af0\afs24\alang1025 \ltrch 
+\b\fs24\cf6\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid14825290 
+\par }\pard \ltrpar\s15\qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5594153 {\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid14825290\charrsid11997315 
+\par }\pard \ltrpar\s15\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6567924 {\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid11868133 #slx(taba2p1cr0;larg2000;larg7200([280;120][;5006;10;1;1;0;0;0;0;;0;0;0;0;8][entete:1:1\'e8re_ann
+\'e9e_de_pr\'e9vision&Fin_de_pr\'e9vision;5006;10;1;0;1;0;0;0;l;0;0;0;0;8]))#}{\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid5594153 
+\par }{\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid11868133 
+\par #slx(taba2p1cr0;larg2000;larg7200([280;120][;5006;10;1;1;0;0;0;0;;0;0;0;0;8][entete:2:1\'e8re_ann\'e9e_de_pr\'e9vision&Fin_de_pr\'e9vision;5006;10;1;0;1;0;0;0;l;0;0;0;0;8]))#
+\par }{\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid5008117 
+\par #slx(taba2p1cr0;larg2000;larg7200([280;120][;5006;10;1;1;0;0;0;0;;0;0;0;0;8][entete:3:1\'e8re_ann\'e9e_de_pr\'e9vision&Fin_de_pr\'e9vision;5006;10;1;0;1;0;0;0;l;0;0;0;0;8]))#
+\par 
+\par }{\rtlch \ab0\af0 \ltrch \b0\cf0\insrsid9718326 #slx(taba2p1cr0;larg2000;larg7200([280;120][;5006;10;1;1;0;0;0;0;;0;0;0;0;8][entete:4:1\'e8re_ann\'e9e_de_pr\'e9vision&Fin_de_pr\'e9vision;5006;10;1;0;1;0;0;0;l;0;0;0;0;8]))#}{\rtlch \ab0\af0 \ltrch 
+\b0\cf0\insrsid5008117\charrsid9718326 
+\par }}

@@ -1,0 +1,146 @@
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Synthèse du PDE
+CommentPage = Synthèse du PDE
+
+	[Tableau]
+		titre= Compte de résultat
+		PosX = 30
+		PoxY = 40
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 23
+			{[RES-57]-[RES-56]-[RES-9]-[RES-36]-[RES-51],Production vendue (CA), 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{0,Product° stockée immob., 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-57]-[RES-56]-[RES-9]-[RES-36]-[RES-51],Product°de l'exercice, 0, -1, 11, Arial, 10, 1, 0, 0,}
+			{[RES-91],Achat d'animaux, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-87]+[RES-105]-[RES-103]-[RES-104],Consommat° intermédiaire, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{([RES-57]-[RES-56]-[RES-9]-[RES-36]-[RES-51])-([RES-91])-[RES-87]+[RES-105]-[RES-103]-[RES-104],Valeur ajoutée, 0, -1, 11, Arial, 10, 1, 0, 0,}
+			{[RES-56],Subventions d'exploitation, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-103]+[RES-104],Impôts et taxes, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-109],Salaires & ch.ges sociales, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RSOC-33],Rém. du travail des ass., 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{0,, 4, 15, 4, Arial, 14, 1, 1, 1}
+			{[RES-111]-[RSOC-33],Excédent Brut d'Exploitat°, 0, -1, 11, Arial, 10, 1, 0, 0,}
+			{0,, 4, 15, 4, Arial, 14, 1, 1, 1}
+			{[RES-115]+[RES-116]+[RES-117]+[RES-118],Dotation aux amortiss.ts, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{0,Produits financiers, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-113]+[RES-114],Frais financiers, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{0,, 4, 15, 4, Arial, 14, 1, 1, 1}
+			{[RES-121]-[RSOC-33],Résultat courant, 0, -1, 11, Arial, 10, 1, 0, 0,}
+			{0,, 4, 15, 4, Arial, 14, 1, 1, 1}
+			{[RES-123],Produits exceptionnels, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-124],Charges exceptionnelles, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{0,, 4, 15, 4, Arial, 14, 1, 1, 1}
+			{[RES-126]-[RSOC-33],Résultat d'exercice, 0, -1, 11, Arial, 10, 1, 0, 0,}
+
+
+	[Tableau]
+		titre= Revenu Disponible
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 20
+			{[RES-121]-[RSOC-33],Résultat avant impôts, 0, -1, 11, Arial, 10, 1, 0, 0,}
+			{0,dont résultat des act. agri., 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{0,Résultat des act.compl., 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-115]+[RES-116]+[RES-117]+[RES-118],Dotation aux amortiss.ts, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[IMMORES-57]+[IMMORES-60],Remb.capital d'emprunt , 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RSOC-33],Rém. du travail des ass., 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-134],Annuités des associés, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-164],Part bénéf.ass.non exploit., 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{0,, 4, 15, 4, Arial, 14, 1, 1, 1}
+			{[RESDIV-6]|2,Nombre d'UTAF, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{0,, 4, 15, 4, Arial, 14, 1, 1, 1}
+			{[RES-145],Revenu Disponible / UTAF, 0, -1, 11, Arial, 10, 1, 0, 0,}
+			{0,, 4, 15, 4, Arial, 14, 1, 1, 1}
+			{[RES-164],Revenus prof. non agricoles, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-115],Revenus non prof., 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-121],Revenus de l'exploitant agri., 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{0,, 4, 15, 4, Arial, 14, 1, 1, 1}
+			{[RES-145],Revenu Disponible / UTAF, 0, -1, 11, Arial, 10, 1, 0, 0,}
+			{0,, 4, 15, 4, Arial, 14, 1, 1, 1}
+			{[RES-164],Revenu du travail du JA, 0, -1, 11, Arial, 10, 0, 0, 0,}
+
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Synthèse de l'EPI
+CommentPage = Synthèse de l'EPI
+
+	[Tableau]
+		titre= Tableau de trésorerie
+		PosX = 30
+		PoxY = 40
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 22
+			{[RES-165],Recettes courantes, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-166],Subventions d'exploitation, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-167]+[RES-168],Dépenses courantes, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-115],dont crédits CT / fourniss., 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-170],Solde de trésor. courante, 0, -1, 11, Arial, 10, 1, 0, 0,}
+			{0,, 4, 15, 4, Arial, 14, 1, 1, 1}
+			{[RES-188],Cession d'immobilisation, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-196],Réalisation d'emprunt LMT, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-198],Subventions d'investiss.t, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-213]+[RES-211],Apport de capitaux, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-212]+[RES-214],Retrait de capitaux, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-191],Achat d'immobilisations, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-172]+[RES-173],Rbt d'emprunts LMT, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-188]+[RES-196]+[RES-198]+[RES-213]+[RES-211]-([RES-212]+[RES-214])-[RES-191]-[RES-172]-[RES-173],Solde de tréso. except.lle, 0, -1, 11, Arial, 10, 1, 0, 0,}
+			{0,, 4, 15, 4, Arial, 14, 1, 1, 1}
+			{[RES-209],Solde de T.V.A, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-174]+[RES-215]-[RES-216],Prélèvements privés, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{0,, 4, 15, 4, Arial, 14, 1, 1, 1}
+			{[RES-226],Solde d'exercice, 0, -1, 11, Arial, 10, 1, 0, 0,}
+			{0,, 4, 15, 4, Arial, 14, 1, 1, 1}
+			{[RES-228],Trésorerie initiale, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-232],Solde cumulé, 0, -1, 11, Arial, 10, 1, 0, 0,}
+
+
+	[Tableau]
+		titre= Situation financière
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 19
+			{0,ACTIF, 4, 15, 30, Arial, 12, 1, 1, 1}
+			{[RES-243], Immobilisations, 0, -1, 11, Arial, 10, 0, 0, 0,}
+			{[RES-238], Dont batiment , 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+			{[RES-239], Dont matériel , 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+			{[RES-242], Dont cheptel , 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+			{[RES-236], Dont plantations , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{[RES-248], Stocks , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{[RES-252], Créances , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{[RES-253], Trésorerie disponible , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{0,, 4, 15, 4, Arial, 14, 1, 1, 1}
+			{[RES-256], Total actif, 0, -1, 11, Arial, 10, 1, 0, 0,}
+			{0,PASSIF, 4, 15, 30, Arial, 12, 1, 1, 1}
+			{[RES-266], Capitaux propres , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{[RES-270], Emprunts LMT , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{[RES-276], Dettes CT , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{0,, 4, 15, 4, Arial, 14, 1, 1, 1}
+			{[RES-280], Total passif, 0, -1, 11, Arial, 10, 1, 0, 0,}
+			{0,, 4, 15, 4, Arial, 14, 1, 1, 1}
+			{[RES-266]+[RES-270]-[RES-243], FDR, 0, -1, 11, Arial, 10, 1, 0, 0,}
+
+
+
+[Fin Doc]

@@ -1,0 +1,123 @@
+{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff1\deff1\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1036\deflangfe1036{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f34\fswiss\fcharset128\fprq2{\*\panose 020b0604020202020204}Arial Unicode MS;}{\f35\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Tahoma;}{\f46\fswiss\fcharset128\fprq2{\*\panose 020b0604020202020204}@Arial Unicode MS;}
+{\f47\froman\fcharset238\fprq2 Times New Roman CE;}{\f48\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f50\froman\fcharset161\fprq2 Times New Roman Greek;}{\f51\froman\fcharset162\fprq2 Times New Roman Tur;}
+{\f52\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f53\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f54\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f55\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\f57\fswiss\fcharset238\fprq2 Arial CE;}{\f58\fswiss\fcharset204\fprq2 Arial Cyr;}{\f60\fswiss\fcharset161\fprq2 Arial Greek;}{\f61\fswiss\fcharset162\fprq2 Arial Tur;}{\f62\fbidi \fswiss\fcharset177\fprq2 Arial (Hebrew);}
+{\f63\fbidi \fswiss\fcharset178\fprq2 Arial (Arabic);}{\f64\fswiss\fcharset186\fprq2 Arial Baltic;}{\f65\fswiss\fcharset163\fprq2 Arial (Vietnamese);}{\f389\fswiss\fcharset0\fprq2 Arial Unicode MS Western;}
+{\f387\fswiss\fcharset238\fprq2 Arial Unicode MS CE;}{\f388\fswiss\fcharset204\fprq2 Arial Unicode MS Cyr;}{\f390\fswiss\fcharset161\fprq2 Arial Unicode MS Greek;}{\f391\fswiss\fcharset162\fprq2 Arial Unicode MS Tur;}
+{\f392\fbidi \fswiss\fcharset177\fprq2 Arial Unicode MS (Hebrew);}{\f393\fbidi \fswiss\fcharset178\fprq2 Arial Unicode MS (Arabic);}{\f394\fswiss\fcharset186\fprq2 Arial Unicode MS Baltic;}{\f395\fswiss\fcharset163\fprq2 Arial Unicode MS (Vietnamese);}
+{\f396\fswiss\fcharset222\fprq2 Arial Unicode MS (Thai);}{\f397\fswiss\fcharset238\fprq2 Tahoma CE;}{\f398\fswiss\fcharset204\fprq2 Tahoma Cyr;}{\f400\fswiss\fcharset161\fprq2 Tahoma Greek;}{\f401\fswiss\fcharset162\fprq2 Tahoma Tur;}
+{\f402\fbidi \fswiss\fcharset177\fprq2 Tahoma (Hebrew);}{\f403\fbidi \fswiss\fcharset178\fprq2 Tahoma (Arabic);}{\f404\fswiss\fcharset186\fprq2 Tahoma Baltic;}{\f405\fswiss\fcharset163\fprq2 Tahoma (Vietnamese);}
+{\f406\fswiss\fcharset222\fprq2 Tahoma (Thai);}{\f509\fswiss\fcharset0\fprq2 @Arial Unicode MS Western;}{\f507\fswiss\fcharset238\fprq2 @Arial Unicode MS CE;}{\f508\fswiss\fcharset204\fprq2 @Arial Unicode MS Cyr;}
+{\f510\fswiss\fcharset161\fprq2 @Arial Unicode MS Greek;}{\f511\fswiss\fcharset162\fprq2 @Arial Unicode MS Tur;}{\f512\fbidi \fswiss\fcharset177\fprq2 @Arial Unicode MS (Hebrew);}{\f513\fbidi \fswiss\fcharset178\fprq2 @Arial Unicode MS (Arabic);}
+{\f514\fswiss\fcharset186\fprq2 @Arial Unicode MS Baltic;}{\f515\fswiss\fcharset163\fprq2 @Arial Unicode MS (Vietnamese);}{\f516\fswiss\fcharset222\fprq2 @Arial Unicode MS (Thai);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;
+\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;
+\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \rtlch \af1\afs22\alang1025 \ltrch \f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \snext0 Normal;}{
+\s1\ql \li0\ri0\keepn\nowidctlpar\aspalpha\faauto\outlinelevel0\rin0\lin0\itap0 \rtlch \ai\af1\afs22\alang1025 \ltrch \i\f1\fs22\cf8\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext0 heading 1;}{
+\s2\ql \li0\ri0\keepn\nowidctlpar\aspalpha\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch \ab\af1\afs20\alang1025 \ltrch \b\f1\fs20\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext0 heading 2;}{
+\s3\qc \li0\ri0\keepn\nowidctlpar\aspalpha\faauto\outlinelevel2\rin0\lin0\itap0 \rtlch \ab\af1\afs24\alang1025 \ltrch \b\f1\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext0 heading 3;}{
+\s4\ql \li0\ri0\keepn\nowidctlpar\aspalpha\faauto\outlinelevel3\rin0\lin0\itap0 \rtlch \ab\af1\afs18\alang1025 \ltrch \b\f1\fs18\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext0 heading 4;}{\*\cs10 \additive \ssemihidden 
+Default Paragraph Font;}{\*\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch \af0\afs20 \ltrch \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{
+\s15\ql \li0\ri0\sb240\sa120\keepn\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \rtlch \af35\afs28\alang1025 \ltrch \fs28\lang1036\langfe1036\loch\f35\hich\af35\dbch\af34\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext16 Heading;}{
+\s16\ql \li0\ri0\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \rtlch \af1\afs18\alang1025 \ltrch \f1\fs18\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext16 Body Text;}{\s17\ql \li0\ri0\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \rtlch 
+\af1\afs18\alang1025 \ltrch \f1\fs18\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon16 \snext17 List;}{\s18\ql \li0\ri0\sb120\sa120\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \rtlch \ai\af1\afs24\alang1025 \ltrch 
+\i\f1\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext18 \ssemihidden caption;}{\s19\ql \li0\ri0\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \rtlch \af1\afs22\alang1025 \ltrch 
+\f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext19 Index;}{\s20\ql \li0\ri0\sb240\sa120\keepn\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \rtlch \af1\afs28\alang1025 \ltrch 
+\fs28\lang1036\langfe1036\loch\f1\hich\af1\dbch\af34\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext16 Heading1;}{\s21\ql \li0\ri0\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \rtlch \af1\afs22\alang1025 \ltrch 
+\f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext21 Index1;}{\s22\ql \li0\ri0\sb240\sa120\keepn\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \rtlch \af1\afs28\alang1025 \ltrch 
+\fs28\lang1036\langfe1036\loch\f1\hich\af1\dbch\af34\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext16 WW-Heading;}{\s23\ql \li0\ri0\sb120\sa120\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \rtlch \ai\af1\afs24\alang1025 \ltrch 
+\i\f1\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext23 WW-caption;}{\s24\ql \li0\ri0\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \rtlch \af1\afs22\alang1025 \ltrch \f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 
+\sbasedon0 \snext24 WW-Index;}{\s25\ql \li0\ri0\sb240\sa120\keepn\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \rtlch \af1\afs28\alang1025 \ltrch \fs28\lang1036\langfe1036\loch\f1\hich\af1\dbch\af34\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext16 
+WW-Heading1;}{\s26\ql \li0\ri0\sb120\sa120\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \rtlch \ai\af1\afs24\alang1025 \ltrch \i\f1\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext26 WW-caption1;}{
+\s27\ql \li0\ri0\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \rtlch \af1\afs22\alang1025 \ltrch \f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext27 WW-Index1;}{\s28\ql \li0\ri0\nowidctlpar
+\tqc\tx4320\tqr\tx8640\aspalpha\faauto\rin0\lin0\itap0 \rtlch \af1\afs22\alang1025 \ltrch \f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext28 header;}{\s29\ql \li0\ri0\nowidctlpar
+\tqc\tx4536\tqr\tx9072\aspalpha\faauto\rin0\lin0\itap0 \rtlch \af1\afs22\alang1025 \ltrch \f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext29 footer;}{\s30\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \rtlch 
+\af1\afs16\alang1025 \ltrch \f1\fs16\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext30 Body Text 2;}{\s31\ql \li0\ri0\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \rtlch \af1\afs16\alang1025 \ltrch 
+\f1\fs16\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext31 Body Text Indent 2;}{\s32\ql \li0\ri0\nowidctlpar\tqc\tx7725\tqr\tx15450\aspalpha\faauto\rin0\lin0\itap0 \rtlch \af1\afs22\alang1025 \ltrch 
+\f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext32 WW-header;}{\s33\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\aspalpha\faauto\rin0\lin0\itap0 \rtlch \af1\afs22\alang1025 \ltrch 
+\f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext33 WW-header1;}{\s34\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\aspalpha\faauto\rin0\lin0\itap0 \rtlch \af1\afs22\alang1025 \ltrch 
+\f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext34 WW-header12;}{\*\cs35 \additive \rtlch \af0\afs24 \ltrch \fs24 \sbasedon10 page number;}}{\*\rsidtbl \rsid922358\rsid5597112\rsid9928195\rsid16522313}
+{\*\generator Microsoft Word 10.0.2627;}{\info{\author Franck}{\operator ESCA343}{\creatim\yr2007\mo6\dy18\hr8\min46}{\revtim\yr2009\mo10\dy4\hr22\min3}{\printim\yr2113\mo1\dy1}{\version12}{\edmins112}{\nofpages2}{\nofwords1646}{\nofchars9053}
+{\*\company GIE UGA}{\nofcharsws10678}{\vern16437}}\paperw16840\paperh11907\margl975\margr415\margt560\margb408\ltrsect \deftab708\widowctrl\ftnbj\aenddoc\hyphhotz425\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\horzdoc\dghspace120
+\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\nolnhtadjtbl\rsidroot16522313 \fet0\ltrpar \sectd \ltrsect\lndscpsxn\sbknone\linex0\headery284\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar
+\s28\qr \li0\ri0\nowidctlpar\tqc\tx4536\tqr\tx9072\aspalpha\faauto\rin0\lin0\itap0 \rtlch \af1\afs22\alang1025 \ltrch \f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \ab\af1\afs24 \ltrch \b\fs24\insrsid922358 4
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \rtlch \af1\afs22\alang1025 \ltrch 
+\f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \af1 \ltrch \insrsid922358 {\*\bkmkstart DDE_LINK}
+\par }\pard\plain \ltrpar\s3\qc \li0\ri0\keepn\nowidctlpar\aspalpha\faauto\outlinelevel2\rin0\lin0\itap0 \rtlch \ab\af1\afs24\alang1025 \ltrch \b\f1\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \af1 \ltrch \insrsid922358 
+DROITS A PRIMES, DROITS A PRODUIRE ET AUTRES AIDES (1/2)
+\par }\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \rtlch \af1\afs22\alang1025 \ltrch \f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \af1\afs12 \ltrch \fs12\insrsid922358\charrsid9928195 {\*\bkmkend DDE_LINK}
+
+\par }{\rtlch \af1 \ltrch \insrsid16522313 #slx(taba2p1cr0;larg8000;larg7200([220;120][PRIMES_DECOUPLEES_(1);5006;10;1;1;0;0;0;0;c;2;2;2;2;16][entete:5:1\'e8re_ann\'e9e_de_pr\'e9vision&Fin_de_pr\'e9vision;5006;8;1;1;0;0;0;0;c;1;1;1;1;16]#[220;120][DPU_Jach\'e8
+res;5006;8;1;1;0;0;0;0;c;1;1;1;1;16][totalC:0:0:0;5006
+;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][Montant_unitaire;5006;8;1;1;0;0;0;0;r;1;0;1;1;8][totalC:LG(DPU-131)_/_LG(DPU-130):2:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][Nombre_de_droits;5006;8;1;1;0;0;0;0;r;0;0;1;1;8][totalC:LG(DPU-130):2:0;5006;8;1;0;0;0;0;
+0
+;c;1;1;1;1;8]#[220;120][Total;5006;8;1;1;0;0;0;0;r;0;1;1;1;8][totalC:LG3*LG4:2:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][DPU_Normaux_(1);5006;8;1;1;0;0;0;0;c;1;1;1;1;16][totalC:0:0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][Montant_unitaire;5006;8;1;1;
+0
+;0;0;0;r;1;0;1;1;8][totalC:LG(DPU-133)_/_LG(DPU-132):2:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][Nombre_de_droits;5006;8;1;1;0;0;0;0;r;0;0;1;1;8][totalC:LG(DPU-132):2:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][Total;5006;8;1;1;0;0;0;0;r;0;1;1;1;8][tota
+lC:LG7*LG8:2:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][DPU_Sp\'e9
+ciaux_(1);5006;8;1;1;0;0;0;0;c;1;1;1;1;16][totalC:0:0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][Montant_unitaire;5006;8;1;1;0;0;0;0;r;1;0;1;1;8][totalC:LG(DPU-135)_/_LG(DPU-134):2:0;5006;8;1;
+0;0;0;0;0;c;1;1;1;1;8]#[220;120][Nombre_de_droits;5006;8;1;1;0;0;0;0;r;0;0;1;1;8][totalC:LG(DPU-134):2:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][Total;5006;8;1;1;0;0;0;0;r;0;1;1;1;8][totalC:LG11*LG12:2:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][TOTAL_D
+P
+U_REPRIS;5006;10;1;1;0;0;0;0;l;1;1;1;1;16][totalC:LG5+LG9+LG13:2:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][DEMANDE_RESERVE_INTEGREE_A_L'ANALYSE_ECONOMIQUE;5006;8;1;1;0;0;0;0;l;1;0;1;1;16][totalC:0:0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][Nombre_de_
+DPU;5006;8;1;1;0;0;0;0;l;0;0;1;1;16][totalC:0:0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][Valeur_totale_(en_euros);5006;8;1;1;0;0;0;0;l;0;1;1;1;16][totalC:0:0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][TOTAL_DPU_INTEGRES_A_L'ANALYSE_ECONOMIQUE_(apr\'e8
+s_r\'e9serve);5006;10;1;1;0;0;0;0;l;1;2;1;1;16][totalC:LG5+LG9+LG13:2:0;5006;8;1;0;0;0;0;0;c;1;2;1;1;8]#[220;120][AIDES_COUPLEES_(1);5006;10;1;1;0;0;0;0;c;2;2;2;2;16][entete:5:1\'e8re_ann\'e9e_de_pr\'e9vision&Fin_de_pr\'e9
+vision;5006;8;1;1;0;0;0;0;c;1;1;1;1;16]))#
+#slx(taba1p2cr0;larg6400;larg1600;larg7200([220;120][Prime_PMTVA_;5006;8;1;1;0;0;0;0;l;2;0;1;0;8][Montant_unitaire;5006;8;1;1;0;0;0;0;r;2;0;0;1;8][totalC:LG(PRIANI-9)_/_LG(PRI4-10):2:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][coupl\'e9e_\'e0
+;5006;8;1;1;0;0;0;0;
+l;0;0;1;0;8][Nombre_de_droits_;5006;8;1;1;0;0;0;0;r;0;0;0;1;8][totalC:LG(PRI4-10):2:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][..................................;5006;8;1;1;0;0;0;0;l;0;1;1;0;8][Total_;5006;8;1;1;0;0;0;0;r;0;1;0;1;8][totalC:LG(PRIANI-9):0
+:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][Prime_PB;5006;8;1;1;0;0;0;0;l;1;0;1;0;8][Montant_unitaire__;5006;8;1;1;0;0;0;0;r;1;0;0;1;8][totalC:LG(PRIANI-13)_/_LG(PRI25-11):2:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][coupl\'e9e_\'e0
+;5006;8;1;1;0;0;0;0;l;0;0;1;0
+;8][Nombre_de_droits_;5006;8;1;1;0;0;0;0;r;0;0;0;1;8][totalC:LG(PRI25-11):2:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][..................................;5006;8;1;1;0;0;0;0;l;0;1;1;0;8][Total_;5006;8;1;1;0;0;0;0;r;0;1;0;1;8][totalC:LG(PRIANI-13):0:0;5006
+;
+8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][Prime_PAB;5006;8;1;1;0;0;0;0;l;1;0;1;0;8][Montant_unitaire__;5006;8;1;1;0;0;0;0;r;1;0;0;1;8][totalC:(LG(PRIANI-1)_+_LG(PRIANI-2)_+_LG(PRIANI-3)_+_LG(PRIANI-4)_+_LG(PRIANI-5)_+_LG(PRIANI-6)_+_LG(PRIANI-7)_+_LG(PRIANI-8)
+)
+_/_(LG(PRI1-2)_+_LG(PRI1-5)_+_LG(PRI1-8)_+_LG(PRI1-10)_+_LG(PRI2-2)_+_LG(PRI2-5)_+_LG(PRI2-8)_+_LG(PRI2-10)_+_LG(PRI2-12)_+_LG(PRI3-2)_+_LG(PRI8-8)_+_LG(PRI8-10)_+_LG(PRI8-12)_+_LG(PRI9-8)_+_LG(PRI9-10)_+_LG(PRI9-12)):2:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[
+220;120][coupl\'e9e_\'e0
+;5006;8;1;1;0;0;0;0;l;0;0;1;0;8][Nombre_de_droits_;5006;8;1;1;0;0;0;0;r;0;0;0;1;8][totalC:LG(PRI1-2)_+_LG(PRI1-5)_+_LG(PRI1-8)_+_LG(PRI1-10)_+_LG(PRI2-2)_+_LG(PRI2-5)_+_LG(PRI2-8)_+_LG(PRI2-10)_+_LG(PRI2-12)_+_LG(PRI3-2)_+_LG(PRI8-8)_+_LG(
+PRI8-10)_+_LG(PRI8-12)_+_LG(PRI9-8)_+_LG(PRI9-10)_+_LG(PRI9-12):2:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][..................................;5006;8;1;1;0;0;0;0;l;0;1;1;0;8][Total_;5006;8;1;1;0;0;0;0;r;0;1;0;1;8][totalC:LG(PRIANI-1)_+_LG(PRIANI-2)_+_LG
+(
+PRIANI-3)_+_LG(PRIANI-4)_+_LG(PRIANI-5)_+_LG(PRIANI-6)_+_LG(PRIANI-7)_+_LG(PRIANI-8):0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][Prime_cultures;5006;8;1;1;0;0;0;0;l;1;0;1;0;8][Montant_unitaire_;5006;8;1;1;0;0;0;0;r;1;0;0;1;8][totalC:LG(PRICULT-22)_/_LG(
+CULT-1):0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][coupl\'e9e_\'e0
+;5006;8;1;1;0;0;0;0;l;0;0;1;0;8][Nombre_de_droits_;5006;8;1;1;0;0;0;0;r;0;0;0;1;8][totalC:LG(CULT-1):0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][..................................;5006;8;1;1;0
+;0;0;0;l;0;1;1;0;8][Total_;5006;8;1;1;0;0;0;0;r;0;1;0;1;8][totalC:LG(PRICULT-22):0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][TOTAL_PRIMES_COUPLEES_DETENUES_;5006;10;1;1;0;0;0;0;l;1;1;1;0;16][;5006;8;1;0;0;0;0;0;c;1;1;0;1;16][totalC:LG3+LG6+LG9+LG12:0:3;
+5
+006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][TOTAL_DPU_ET_AIDES_COUPLEES_INTEGRES_A_L'ANALYSE_ECONOMIQUE_avant_modulation_;5006;10;1;1;0;0;0;0;l;1;1;1;0;16][;5006;8;1;0;0;0;0;0;c;1;1;0;1;16][totalC:LG(DPU-131)_+_LG(DPU-133)_+_LG(DPU-135)_+_LG13:0:0;5006;8;1;0
+;0;0;0;0;c;1;1;1;1;8]#[220;120][Demande_R\'e9serve_droit_int\'e9gr\'e9_\'e0_l'analyse_\'e9
+conomique_:_PMTVA_;5006;8;1;1;0;0;0;0;l;1;0;1;1;16][Nombre;5006;8;1;1;0;0;0;0;r;1;0;1;1;8][totalC:0:0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][_;5006;9;1;0;0;0;0;0;l;0;1;1;1;16][V
+aleur_(en_euros);5006;8;1;1;0;0;0;0;r;0;1;1;1;8][totalC:0:0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][Demande_R\'e9serve_droit_int\'e9gr\'e9_\'e0_l'analyse_\'e9
+conomique_:_PB_;5006;8;1;1;0;0;0;0;l;1;0;1;1;16][Nombre;5006;8;1;1;0;0;0;0;r;1;0;1;1;8][totalC:0:0:0;5006;8;1
+;0;0;0;0;0;c;1;1;1;1;8]#[220;120][_;5006;9;1;0;0;0;0;0;l;0;1;1;1;16][Valeur_(en_euros);5006;8;1;1;0;0;0;0;r;0;1;1;1;8][totalC:0:0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][TOTAL_PRIMES_par_la_R\'e9serve_int\'e9gr\'e9es_\'e0_l'analyse_\'e9
+conomique_:_;5006;8;1;1;0;0;0;0
+;l;1;0;1;1;16][Nombre;5006;8;1;1;0;0;0;0;r;1;0;1;1;8][totalC:0:0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][_;5006;9;1;0;0;0;0;0;l;0;1;1;1;16][Valeur_(en_euros);5006;8;1;1;0;0;0;0;r;0;1;1;1;8][totalC:0:0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][CALCUL
+_
+DE_LA_MODULATION;5006;8;1;1;0;0;0;0;c;1;0;1;1;16][Taux_;5006;8;1;1;0;0;0;0;r;1;0;1;1;8][totalC:LG(DPU-4):0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][;5006;9;1;0;0;0;0;0;l;0;0;1;1;16][Franchise_;5006;8;1;1;0;0;0;0;r;0;0;1;1;8][totalC:LG(DPU-1):0:0;5006;8
+;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][;5006;9;1;0;0;0;0;0;l;0;1;1;1;16][Total_;5006;8;1;1;0;0;0;0;r;0;1;1;1;8][totalC:LG(DPU-64):0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][TOTAL_DPU_ET_AIDES_COUPLEES_INTEGRES_A_L'ANALYSE_ECONOMIQUE_apr\'e8
+s_modulation_;5006;10;1;1;0;0;0;0;l;1;1;1;0;16][;5006;9;1;0;0;0;0;0;c;1;1;0;1;16][totalC:LG14-LG23:0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[220;120][(1)____liste_\'e0_compl\'e9
+ter_suivant_le_type_d'exploitation_;5006;8;1;1;0;0;0;0;l;0;0;0;0;8][;5006;10;1;1;0;0;0;0;;0;0;0;0;8][espace;5006;10;1;0;0;0;0;0;;0;0;0;0;8]))#}{\rtlch \af1 \ltrch \insrsid922358\charrsid16522313 
+\par }\pard\plain \ltrpar\s3\qc \li0\ri0\keepn\nowidctlpar\aspalpha\faauto\outlinelevel2\rin0\lin0\itap0 \rtlch \ab\af1\afs24\alang1025 \ltrch \b\f1\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \af1 \ltrch \insrsid922358 
+DROITS A PRIMES, DROITS A PRODUIRE ET AUTRES AIDES (2/2)
+\par }\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\aspalpha\faauto\rin0\lin0\itap0 \rtlch \af1\afs22\alang1025 \ltrch \f1\fs22\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\rtlch \af1\afs18 \ltrch \fs18\insrsid922358 
+#slx(taba2p2cr0;larg6500;larg1500;larg7200([280;120][AUTRE_AIDES_(1)_;5006;10;1;1;0;0;0;0;c;2;2;2;0;16][;5006;9;1;0;0;0;0;0;c;2;2;0;2;16][entete:5:1\'e8re_ann\'e9e_de_pr\'e9vision&Fin_de_pr\'e9
+vision;5006;8;1;1;0;0;0;0;c;1;1;1;1;16]#[280;120][MAE;5006;10;1;1;0;0;0;0;l;2;0;1;0;8][Surface_aid\'e9
+e_;5006;8;1;1;0;0;0;0;l;2;0;0;1;8][totalC:0:2:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][;5006;10;1;1;0;0;0;0;l;0;0;1;0;8][Montant_unitaire_de_l'aide_;5006;8;1;1;0;0;0;0;l;0;0;0;1;8][totalC:0:2:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[28
+0;120][;5006;10;1;1;0;0;0;0;l;0;2;1;0;8][Montant_total_de_l'aide_;5006;8;1;1;0;0;0;0;l;0;2;0;1;8][totalC:0:0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][ICHN;5006;10;1;1;0;0;0;0;l;2;0;1;0;8][Surface_aid\'e9
+e_;5006;8;1;1;0;0;0;0;l;2;0;0;1;8][totalC:LG(PRI5-10)
+:2:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][;5006;10;1;1;0;0;0;0;l;0;0;1;0;8][Montant_unitaire_de_l'aide_;5006;8;1;1;0;0;0;0;l;0;0;0;1;8][totalC:LG(PRI5-19)_/_LG(PRI5-10):2:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][;5006;10;1;1;0;0;0;0;l;0;2;1;0;8][M
+ontant_total_de_l'aide_;5006;8;1;1;0;0;0;0;l;0;2;0;1;8][totalC:LG(PRI5-19):0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][_;5006;9;1;0;0;0;0;0;l;2;0;1;0;8][Surface_aid\'e9
+e;5006;8;1;1;0;0;0;0;l;2;0;0;1;8][totalC:0:2:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][;
+5006;10;1;1;0;0;0;0;l;0;0;1;0;8][Montant_unitaire_de_l'aide_;5006;8;1;1;0;0;0;0;l;0;0;0;1;8][totalC:0:2:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][;5006;10;1;1;0;0;0;0;l;0;2;1;0;8][Montant_total_de_l'aide_;5006;8;1;1;0;0;0;0;l;0;2;0;1;8][totalC:0:0:0;500
+6;8;1;0;0;0;0;0;c;1;2;1;1;8]#[280;120][DROITS_A_PRODUIRE_;5006;10;1;1;0;0;0;0;c;2;2;2;0;16][;5006;9;1;0;0;0;0;0;c;2;2;0;2;16][entete:5:1\'e8re_ann\'e9e_de_pr\'e9vision&Fin_de_pr\'e9
+vision;5006;8;1;1;0;0;0;0;c;1;1;1;1;16]#[280;120][Quotas_laitiers_(bovins,_ovins,_caprin
+s);5006;10;1;1;0;0;0;0;l;2;1;1;0;8][_;5006;9;1;0;0;0;0;0;l;2;1;0;1;8][totalC:0:0:0;5006;8;1;0;0;0;0;0;c;2;1;1;1;8]#[280;120][Quotas_betteraviers;5006;10;1;1;0;0;0;0;l;1;1;1;0;8][__;5006;9;1;0;0;0;0;0;l;1;1;0;1;8][totalC:0:0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;
+8
+]#[280;120][Quotas_tabac;5006;10;1;1;0;0;0;0;l;1;1;1;0;8][__;5006;9;1;0;0;0;0;0;l;1;1;0;1;8][totalC:0:0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][TOTAL_DROITS_A_PRODUIRE;5006;10;1;1;0;0;0;0;l;1;1;1;0;16][__;5006;9;1;0;0;0;0;0;l;1;1;0;1;16][totalC:0:0:0;
+5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][DEMANDE_RESERVE_INTEGREE_A_L'ANALYSE_ECONOMIQUE_(ou_op\'e9
+rateurs)_;5006;10;1;1;0;0;0;0;l;1;1;1;0;8][;5006;9;1;0;0;0;0;0;l;1;1;0;1;8][totalC:0:0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][TOTAL_DROITS_A_PRODUIRE_INTEGRES_A_L'ANALYSE_ECONOMIQUE_(apr\'e8s_attribution_r\'e9
+serve)_;5006;10;1;1;0;0;0;0;l;1;1;1;0;16][;5006;9;1;0;0;0;0;0;l;1;1;0;1;16][totalC:0:0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][;5006;10;1;1;0;0;0;0;l;1;2;1;0;8][__;5006;9;1;0;0;0;0;0;l;1;2;0;1;8][totalC:0
+:0:0;5006;8;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][DROITS_A_PLANTATION_VITICOLES_;5006;10;1;1;0;0;0;0;c;2;2;2;0;16][;5006;9;1;0;0;0;0;0;c;2;2;0;2;16][entete:5:1\'e8re_ann\'e9e_de_pr\'e9vision&Fin_de_pr\'e9
+vision;5006;8;1;1;0;0;0;0;c;1;1;1;1;16]#[280;120][Surface_demand\'e9e_int\'e9gr\'e9e_\'e0_l'analyse_\'e9conomique_;5006;10;1;1;0;0;0;0;l;2;1;1;0;8][;5006;9;1;0;0;0;0;0;l;2;1;0;1;8][totalC:0:0:0;5006;8;1;0;0;0;0;0;c;2;1;1;1;8]#[280;120][Surface_demand\'e9
+e_non_int\'e9gr\'e9e_\'e0_l'analyse_\'e9conomique_;5006;10;1;1;0;0;0;0;l;2;1;1;0;8][;5006;9;1;0;0;0;0;0;l;2;1;0;1;8][totalC:0:0:0;5006;8;1;0;0;0;0;0;c;2;1;1;1;8]))#}{\rtlch \af1\afs18 \ltrch \fs18\insrsid922358\charrsid922358 
+\par }}

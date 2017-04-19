@@ -1,0 +1,73 @@
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Synthèse de l'étude
+CommentPage = Synthèse de l'étude
+
+	[Tableau]
+		titre= Moyens de production
+		PosX = 30
+		PoxY = 25
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 49
+			{[CLTP-1]|2, Cultures pérennes , 0, -1, 10, Arial, 9, 0, 0, 0,/DEC/VIS}
+			{[CULT-1]|2, Cultures de vente , 0, -1, 10, Arial, 9, 0, 0, 0,/DEC}
+			{[CULT-2]|2, Cultures fourragères , 0, -1, 10, Arial, 9, 0, 0, 0,/DEC}
+			{[CULT-3]|2, Cultures maraîchères , 0, -1, 10, Arial, 9, 0, 0, 0,/DEC}
+			{[CULT-4]+[CLTP-1]|2, SAU, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{[Cult-7]|2, UGB / ha de SFP , 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{0,Investissements - Financements, 4, 15, 30, Arial, 12, 1, 1, 1}
+			{[RES-183], Bâtiment, 0, -1, 10, Arial, 9, 0, 0, 0,/DEC}
+			{[RES-184], Matériel, 0, -1, 10, Arial, 9, 0, 0, 0,/DEC}
+			{[RES-185], Cheptel, 0, -1, 10, Arial, 9, 0, 0, 0,/DEC}
+			{[RES-181], Plantation, 0, -1, 10, Arial, 9, 0, 0, 0,/DEC}
+			{[RES-179]+[RES-180]+[RES-182]+[RES-186], Autres, 0, -1, 10, Arial, 9, 0, 0, 0,/DEC}
+			{[RES-191], Total investissements , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0,, 4, 15, 4, Arial, 14, 1, 1, 1}
+			{[RES-196], Emprunts , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[RES-198], Subventions , 0, -1, 12, Arial, 10, 0, 0, 0}
+                  {[RES-191]-[RES-196]-[RES-198], Autofinancements , 0, -1, 12, Arial, 10, 0, 0, 0}
+                  {[RES-191], Total financements , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0,Résultats économiques, 4, 15, 30, Arial, 12, 1, 1, 1}
+			{[RES-57], * , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{[RES-92], * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{[RES-111], *, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{[RES-172]+[RES-173]+[RES-230], Annuités + autres FF , 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+			{[RES-174], Prélèvements, 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+			{[RES-215], Prél.ts except., 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+		{([RES-111]-([RES-172]+[RES-173]+[RES-230]))-([RES-174]+[RES-215]), Marge de sécurité , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0,Endettement, 4, 15, 30, Arial, 14, 1, 1, 1}
+                  {[RES-158], Emprunts expl. LMT, 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+			{IMMORES-66, *, 0, -1, 11, Arial, 10, 0, 0, 0,/DEC/VIS}
+			{[RES-159], Dettes court-terme, 0, -1, 11, Arial, 10, 0, 0, 0,/DEC/VIS}
+	            {[RES-158]+[IMMORES-66]+[RES-159], Endettement , 2, 7, 12, Arial, 10, 1, 0, 0}
+                  {0,Efficacité - Solvabilité, 4, 15, 30, Arial, 14, 1, 1, 1}
+			{[RES-148], EBE / produit |%, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[RES-162], M. sécurité / produit |%, 0, -1, 12, Arial, 10, 0, 0, 0}
+                  {(([RES-111]-([RES-172]+[RES-173]+[RES-230]))-([RES-174]))/[RES-111]*100, M. sécurité / EBE |%, 0, -1, 12, Arial, 10, 0, 0, 0}
+			 {0,, 4, 15, 4, Arial, 14, 1, 1, 1}
+                  {(([RES-269]+[IMMORES-66])/[RES-111])|2, En cours LMT / EBE , 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+                  {0,Equilibre financier, 4, 15, 30, Arial, 14, 1, 1, 1}
+			{0,, 4, 15, 4, Arial, 14, 1, 1, 1}
+                  {[RES-266]+[RES-268]+[RES-269]+[RES-271]-[RES-243]-[RES-251], Fonds de roulement , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[RES-248]+[RES-249]+[RES-250]-([RES-272]+[RES-273]+[RES-274]), Besoin Fonds de Roulement, 0, -1, 12, Arial, 10, 0, 0, 0}
+                  {([RES-266]+[RES-268]+[RES-269]+[RES-271]-[RES-243]-[RES-251])-([RES-248]+[RES-249]+[RES-250]-([RES-272]+[RES-273]+[RES-274])), Trésorerie nette , 0, -1, 12, Arial, 10, 0, 0, 0}
+                   {0,, 4, 15, 4, Arial, 14, 1, 1, 1}
+		      {[RES-156], Taux endettement |%, 0, -1, 12, Arial, 10, 0, 0, 0}
+                  {[RES-157], Taux endettement ext.|%, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+                  {([RES-276]+[RES-271])/([RES-254]+[RES-251])|2, Dettes à C.T. / Actif circulant, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0,Critères, 4, 15, 30, Arial, 14, 1, 1, 1}
+			{RES-145, Revenu disponible / Utaf, 0, -1, 12, Arial, 10, 0, 0, 0,}
+                  {PAM2-14, Revenu du travail / Uth, 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{[RES-152], Annuités LMT / EBE |%, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+[Fin Doc]
+
+
+

@@ -1,0 +1,171 @@
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Simulation MSA
+CommentPage = Simulation MSA
+
+	[Text]
+		Text = Simulation des cotisations sociales pour : [MSA-1:7]
+		PosX = 15
+		PoxY = 30
+		Police= Arial,14,1,0,1
+
+	[Text]
+		Text = Exo. JA : [MSA-6:8]
+		PosX = 15
+		PoxY = 40
+		Police= Arial,11,1,0,0
+
+	[Text]
+		Text = An. 1ére cotis. : [MSA-7:0]
+		PosX = 15
+		PoxY = 45
+		Police= Arial,11,1,0,0
+
+	[Text]
+		Text = Revenus antérieurs :
+		PosX = 60
+		PoxY = 40
+		Police= Arial,11,1,0,1
+
+	[Text]
+		Text = Revenu N-1 : [MSA-2:0]
+		PosX = 65
+		PoxY = 45
+		Police= Arial,11,0,0,0
+
+	[Text]
+		Text = Revenu N-2 : [MSA-3:0]
+		PosX = 65
+		PoxY = 50
+		Police= Arial,11,0,0,0
+
+	[Text]
+		Text = Revenu N-3 : [MSA-4:0]
+		PosX = 65
+		PoxY = 55
+		Police= Arial,11,0,0,0
+
+	[Text]
+		Text = FVD :
+		PosX = 110
+		PoxY = 40
+		Police= Arial,11,1,0,1
+
+
+	[Text]
+		Text = FVD N-1 : [MSA-2:2]
+		PosX = 115
+		PoxY = 45
+		Police= Arial,11,0,0,0
+
+	[Text]
+		Text = FVD N-2 : [MSA-3:2]
+		PosX = 115
+		PoxY = 50
+		Police= Arial,11,0,0,0
+
+	[Text]
+		Text = FVD N-3 : [MSA-4:2]
+		PosX = 115
+		PoxY = 55
+		Police= Arial,11,0,0,0
+
+
+	[Text]
+		Text = Cotisations antérieures :
+		PosX = 140
+		PoxY = 40
+		Police= Arial,11,1,0,1
+
+	[Text]
+		Text = Cotisation N-1 : [MSA-2:1]
+		PosX = 150
+		PoxY = 45
+		Police= Arial,11,0,0,0
+
+	[Text]
+		Text = Cotisation N-2 : [MSA-3:1]
+		PosX = 150
+		PoxY = 50
+		Police= Arial,11,0,0,0
+
+	[Text]
+		Text = Cotisation N-3 : [MSA-4:1]
+		PosX = 150
+		PoxY = 55
+		Police= Arial,11,0,0,0
+
+	[Tableau]
+		titre= Hypothèses
+		PosX = 30
+		PoxY = 67
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 15
+			{MSA-8, Revenu brut, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{MSA-9, Nombre de SMI, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{MSA-10, Option ass. annuelle, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{MSA-11, Activité BA/BIC, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{MSA-12, An. exo. JA, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{MSA-13, Cjt collaborateur, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{MSA-14, Nb aides familiaux, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{MSA-15, Régime fiscal (Réel ou Forf.), 0, -1, 12, Arial, 10, 0, 0, 0}
+			{MSA-44, FVD, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{MSA-16, Base calcul cot., 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{MSA-17, Base calcul CSG, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+	[Tableau]
+		titre= Calcul
+		PosX = 30
+		PoxY = 0
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 33
+			{MSA-18, AXARP, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{MSA-19, AVRP, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{MSA-20, AVIRP, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{MSA-21, AVAD , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{MSA-37, Retraite comp. , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{MSA-22, AFRP, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{MSA-23, Veuvage, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{MSA-38, AEEXA, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{MSA-42, IJAMEXA, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{MSA-24, AVRP conjoint , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{MSA-25, AVIRP conjoint , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{MSA-39, COLPI conjoint , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{MSA-40, AEEXA conjoint , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{MSA-26, Solidarité , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{MSA-27, AXARP aide fam., 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{MSA-28, AVRP aide fam., 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{MSA-29, AVIRP aide fam., 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{MSA-41, AEEXA aide fam. , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{MSA-30, Exonération JA, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{MSA-31, Cotisation sociale, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{MSA-32, CSG , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{MSA-33, CSG déductible, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{MSA-34, CRDS, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{MSA-35, VIVEA, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{MSA-36, Montant total, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{MSA-42, Point retraite, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+[Fin Doc]
+

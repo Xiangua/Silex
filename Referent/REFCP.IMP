@@ -1,0 +1,98 @@
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 0
+TitreModule = Reférentiel cultures pérennes
+CommentPage = Reférentiel cultures pérennes
+
+	[Text]
+		Text = Culture : [IMPREFCP-1:7]
+		PosX = 15
+		PoxY = 30
+		Police= Arial,14,1,0,1
+
+	[Text]
+		Text = Type de culture : [IMPREFCP-2:7]
+		PosX = 30
+		PoxY = 40
+		Police= Arial,12,0,0,0
+
+	[Text]
+		Text = Unité de surface : [IMPREFCP-3:7]
+		PosX = 30
+		PoxY = 45
+		Police= Arial,12,0,0,0
+	[Text]
+		Text = Unité de rendement : [IMPREFCP-4:7]
+		PosX = 30
+		PoxY = 50
+		Police= Arial,12,0,0,0
+	[Text]
+		Text = Nb d'année avant pleine production : [IMPREFCP-5:7]
+		PosX = 30
+		PoxY = 55
+		Police= Arial,12,0,0,0
+	[Text]
+		Text = Année début d'amortissement : [IMPREFCP-6:7]
+		PosX = 30
+		PoxY = 60
+		Police= Arial,12,0,0,0
+	[Text]
+		Text = Nb d'année d'amortissement : [IMPREFCP-7:7]
+		PosX = 30
+		PoxY = 65
+		Police= Arial,12,0,0,0
+
+	[Tableau]
+		titre= Coût de plantation
+		PosX = 30
+		PoxY = 95
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 10
+		Ligne = 14
+			{IMPREFCP-8, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{IMPREFCP-9, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-10, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-11, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-12, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-13, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-14, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-15, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-16, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-17, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-18, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{[IMPREFCP-9]+[IMPREFCP-10]+[IMPREFCP-11]+[IMPREFCP-12]+[IMPREFCP-13]+[IMPREFCP-14]+[IMPREFCP-15]+[IMPREFCP-16]+[IMPREFCP-17]+[IMPREFCP-18], Charges , 2, 7, 12, Arial, 10, 1, 0, 0}
+
+	[Tableau]
+		titre= Charges annuelles
+		PosX = 30
+		PoxY = 0
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 11
+		Ligne = 17
+			{IMPREFCP-20, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-21, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-22, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{IMPREFCP-23, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-24, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-25, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-26, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-27, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-28, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-29, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-30, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-31, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-32, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-33, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{[IMPREFCP-23]+[IMPREFCP-24]+[IMPREFCP-25]+[IMPREFCP-26]+[IMPREFCP-27]+[IMPREFCP-28]+[IMPREFCP-29]+[IMPREFCP-30]+[IMPREFCP-31]+[IMPREFCP-32]+[IMPREFCP-33], Charges op. , 2, 7, 12, Arial, 10, 1, 0, 0}
+
+[Fin Doc]

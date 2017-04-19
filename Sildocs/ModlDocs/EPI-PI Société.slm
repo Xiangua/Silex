@@ -1,0 +1,1106 @@
+{\rtf1\ansi\deff0\adeflang1025
+{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset0 Times New Roman;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\froman\fprq2\fcharset0 Times New Roman;}{\f4\fswiss\fprq2\fcharset0 Arial Black;}{\f5\fswiss\fprq2\fcharset0 Tahoma;}{\f6\fnil\fprq2\fcharset2 Wingdings;}{\f7\fnil\fprq0\fcharset128 StarSymbol{\*\falt Arial Unicode MS};}{\f8\fscript\fprq2\fcharset0 Comic Sans MS;}{\f9\fnil\fprq2\fcharset0 MS Mincho;}{\f10\fnil\fprq2\fcharset0 MS Mincho;}{\f11\fswiss\fprq2\fcharset0 Lucida Sans Unicode;}{\f12\fnil\fprq2\fcharset0 Tahoma;}{\f13\fnil\fprq0\fcharset0 Tahoma;}}
+{\colortbl;\red0\green0\blue0;\red255\green0\blue0;\red192\green192\blue192;\red255\green255\blue255;\red128\green128\blue128;}
+{\stylesheet{\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036\snext1 Normal;}
+{\s2\sb240\sa120\keepn\rtlch\af12\afs28\lang255\ltrch\dbch\af9\langfe1036\hich\f2\fs28\lang1036\loch\f2\fs28\lang1036\sbasedon1\snext3 Heading;}
+{\s3\sa120\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036\sbasedon1\snext3 Body Text;}
+{\s4\sa120\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036\sbasedon3\snext4 List;}
+{\s5\sb120\sa120\rtlch\af13\afs24\lang255\ai\ltrch\dbch\langfe1036\hich\fs24\lang1036\i\loch\fs24\lang1036\i\sbasedon1\snext5 caption;}
+{\s6\rtlch\af13\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036\sbasedon1\snext6 Index;}
+{\s7\sb240\sa120\keepn\rtlch\af2\afs28\lang255\ltrch\dbch\af10\langfe1036\hich\f2\fs28\lang1036\loch\f2\fs28\lang1036\sbasedon1\snext3 Heading;}
+{\s8\sb120\sa120\rtlch\afs24\lang255\ai\ltrch\dbch\langfe1036\hich\fs24\lang1036\i\loch\fs24\lang1036\i\sbasedon1\snext8 caption;}
+{\s9\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036\sbasedon1\snext9 Index;}
+{\s10\sb240\sa120\keepn\rtlch\af2\afs28\lang255\ltrch\dbch\af10\langfe1036\hich\f2\fs28\lang1036\loch\f2\fs28\lang1036\sbasedon1\snext3 WW-Heading;}
+{\s11\sb120\sa120\rtlch\afs24\lang255\ai\ltrch\dbch\langfe1036\hich\fs24\lang1036\i\loch\fs24\lang1036\i\sbasedon1\snext11 WW-caption;}
+{\s12\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036\sbasedon1\snext12 WW-Index;}
+{\s13\sb120\sa120\rtlch\afs20\lang255\ai\ltrch\dbch\langfe1036\hich\fs20\lang1036\i\loch\fs20\lang1036\i\sbasedon1\snext13 WW-caption1;}
+{\s14\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036\sbasedon1\snext14 WW-Index1;}
+{\s15\sb280\rtlch\af4\afs28\lang255\ltrch\dbch\af4\langfe1036\hich\f4\fs28\lang1036\loch\f4\fs28\lang1036\sbasedon1\snext15{\*\soutlvl0} heading 1;}
+{\s16\sb120\rtlch\af2\afs24\lang255\ab\ltrch\dbch\af2\langfe1036\hich\f2\fs24\lang1036\b\loch\f2\fs24\lang1036\b\sbasedon1\snext16{\*\soutlvl1} heading 2;}
+{\s17\sb120\rtlch\afs24\lang255\ab\ltrch\dbch\langfe1036\hich\fs24\lang1036\b\loch\fs24\lang1036\b\sbasedon1\snext17{\*\soutlvl2} heading 3;}
+{\s18\sb240\sa120\keepn\rtlch\af2\afs28\lang255\ltrch\dbch\af11\langfe1036\hich\f2\fs28\lang1036\loch\f2\fs28\lang1036\sbasedon1\snext3 WW-Heading1;}
+{\s19\sa240\qc\rtlch\af4\afs48\lang255\ltrch\dbch\af4\langfe1036\hich\f4\fs48\lang1036\loch\f4\fs48\lang1036\sbasedon1\snext20 Title;}
+{\s20\sb240\sa120\keepn\qc\rtlch\af2\afs28\lang255\ai\ltrch\dbch\af11\langfe1036\hich\f2\fs28\lang1036\i\loch\f2\fs28\lang1036\i\sbasedon18\snext3 Subtitle;}
+{\s21\li360\ri0\lin360\rin0\fi-360\tx360\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036\sbasedon1\snext21 Plan (sans retrait);}
+{\s22\li360\ri0\lin360\rin0\fi-360\tx360\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036\sbasedon1\snext22 Plan (avec retrait);}
+{\s23\qr\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036\sbasedon1\snext23 Texte tableau;}
+{\s24\li360\ri0\lin360\rin0\fi-360\tx360\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036\sbasedon1\snext24 Liste num\'e9ro;}
+{\s25\li0\ri0\lin0\rin0\fi720\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036\sbasedon1\snext25 Retrait premi\'e8re ligne;}
+{\s26\li360\ri0\lin360\rin0\fi-360\tx360\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036\sbasedon1\snext26 List 2;}
+{\s27\li360\ri0\lin360\rin0\fi-360\tx360\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036\sbasedon1\snext27 List;}
+{\s28\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036\sbasedon1\snext28 Texte simple;}
+{\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036\sbasedon1\snext29 Texte par d\'e9faut;}
+{\s30\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036\sbasedon1\snext30 Default Text;}
+{\s31\tqc\tx4536\tqr\tx9072\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036\sbasedon1\snext31 header;}
+{\s32\tqc\tx4536\tqr\tx9072\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036\sbasedon1\snext32 footer;}
+{\s33\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036\sbasedon1\snext33 annotation text;}
+{\s34\rtlch\afs20\lang255\ab\ltrch\dbch\langfe1036\hich\fs20\lang1036\b\loch\fs20\lang1036\b\sbasedon33\snext33 annotation subject;}
+{\s35\rtlch\af5\afs16\lang255\ltrch\dbch\af5\langfe1036\hich\f5\fs16\lang1036\loch\f5\fs16\lang1036\sbasedon1\snext35 Balloon Text;}
+{\s36\tqc\tx4510\tqr\tx9020\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036\sbasedon1\snext36 WW-footer;}
+{\s37\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036\sbasedon1\snext37 Table Contents;}
+{\s38\qc\rtlch\afs20\lang255\ai\ab\ltrch\dbch\langfe1036\hich\fs20\lang1036\i\b\loch\fs20\lang1036\i\b\sbasedon37\snext38 Table Heading;}
+{\s39\tqc\tx4320\tqr\tx8640\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036\sbasedon1\snext39 WW-footer1;}
+{\s40\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036\sbasedon1\snext40 WW-Table Contents;}
+{\s41\qc\rtlch\afs20\lang255\ab\ltrch\dbch\langfe1036\hich\fs20\lang1036\b\loch\fs20\lang1036\b\sbasedon40\snext41 WW-Table Heading;}
+{\s42\tqc\tx4320\tqr\tx8640\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036\sbasedon1\snext42 WW-footer12;}
+{\s43\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036\sbasedon1\snext43 WW-Table Contents1;}
+{\s44\qc\rtlch\afs20\lang255\ab\ltrch\dbch\langfe1036\hich\fs20\lang1036\b\loch\fs20\lang1036\b\sbasedon43\snext44 WW-Table Heading1;}
+{\s45\tqc\tx4320\tqr\tx8640\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036\sbasedon1\snext45 footer;}
+{\s46\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036\sbasedon1\snext46 Table Contents;}
+{\s47\qc\rtlch\afs20\lang255\ab\ltrch\dbch\langfe1036\hich\fs20\lang1036\b\loch\fs20\lang1036\b\sbasedon46\snext47 Table Heading;}
+{\*\cs49\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 1;}
+{\*\cs50\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 2;}
+{\*\cs51\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 3;}
+{\*\cs52\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 4;}
+{\*\cs53\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 5;}
+{\*\cs54\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 6;}
+{\*\cs55\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 7;}
+{\*\cs56\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 8;}
+{\*\cs57\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 9;}
+{\*\cs58\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 10;}
+{\*\cs59\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 1;}
+{\*\cs60\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 2;}
+{\*\cs61\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 3;}
+{\*\cs62\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 4;}
+{\*\cs63\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 5;}
+{\*\cs64\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 6;}
+{\*\cs65\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 7;}
+{\*\cs66\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 8;}
+{\*\cs67\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 9;}
+{\*\cs68\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 10;}
+{\*\cs69\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 1;}
+{\*\cs70\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 2;}
+{\*\cs71\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 3;}
+{\*\cs72\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 4;}
+{\*\cs73\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 5;}
+{\*\cs74\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 6;}
+{\*\cs75\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 7;}
+{\*\cs76\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 8;}
+{\*\cs77\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 9;}
+{\*\cs78\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 10;}
+{\*\cs79\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 1;}
+{\*\cs80\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 2;}
+{\*\cs81\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 3;}
+{\*\cs82\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 4;}
+{\*\cs83\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 5;}
+{\*\cs84\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 6;}
+{\*\cs85\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 7;}
+{\*\cs86\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 8;}
+{\*\cs87\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 9;}
+{\*\cs88\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 10;}
+{\*\cs89\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 1;}
+{\*\cs90\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 2;}
+{\*\cs91\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 3;}
+{\*\cs92\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 4;}
+{\*\cs93\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 5;}
+{\*\cs94\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 6;}
+{\*\cs95\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 7;}
+{\*\cs96\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 8;}
+{\*\cs97\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 9;}
+{\*\cs98\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 10;}
+{\*\cs99\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 1;}
+{\*\cs100\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 2;}
+{\*\cs101\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 3;}
+{\*\cs102\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 4;}
+{\*\cs103\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 5;}
+{\*\cs104\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 6;}
+{\*\cs105\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 7;}
+{\*\cs106\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 8;}
+{\*\cs107\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 9;}
+{\*\cs108\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 10;}
+{\*\cs109\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 1;}
+{\*\cs110\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 2;}
+{\*\cs111\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 3;}
+{\*\cs112\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 4;}
+{\*\cs113\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 5;}
+{\*\cs114\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 6;}
+{\*\cs115\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 7;}
+{\*\cs116\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 8;}
+{\*\cs117\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 9;}
+{\*\cs118\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 10;}
+{\*\cs119\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 1;}
+{\*\cs120\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 2;}
+{\*\cs121\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 3;}
+{\*\cs122\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 4;}
+{\*\cs123\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 5;}
+{\*\cs124\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 6;}
+{\*\cs125\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 7;}
+{\*\cs126\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 8;}
+{\*\cs127\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 9;}
+{\*\cs128\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 10;}
+{\*\cs129\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 1;}
+{\*\cs130\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 2;}
+{\*\cs131\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 3;}
+{\*\cs132\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 4;}
+{\*\cs133\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 5;}
+{\*\cs134\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 6;}
+{\*\cs135\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 7;}
+{\*\cs136\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 8;}
+{\*\cs137\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 9;}
+{\*\cs138\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 2 10;}
+{\*\cs139\cf0\rtlch\af7\afs24\lang255\ltrch\dbch\af7\langfe1036\hich\f7\fs24\lang1036\loch\f7\fs24\lang1036 RTF_Num 2 1;}
+{\*\cs140\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 2;}
+{\*\cs141\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 3;}
+{\*\cs142\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 4;}
+{\*\cs143\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 5;}
+{\*\cs144\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 6;}
+{\*\cs145\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 7;}
+{\*\cs146\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 8;}
+{\*\cs147\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 9;}
+{\*\cs148\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 10;}
+{\*\cs149\cf0\rtlch\af7\afs24\lang255\ltrch\dbch\af7\langfe1036\hich\f7\fs24\lang1036\loch\f7\fs24\lang1036 RTF_Num 2 1;}
+{\*\cs150\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 2;}
+{\*\cs151\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 3;}
+{\*\cs152\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 4;}
+{\*\cs153\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 5;}
+{\*\cs154\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 6;}
+{\*\cs155\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 7;}
+{\*\cs156\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 8;}
+{\*\cs157\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 9;}
+{\*\cs158\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 10;}
+{\*\cs159\cf0\rtlch\af7\afs24\lang255\ltrch\dbch\af7\langfe1036\hich\f7\fs24\lang1036\loch\f7\fs24\lang1036 RTF_Num 2 1;}
+{\*\cs160\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 2;}
+{\*\cs161\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 3;}
+{\*\cs162\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 4;}
+{\*\cs163\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 5;}
+{\*\cs164\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 6;}
+{\*\cs165\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 7;}
+{\*\cs166\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 8;}
+{\*\cs167\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 9;}
+{\*\cs168\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 2 10;}
+{\*\cs169\cf0\rtlch\af7\afs24\lang255\ltrch\dbch\af7\langfe1036\hich\f7\fs24\lang1036\loch\f7\fs24\lang1036 RTF_Num 2 1;}
+{\*\cs170\cf0\rtlch\af7\afs24\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs24\lang1036\loch\f7\fs24\lang1036 RTF_Num 2 2;}
+{\*\cs171\cf0\rtlch\af7\afs24\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs24\lang1036\loch\f7\fs24\lang1036 RTF_Num 2 3;}
+{\*\cs172\cf0\rtlch\af7\afs24\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs24\lang1036\loch\f7\fs24\lang1036 RTF_Num 2 4;}
+{\*\cs173\cf0\rtlch\af7\afs24\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs24\lang1036\loch\f7\fs24\lang1036 RTF_Num 2 5;}
+{\*\cs174\cf0\rtlch\af7\afs24\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs24\lang1036\loch\f7\fs24\lang1036 RTF_Num 2 6;}
+{\*\cs175\cf0\rtlch\af7\afs24\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs24\lang1036\loch\f7\fs24\lang1036 RTF_Num 2 7;}
+{\*\cs176\cf0\rtlch\af7\afs24\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs24\lang1036\loch\f7\fs24\lang1036 RTF_Num 2 8;}
+{\*\cs177\cf0\rtlch\af7\afs24\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs24\lang1036\loch\f7\fs24\lang1036 RTF_Num 2 9;}
+{\*\cs178\cf0\rtlch\af7\afs24\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs24\lang1036\loch\f7\fs24\lang1036 RTF_Num 2 10;}
+{\*\cs179\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 3 1;}
+{\*\cs180\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 3 2;}
+{\*\cs181\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 3 3;}
+{\*\cs182\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 3 4;}
+{\*\cs183\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 3 5;}
+{\*\cs184\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 3 6;}
+{\*\cs185\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 3 7;}
+{\*\cs186\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 3 8;}
+{\*\cs187\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 3 9;}
+{\*\cs188\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 3 10;}
+{\*\cs189\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 4 1;}
+{\*\cs190\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 4 2;}
+{\*\cs191\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 4 3;}
+{\*\cs192\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 4 4;}
+{\*\cs193\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 4 5;}
+{\*\cs194\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 4 6;}
+{\*\cs195\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 4 7;}
+{\*\cs196\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 4 8;}
+{\*\cs197\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 4 9;}
+{\*\cs198\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 4 10;}
+{\*\cs199\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 5 1;}
+{\*\cs200\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 5 2;}
+{\*\cs201\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 5 3;}
+{\*\cs202\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 5 4;}
+{\*\cs203\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 5 5;}
+{\*\cs204\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 5 6;}
+{\*\cs205\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 5 7;}
+{\*\cs206\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 5 8;}
+{\*\cs207\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 5 9;}
+{\*\cs208\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 RTF_Num 5 10;}
+{\*\cs209\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 6 1;}
+{\*\cs210\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 6 2;}
+{\*\cs211\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 6 3;}
+{\*\cs212\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 6 4;}
+{\*\cs213\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 6 5;}
+{\*\cs214\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 6 6;}
+{\*\cs215\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 6 7;}
+{\*\cs216\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 6 8;}
+{\*\cs217\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 6 9;}
+{\*\cs218\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 6 10;}
+{\*\cs219\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 1;}
+{\*\cs220\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 2;}
+{\*\cs221\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 3;}
+{\*\cs222\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 4;}
+{\*\cs223\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 5;}
+{\*\cs224\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 6;}
+{\*\cs225\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 7;}
+{\*\cs226\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 8;}
+{\*\cs227\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 9;}
+{\*\cs228\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 10;}
+{\*\cs229\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 11;}
+{\*\cs230\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 21;}
+{\*\cs231\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 31;}
+{\*\cs232\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 41;}
+{\*\cs233\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 51;}
+{\*\cs234\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 61;}
+{\*\cs235\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 71;}
+{\*\cs236\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 81;}
+{\*\cs237\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 91;}
+{\*\cs238\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 101;}
+{\*\cs239\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 112;}
+{\*\cs240\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 212;}
+{\*\cs241\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 312;}
+{\*\cs242\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 412;}
+{\*\cs243\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 512;}
+{\*\cs244\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 612;}
+{\*\cs245\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 712;}
+{\*\cs246\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 812;}
+{\*\cs247\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 912;}
+{\*\cs248\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 1012;}
+{\*\cs249\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 1123;}
+{\*\cs250\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 2123;}
+{\*\cs251\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 3123;}
+{\*\cs252\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 4123;}
+{\*\cs253\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 5123;}
+{\*\cs254\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 6123;}
+{\*\cs255\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 7123;}
+{\*\cs256\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 8123;}
+{\*\cs257\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 9123;}
+{\*\cs258\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 10123;}
+{\*\cs259\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 11234;}
+{\*\cs260\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 21234;}
+{\*\cs261\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 31234;}
+{\*\cs262\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 41234;}
+{\*\cs263\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 51234;}
+{\*\cs264\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 61234;}
+{\*\cs265\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 71234;}
+{\*\cs266\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 81234;}
+{\*\cs267\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 91234;}
+{\*\cs268\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 101234;}
+{\*\cs269\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 112345;}
+{\*\cs270\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 212345;}
+{\*\cs271\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 312345;}
+{\*\cs272\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 412345;}
+{\*\cs273\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 512345;}
+{\*\cs274\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 612345;}
+{\*\cs275\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 712345;}
+{\*\cs276\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 812345;}
+{\*\cs277\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 912345;}
+{\*\cs278\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 1012345;}
+{\*\cs279\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 1123456;}
+{\*\cs280\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 2123456;}
+{\*\cs281\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 3123456;}
+{\*\cs282\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 4123456;}
+{\*\cs283\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 5123456;}
+{\*\cs284\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 6123456;}
+{\*\cs285\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 7123456;}
+{\*\cs286\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 8123456;}
+{\*\cs287\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 9123456;}
+{\*\cs288\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 10123456;}
+{\*\cs289\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 11234567;}
+{\*\cs290\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 21234567;}
+{\*\cs291\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 31234567;}
+{\*\cs292\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 41234567;}
+{\*\cs293\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 51234567;}
+{\*\cs294\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 61234567;}
+{\*\cs295\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 71234567;}
+{\*\cs296\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 81234567;}
+{\*\cs297\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 91234567;}
+{\*\cs298\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 6 101234567;}
+{\*\cs299\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 1;}
+{\*\cs300\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 2;}
+{\*\cs301\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 3;}
+{\*\cs302\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 4;}
+{\*\cs303\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 5;}
+{\*\cs304\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 6;}
+{\*\cs305\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 7;}
+{\*\cs306\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 8;}
+{\*\cs307\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 9;}
+{\*\cs308\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 10;}
+{\*\cs309\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 11;}
+{\*\cs310\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 21;}
+{\*\cs311\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 31;}
+{\*\cs312\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 41;}
+{\*\cs313\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 51;}
+{\*\cs314\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 61;}
+{\*\cs315\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 71;}
+{\*\cs316\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 81;}
+{\*\cs317\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 91;}
+{\*\cs318\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 101;}
+{\*\cs319\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 112;}
+{\*\cs320\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 212;}
+{\*\cs321\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 312;}
+{\*\cs322\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 412;}
+{\*\cs323\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 512;}
+{\*\cs324\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 612;}
+{\*\cs325\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 712;}
+{\*\cs326\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 812;}
+{\*\cs327\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 912;}
+{\*\cs328\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 1012;}
+{\*\cs329\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 1123;}
+{\*\cs330\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 2123;}
+{\*\cs331\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 3123;}
+{\*\cs332\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 4123;}
+{\*\cs333\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 5123;}
+{\*\cs334\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 6123;}
+{\*\cs335\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 7123;}
+{\*\cs336\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 8123;}
+{\*\cs337\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 9123;}
+{\*\cs338\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 10123;}
+{\*\cs339\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 11234;}
+{\*\cs340\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 21234;}
+{\*\cs341\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 31234;}
+{\*\cs342\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 41234;}
+{\*\cs343\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 51234;}
+{\*\cs344\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 61234;}
+{\*\cs345\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 71234;}
+{\*\cs346\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 81234;}
+{\*\cs347\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 91234;}
+{\*\cs348\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 101234;}
+{\*\cs349\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 112345;}
+{\*\cs350\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 212345;}
+{\*\cs351\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 312345;}
+{\*\cs352\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 412345;}
+{\*\cs353\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 512345;}
+{\*\cs354\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 612345;}
+{\*\cs355\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 712345;}
+{\*\cs356\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 812345;}
+{\*\cs357\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 912345;}
+{\*\cs358\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 1012345;}
+{\*\cs359\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 1123456;}
+{\*\cs360\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 2123456;}
+{\*\cs361\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 3123456;}
+{\*\cs362\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 4123456;}
+{\*\cs363\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 5123456;}
+{\*\cs364\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 6123456;}
+{\*\cs365\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 7123456;}
+{\*\cs366\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 8123456;}
+{\*\cs367\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 9123456;}
+{\*\cs368\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 10123456;}
+{\*\cs369\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 11234567;}
+{\*\cs370\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 21234567;}
+{\*\cs371\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 31234567;}
+{\*\cs372\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 41234567;}
+{\*\cs373\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 51234567;}
+{\*\cs374\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 61234567;}
+{\*\cs375\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 71234567;}
+{\*\cs376\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 81234567;}
+{\*\cs377\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 91234567;}
+{\*\cs378\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 101234567;}
+{\*\cs379\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 112345678;}
+{\*\cs380\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 212345678;}
+{\*\cs381\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 312345678;}
+{\*\cs382\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 412345678;}
+{\*\cs383\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 512345678;}
+{\*\cs384\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 612345678;}
+{\*\cs385\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 712345678;}
+{\*\cs386\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 812345678;}
+{\*\cs387\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 912345678;}
+{\*\cs388\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 1012345678;}
+{\*\cs389\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 1123456789;}
+{\*\cs390\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 2123456789;}
+{\*\cs391\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 3123456789;}
+{\*\cs392\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 4123456789;}
+{\*\cs393\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 5123456789;}
+{\*\cs394\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 6123456789;}
+{\*\cs395\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 7123456789;}
+{\*\cs396\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 8123456789;}
+{\*\cs397\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 9123456789;}
+{\*\cs398\cf0\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe255\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 WW-RTF_Num 2 10123456789;}
+{\*\cs399\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 7 1;}
+{\*\cs400\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 8 1;}
+{\*\cs401\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 9 1;}
+{\*\cs402\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 10 1;}
+{\*\cs403\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 11 1;}
+{\*\cs404\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 12 1;}
+{\*\cs405\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 13 1;}
+{\*\cs406\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 14 1;}
+{\*\cs407\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 15 1;}
+{\*\cs408\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 16 1;}
+{\*\cs409\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 17 1;}
+{\*\cs410\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 18 1;}
+{\*\cs411\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 19 1;}
+{\*\cs412\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 20 1;}
+{\*\cs413\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 21 1;}
+{\*\cs414\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 22 1;}
+{\*\cs415\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 23 1;}
+{\*\cs416\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 24 1;}
+{\*\cs417\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 25 1;}
+{\*\cs418\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 26 1;}
+{\*\cs419\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 27 1;}
+{\*\cs420\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 28 1;}
+{\*\cs421\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 29 1;}
+{\*\cs422\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 30 1;}
+{\*\cs423\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 31 1;}
+{\*\cs424\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 32 1;}
+{\*\cs425\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 33 1;}
+{\*\cs426\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 34 1;}
+{\*\cs427\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 35 1;}
+{\*\cs428\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 36 1;}
+{\*\cs429\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 37 1;}
+{\*\cs430\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 38 1;}
+{\*\cs431\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 39 1;}
+{\*\cs432\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 40 1;}
+{\*\cs433\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 41 1;}
+{\*\cs434\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 42 1;}
+{\*\cs435\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 43 1;}
+{\*\cs436\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 44 1;}
+{\*\cs437\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 45 1;}
+{\*\cs438\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 46 1;}
+{\*\cs439\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 47 1;}
+{\*\cs440\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 48 1;}
+{\*\cs441\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 49 1;}
+{\*\cs442\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 50 1;}
+{\*\cs443\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 51 1;}
+{\*\cs444\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 52 1;}
+{\*\cs445\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 53 1;}
+{\*\cs446\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 54 1;}
+{\*\cs447\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 55 1;}
+{\*\cs448\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 56 1;}
+{\*\cs449\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 57 1;}
+{\*\cs450\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 58 1;}
+{\*\cs451\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 59 1;}
+{\*\cs452\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 60 1;}
+{\*\cs453\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 61 1;}
+{\*\cs454\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 62 1;}
+{\*\cs455\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 63 1;}
+{\*\cs456\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 64 1;}
+{\*\cs457\rtlch\af6\afs24\lang255\ltrch\dbch\af6\langfe1036\hich\f6\fs24\lang1036\loch\f6\fs24\lang1036 RTF_Num 65 1;}
+{\*\cs458\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 Default Paragraph Font;}
+{\*\cs459\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036\sbasedon458 page number;}
+{\*\cs460\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036\sbasedon458 annotation reference;}
+{\*\cs461\cf0\rtlch\af7\afs18\lang255\ltrch\dbch\af7\langfe255\hich\f7\fs18\lang1036\loch\f7\fs18\lang1036 Bullet Symbols;}
+}{\*\listtable{\list\listtemplateid1
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9679 ?;}{\levelnumbers;}\f7\f7\langfe1036\f7\f7\fi-360\li360}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9675 ?;}{\levelnumbers;}\f7\f7\f7\f7\fi-360\li1080}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9632 ?;}{\levelnumbers;}\f7\f7\f7\f7\fi-360\li1440}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9679 ?;}{\levelnumbers;}\f7\f7\f7\f7\fi-360\li1800}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9675 ?;}{\levelnumbers;}\f7\f7\f7\f7\fi-360\li2160}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9632 ?;}{\levelnumbers;}\f7\f7\f7\f7\fi-360\li2520}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9679 ?;}{\levelnumbers;}\f7\f7\f7\f7\fi-360\li2880}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9675 ?;}{\levelnumbers;}\f7\f7\f7\f7\fi-360\li3240}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9632 ?;}{\levelnumbers;}\f7\f7\f7\f7\fi-360\li3600}
+{\*\soutlvl{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9679 ?;}{\levelnumbers;}\f7\f7\f7\f7\fi-360\li3960}}{\listname RTF_Num 2;}\listid1}
+{\list\listtemplateid2
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9679 ?;}{\levelnumbers;}\f7\f7\langfe1036\f7\f7\fi-360\li360}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9675 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li1080}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9632 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li1440}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9679 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li1800}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9675 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li2160}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9632 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li2520}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9679 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li2880}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9675 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li3240}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9632 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li3600}
+{\*\soutlvl{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9679 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li3960}}{\listname RTF_Num 3;}\listid2}
+{\list\listtemplateid3
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9679 ?;}{\levelnumbers;}\f7\f7\langfe1036\f7\f7\fi-360\li360}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9675 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li1080}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9632 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li1440}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9679 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li1800}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9675 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li2160}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9632 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li2520}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9679 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li2880}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9675 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li3240}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9632 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li3600}
+{\*\soutlvl{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9679 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li3960}}{\listname RTF_Num 4;}\listid3}
+{\list\listtemplateid4
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9679 ?;}{\levelnumbers;}\f7\f7\langfe1036\f7\f7\fi-363\li363}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9675 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li1080}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9632 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li1440}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9679 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li1800}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9675 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li2160}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9632 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li2520}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9679 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li2880}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9675 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li3240}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9632 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li3600}
+{\*\soutlvl{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9679 ?;}{\levelnumbers;}\f7\fs18\f7\fs18\f7\fs18\f7\fi-360\li3960}}{\listname RTF_Num 5;}\listid4}
+{\list\listtemplateid5\listsimple
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\langfe1036\f6\f6\fi-360\li360}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li720}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li1080}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li1440}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li1800}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li2160}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li2520}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li2880}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li3240}
+{\*\soutlvl{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li3600}}{\listname RTF_Num 18;}\listid5}
+{\list\listtemplateid6\listsimple
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li904}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li1808}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li2712}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li3616}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li4520}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li5424}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li6328}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li7232}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li8136}
+{\*\soutlvl{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li9040}}{\listname RTF_Num 23;}\listid6}
+{\list\listtemplateid7\listsimple
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li360}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li720}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li1080}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li1440}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li1800}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li2160}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li2520}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li2880}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li3240}
+{\*\soutlvl{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li3600}}{\listname RTF_Num 24;}\listid7}
+{\list\listtemplateid8\listsimple
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li904}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li1808}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li2712}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li3616}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li4520}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li5424}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li6328}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li7232}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li8136}
+{\*\soutlvl{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li9040}}{\listname RTF_Num 27;}\listid8}
+{\list\listtemplateid9\listsimple
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li904}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li1808}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li2712}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li3616}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li4520}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li5424}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li6328}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li7232}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li8136}
+{\*\soutlvl{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li9040}}{\listname RTF_Num 38;}\listid9}
+{\list\listtemplateid10\listsimple
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li904}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li1808}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li2712}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li3616}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li4520}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li5424}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li6328}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li7232}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li8136}
+{\*\soutlvl{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li9040}}{\listname RTF_Num 41;}\listid10}
+{\list\listtemplateid11\listsimple
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li904}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li1808}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li2712}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li3616}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li4520}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li5424}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li6328}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li7232}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li8136}
+{\*\soutlvl{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li9040}}{\listname RTF_Num 44;}\listid11}
+{\list\listtemplateid12\listsimple
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li904}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li1808}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li2712}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li3616}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li4520}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li5424}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li6328}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li7232}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li8136}
+{\*\soutlvl{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61599 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li9040}}{\listname RTF_Num 53;}\listid12}
+{\list\listtemplateid13\listsimple
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\langfe1036\f6\f6\fi-360\li904}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li1808}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li2712}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li3616}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li4520}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li5424}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li6328}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li7232}
+{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li8136}
+{\*\soutlvl{\listlevel\levelnfc23\leveljc0\levelstartat0\levelfollow0{\leveltext \'01\u61680 ?;}{\levelnumbers;}\f6\f6\f6\f6\fi-360\li9040}}{\listname RTF_Num 64;}\listid13}
+}{\listoverridetable{\listoverride\listid1\listoverridecount0\ls0}{\listoverride\listid2\listoverridecount0\ls1}{\listoverride\listid3\listoverridecount0\ls2}{\listoverride\listid4\listoverridecount0\ls3}{\listoverride\listid5\listoverridecount0\ls4}{\listoverride\listid6\listoverridecount0\ls5}{\listoverride\listid7\listoverridecount0\ls6}{\listoverride\listid8\listoverridecount0\ls7}{\listoverride\listid9\listoverridecount0\ls8}{\listoverride\listid10\listoverridecount0\ls9}{\listoverride\listid11\listoverridecount0\ls10}{\listoverride\listid12\listoverridecount0\ls11}{\listoverride\listid13\listoverridecount0\ls12}}
+
+{\info{\creatim\yr0\mo0\dy0\hr0\min0}{\revtim\yr0\mo0\dy0\hr0\min0}{\printim\yr0\mo0\dy0\hr0\min0}{\comment StarWriter}{\vern3000}}\deftab720
+{\*\pgdsctbl
+{\pgdsc0\pgdscuse195\pgwsxn11900\pghsxn16838\marglsxn1440\margrsxn1440\margtsxn1417\margbsxn988\footery0{\*\footeryt733\footerxl0\footerxr0\footeryh789}{\footer \pard\plain \s32\tqc\tx4536\tqr\tx9072\rtlch\af8\afs20\lang255\ltrch\dbch\af8\langfe1036\hich\f8\fs20\lang1036\loch\f8\fs20\lang1036 {\rtlch \ltrch\loch\f8\fs20\lang1036\i0\b0 _______________________________________________________________________}
+\par \pard\plain \s32\tqc\tx4536\tqr\tx9072\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036{\rtlch \ltrch\loch\f0\fs20\lang1036\i0\b0{\rtlch\ltrch\hich\f8\b\loch\f8\b CER France Haute-Loire\tab \tab }}{\rtlch \ltrch\loch\f0\fs20\lang1036\i0\b0{\field{\*\fldinst \\page\\* ARABIC}{\fldrslt 15}}}
+\par \pard\plain \s32\tqc\tx4536\tqr\tx9072\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\par }
+\pgdscnxt0 Standard;}
+{\pgdsc1\pgdscuse195\pgwsxn11900\pghsxn16838\marglsxn1440\margrsxn1440\margtsxn1417\margbsxn988\footery0{\*\footeryt0\footerxl0\footerxr0\footeryh0}{\footer \pard\plain \s32\tqc\tx4536\tqr\tx9072\rtlch\af8\afs20\lang255\ltrch\dbch\af8\langfe1036\hich\f8\fs20\lang1036\loch\f8\fs20\lang1036 {\rtlch \ltrch\loch\f8\fs20\lang1036\i0\b0 _______________________________________________________________________}
+\par \pard\plain \s32\tqc\tx4536\tqr\tx9072\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036{\rtlch \ltrch\loch\f0\fs20\lang1036\i0\b0{\rtlch\ltrch\hich\f8\b\loch\f8\b CER France Haute-Loire\tab \tab }}{\rtlch \ltrch\loch\f0\fs20\lang1036\i0\b0{\field{\*\fldinst \\page\\* ARABIC}{\fldrslt 15}}}
+\par \pard\plain \s32\tqc\tx4536\tqr\tx9072\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\par }
+\pgdscnxt0 First Page;}
+{\pgdsc2\pgdscuse195\pgwsxn11900\pghsxn16838\marglsxn1440\margrsxn1440\margtsxn1417\margbsxn1546\pgdscnxt0 First Page;}
+{\pgdsc3\pgdscuse195\pgwsxn11900\pghsxn16838\marglsxn1440\margrsxn1440\margtsxn1417\margbsxn1777\pgdscnxt0 First Page;}
+{\pgdsc4\pgdscuse195\pgwsxn11900\pghsxn16838\marglsxn1440\margrsxn1440\margtsxn1417\margbsxn1777\pgdscnxt0 First Page;}}
+{\*\pgdscno4}\paperh16838\paperw11900\margl1440\margr1440\margt1417\margb1777\sectd\sbknone\pgwsxn11900\pghsxn16838\marglsxn1440\margrsxn1440\margtsxn1417\margbsxn1777\footery988{\footer \pard\plain \s32\tqc\tx4536\tqr\tx9072\rtlch\af8\afs20\lang255\ltrch\dbch\af8\langfe1036\hich\f8\fs20\lang1036\loch\f8\fs20\lang1036 {\rtlch \ltrch\loch\f8\fs20\lang1036\i0\b0 _______________________________________________________________________}
+\par \pard\plain \s32\tqc\tx4536\tqr\tx9072\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036{\rtlch \ltrch\loch\f0\fs20\lang1036\i0\b0{\rtlch\ltrch\hich\f8\b\loch\f8\b CER France Haute-Loire\tab \tab }}{\rtlch \ltrch\loch\f0\fs20\lang1036\i0\b0{\field{\*\fldinst \\page\\* ARABIC}{\fldrslt 15}}}
+\par \pard\plain \s32\tqc\tx4536\tqr\tx9072\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\par }
+\titlepg\ftnbj\ftnstart1\ftnrstcont\ftnnar\aenddoc\aftnrstcont\aftnstart1\aftnnrlc
+\pard\plain \ltrpar\s29\ql\rtlch\af8\afs24\lang255\ltrch\dbch\langfe1036\hich\f8\fs24\lang1036\loch\f8\fs24\lang1036{\rtlch \ltrch\loch\f8\fs24\lang1036\i0\b0{\rtlch\ltrch\hich\fs44\b\loch\fs44\b PDE,}}{\rtlch \ltrch\loch\f8\fs24\lang1036\i0\b0{\rtlch\ltrch\hich\fs40\loch\fs40 Plan de D\'e9veloppement de l\'92Exploitation}}
+\par \pard\plain \ltrpar\s29\ql\rtlch\af2\afs24\lang255\ltrch\dbch\langfe1036\hich\f2\fs24\lang1036\loch\f2\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\ql\rtlch\af2\afs24\lang255\ltrch\dbch\af2\langfe1036\hich\f2\fs24\lang1036\loch\f2\fs24\lang1036 {\rtlch \ltrch\loch\f2\fs24\lang1036\i0\b0 ___________________________________________________________________}
+\par \pard\plain \ltrpar\s29\ql\rtlch\af8\afs44\lang255\ab\ltrch\dbch\af8\langfe1036\hich\f8\fs44\lang1036\b\loch\f8\fs44\lang1036\b {\rtlch \ltrch\loch\f8\fs44\lang1036\i0\b Projet}
+\par \pard\plain \ltrpar\s29\ql\rtlch\af2\afs24\lang255\ltrch\dbch\langfe1036\hich\f2\fs24\lang1036\loch\f2\fs24\lang1036
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036{\rtlch \ltrch\loch\f2\fs24\lang1036\i0\b0\rtlch\ltrch\hich\b\loch\b #slx(nomExplJA)#}
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036{\rtlch \ltrch\loch\f2\fs24\lang1036\i0\b0{\rtlch\ltrch\hich\b\loch\b #slx(nomSociete)#}}{\rtlch \ltrch\loch\f2\fs24\lang1036\i0\b0  - #slx(adresse)# - #slx(commune)#}
+\par \pard\plain \ltrpar\s29\ql\rtlch\af2\afs24\lang255\ltrch\dbch\af2\langfe1036\hich\f2\fs24\lang1036\loch\f2\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f2\fs24\lang1036\i0\b0 Conseiller :\tab #slx(conseiller)#}
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f2\fs24\lang1036\i0\b0 Date :\tab \tab #slx(date(1))#}
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f2\fs24\lang1036\i0\b0 Banque :\tab #slx(banque)#}
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\ql\rtlch\af2\afs24\lang255\ab\ltrch\dbch\af2\langfe1036\hich\f2\fs24\lang1036\b\loch\f2\fs24\lang1036\b {\rtlch \ltrch\loch\f2\fs24\lang1036\i0\b Date de passage en Comit\'e9 D\'e9partemental d\'92Agr\'e9ment\~: }
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 ___________________________________________________________________________}
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\par 
+\pard\plain\pard\plain \absw1454\absh2835\pvpara\posy27\phcol\posx4294965856{\*\flyprint\flyvert8544\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\cf2\ul\ulc0\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 Le candidat et sa famille}
+\par \pard\plain \absw1454\absh2835\pvpara\posy27\phcol\posx4294965856{\*\flyprint\flyvert8544\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\cf2\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 \'e2ge}
+\par \pard\plain \absw1454\absh2835\pvpara\posy27\phcol\posx4294965856{\*\flyprint\flyvert8544\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 situation familiale}
+\par \pard\plain \absw1454\absh2835\pvpara\posy27\phcol\posx4294965856{\*\flyprint\flyvert8544\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 fr\'e8res et soeurs, relation avec l'exploit.}
+\par \pard\plain \absw1454\absh2835\pvpara\posy27\phcol\posx4294965856{\*\flyprint\flyvert8544\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 dipl\'f4mes}
+\par \pard\plain \absw1454\absh2835\pvpara\posy27\phcol\posx4294965856{\*\flyprint\flyvert8544\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 exp\'e9rience prof.}
+\par \pard\plain \absw1454\absh2835\pvpara\posy27\phcol\posx4294965856{\*\flyprint\flyvert8544\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 stage 6 mois ou PPP}
+\par \pard\plain \absw1454\absh2835\pvpara\posy27\phcol\posx4294965856{\*\flyprint\flyvert8544\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\par \pard\plain \absw1454\absh2835\pvpara\posy27\phcol\posx4294965856{\*\flyprint\flyvert8544\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\cf2\ul\ulc0\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 Description rapide du projet :}
+\par \pard\plain \absw1454\absh2835\pvpara\posy27\phcol\posx4294965856{\*\flyprint\flyvert8544\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\cf2\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 type d'exploitation}
+\par \pard\plain \absw1454\absh2835\pvpara\posy27\phcol\posx4294965856{\*\flyprint\flyvert8544\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 installation familiale ou HCS}
+\par \pard\plain \absw1454\absh2835\pvpara\posy27\phcol\posx4294965856{\*\flyprint\flyvert8544\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 devenir du c\'e9dant...}
+\par \pard
+\pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036{\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0{\rtlch\ltrch\hich\f8\fs28\b\loch\f8\fs28\b Le}}{\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0{\rtlch\ltrch\hich\fs20\loch\fs20  }{\rtlch\ltrch\hich\f8\fs28\b\loch\f8\fs28\b contexte}}
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 #slx(descProjet)#}
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par 
+\pard\plain\pard\plain \absw1238\absh1178\pvpara\posy176\phcol\posx9019{\*\flyprint\flyvert53344\flyhorz53248\flyanchor0\flycntnt}\ltrpar\s1\cf2\ul\ulc0\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 Reprise}
+\par \pard\plain \absw1238\absh1178\pvpara\posy176\phcol\posx9019{\*\flyprint\flyvert53344\flyhorz53248\flyanchor0\flycntnt}\ltrpar\s1\cf2\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 Montant du rachat de capital social et financement}
+\par \pard
+\pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036{\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0{\rtlch\ltrch\hich\f8\fs28\b\loch\f8\fs28\b Le}}{\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0{\rtlch\ltrch\hich\fs20\loch\fs20  }{\rtlch\ltrch\hich\f8\fs28\b\loch\f8\fs28\b capital et sa r\'e9partition}}
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 Le capital de la soci\'e9t\'e9 se d\'e9composera de la mani\'e8re suivante\~:}
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \trowd\trqc\trpaddft3\trpaddt0\trpaddfl3\trpaddl70\trpaddfb3\trpaddb0\trpaddfr3\trpaddr70\clbrdrt\brdrs\brdrw1\brdrcf1\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clvertalc\cellx3011\clbrdrt\brdrs\brdrw1\brdrcf1\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clvertalc\cellx5923\clbrdrl\brdrs\brdrw1\brdrcf1\clvertalc\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s29\ql\rtlch\af2\afs20\lang255\ab\ltrch\dbch\af2\langfe1036\hich\f2\fs20\lang1036\b\loch\f2\fs20\lang1036\b {\rtlch \ltrch\loch\f2\fs20\lang1036\i0\b Capital}
+\cell\pard\plain \intbl\ltrpar\s29\qc\rtlch\af2\afs20\lang255\ab\ltrch\dbch\af2\langfe1036\hich\f2\fs20\lang1036\b\loch\f2\fs20\lang1036\b {\rtlch \ltrch\loch\f2\fs20\lang1036\i0\b #slx(RES.DON+RES-0a259:0)# \'80}
+\cell\pard\plain \intbl\ltrpar\s29\qc\aspalpha\rtlch\af2\afs20\lang255\ltrch\dbch\af2\langfe1036\hich\f2\fs20\lang1036\loch\f2\fs20\lang1036 
+\cell\row\pard \trowd\trqc\trpaddft3\trpaddt0\trpaddfl3\trpaddl70\trpaddfb3\trpaddb0\trpaddfr3\trpaddr70\clbrdrb\brdrs\brdrw1\brdrcf1\clvertalc\cellx3011\clbrdrb\brdrs\brdrw1\brdrcf1\clvertalc\cellx5923\clbrdrb\brdrs\brdrw1\brdrcf1\clvertalc\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s29\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\cell\pard\plain \intbl\ltrpar\s29\qc\rtlch\af2\afs20\lang255\ltrch\dbch\af2\langfe1036\hich\f2\fs20\lang1036\loch\f2\fs20\lang1036 
+\cell\pard\plain \intbl\ltrpar\s29\qc\aspalpha\rtlch\af2\afs20\lang255\ltrch\dbch\af2\langfe1036\hich\f2\fs20\lang1036\loch\f2\fs20\lang1036 
+\cell\row\pard \trowd\trqc\trpaddft3\trpaddt0\trpaddfl3\trpaddl70\trpaddfb3\trpaddb0\trpaddfr3\trpaddr70\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clvertalc\cellx3011\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clvertalc\cellx5923\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clbrdrr\brdrs\brdrw1\brdrcf1\clvertalc\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s29\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs20\lang1036\i0\b0 #slx(nomAss1)#}
+\cell\pard\plain \intbl\ltrpar\s29\qc\rtlch\af2\afs20\lang255\ltrch\dbch\af2\langfe1036\hich\f2\fs20\lang1036\loch\f2\fs20\lang1036 {\rtlch \ltrch\loch\f2\fs20\lang1036\i0\b0 #slx(formule:0a:lg(Rsoc-1))# \'80}
+\cell\pard\plain \intbl\ltrpar\s29\qc\aspalpha\rtlch\af2\afs20\lang255\ltrch\dbch\af2\langfe1036\hich\f2\fs20\lang1036\loch\f2\fs20\lang1036 {\rtlch \ltrch\loch\f2\fs20\lang1036\i0\b0 #slx(formule:0a:LG(RSoc-1)/LG(RES-259)*100)# %}
+\cell\row\pard \trowd\trqc\trpaddft3\trpaddt0\trpaddfl3\trpaddl70\trpaddfb3\trpaddb0\trpaddfr3\trpaddr70\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clvertalc\cellx3011\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clvertalc\cellx5923\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clbrdrr\brdrs\brdrw1\brdrcf1\clvertalc\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s29\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs20\lang1036\i0\b0 #slx(nomAss2)#}
+\cell\pard\plain \intbl\ltrpar\s29\qc\rtlch\af2\afs20\lang255\ltrch\dbch\af2\langfe1036\hich\f2\fs20\lang1036\loch\f2\fs20\lang1036 {\rtlch \ltrch\loch\f2\fs20\lang1036\i0\b0 #slx(formule:0a:lg(Rsoc-2))# \'80}
+\cell\pard\plain \intbl\ltrpar\s29\qc\aspalpha\rtlch\af2\afs20\lang255\ltrch\dbch\af2\langfe1036\hich\f2\fs20\lang1036\loch\f2\fs20\lang1036 {\rtlch \ltrch\loch\f2\fs20\lang1036\i0\b0 #slx(formule:0a:LG(rsoc-2)/LG(RES-259)*100)# %}
+\cell\row\pard \trowd\trqc\trpaddft3\trpaddt0\trpaddfl3\trpaddl70\trpaddfb3\trpaddb0\trpaddfr3\trpaddr70\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clvertalc\cellx3011\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clvertalc\cellx5923\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clbrdrr\brdrs\brdrw1\brdrcf1\clvertalc\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s29\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs20\lang1036\i0\b0 #slx(nomAss3)#}
+\cell\pard\plain \intbl\ltrpar\s29\qc\rtlch\af2\afs20\lang255\ltrch\dbch\af2\langfe1036\hich\f2\fs20\lang1036\loch\f2\fs20\lang1036 {\rtlch \ltrch\loch\f2\fs20\lang1036\i0\b0 #slx(formule:0a:lg(Rsoc-3))# \'80}
+\cell\pard\plain \intbl\ltrpar\s29\qc\aspalpha\rtlch\af2\afs20\lang255\ltrch\dbch\af2\langfe1036\hich\f2\fs20\lang1036\loch\f2\fs20\lang1036 {\rtlch \ltrch\loch\f2\fs20\lang1036\i0\b0 #slx(formule:0a:LG(RSoc-3)/LG(RES-259)*100)# %}
+\cell\row\pard \trowd\trqc\trpaddft3\trpaddt0\trpaddfl3\trpaddl70\trpaddfb3\trpaddb0\trpaddfr3\trpaddr70\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clvertalc\cellx3011\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clvertalc\cellx5923\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clbrdrr\brdrs\brdrw1\brdrcf1\clvertalc\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s29\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs20\lang1036\i0\b0 #slx(nomAss4)#}
+\cell\pard\plain \intbl\ltrpar\s29\qc\rtlch\af2\afs20\lang255\ltrch\dbch\af2\langfe1036\hich\f2\fs20\lang1036\loch\f2\fs20\lang1036 {\rtlch \ltrch\loch\f2\fs20\lang1036\i0\b0 #slx(formule:0a:lg(Rsoc-4))# \'80}
+\cell\pard\plain \intbl\ltrpar\s29\qc\aspalpha\rtlch\af2\afs20\lang255\ltrch\dbch\af2\langfe1036\hich\f2\fs20\lang1036\loch\f2\fs20\lang1036 {\rtlch \ltrch\loch\f2\fs20\lang1036\i0\b0 #slx(formule:0a:LG(RSoc-4)/LG(RES-259)*100)# %}
+\cell\row\pard \trowd\trqc\trpaddft3\trpaddt0\trpaddfl3\trpaddl70\trpaddfb3\trpaddb0\trpaddfr3\trpaddr70\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clvertalc\cellx3011\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clvertalc\cellx5923\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clbrdrr\brdrs\brdrw1\brdrcf1\clvertalc\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s29\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs20\lang1036\i0\b0 #slx(nomAss5)#}
+\cell\pard\plain \intbl\ltrpar\s29\qc\rtlch\af2\afs20\lang255\ltrch\dbch\af2\langfe1036\hich\f2\fs20\lang1036\loch\f2\fs20\lang1036 {\rtlch \ltrch\loch\f2\fs20\lang1036\i0\b0 #slx(formule:0a:lg(Rsoc-5))# \'80}
+\cell\pard\plain \intbl\ltrpar\s29\qc\aspalpha\rtlch\af2\afs20\lang255\ltrch\dbch\af2\langfe1036\hich\f2\fs20\lang1036\loch\f2\fs20\lang1036 {\rtlch \ltrch\loch\f2\fs20\lang1036\i0\b0 #slx(formule:0a:LG(RSoc-5)/LG(RES-259)*100)# %}
+\cell\row\pard \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par 
+\pard\plain\pard\plain \absw1454\absh1885\pvpara\posy27\phcol\posx4294965856{\*\flyprint\flyvert8544\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\cf2\ul\ulc0\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 Surf. Et transparence :}
+\par \pard\plain \absw1454\absh1885\pvpara\posy27\phcol\posx4294965856{\*\flyprint\flyvert8544\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\cf2\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * R\'e9partition des terrains par associ\'e9 ou couple}
+\par \pard\plain \absw1454\absh1885\pvpara\posy27\phcol\posx4294965856{\*\flyprint\flyvert8544\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * Mode de faire-valoir (ppt\'e9, location, type bail...)}
+\par \pard\plain \absw1454\absh1885\pvpara\posy27\phcol\posx4294965856{\*\flyprint\flyvert8544\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\cf2\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * Pr\'e9ciser si les transparence sont acquises ou non}
+\par \pard
+\pard\plain \ltrpar\s29\ql\rtlch\af8\afs28\lang255\ab\ltrch\dbch\langfe1036\hich\f8\fs28\lang1036\b\loch\f8\fs28\lang1036\b {\rtlch \ltrch\loch\f8\fs28\lang1036\i0\b Les surfaces du GAEC }
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 Le GAEC mettra en valeur une surface de #slx(formule:1a:LG(CLTP-1!A5)+LG(CULT-4!A5))# ha.}
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 Les diff\'e9rents niveaux de transparence seront les suivants\~:}
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \trowd\trql\trleft-70\trpaddft3\trpaddt0\trpaddfl3\trpaddl70\trpaddfb3\trpaddb0\trpaddfr3\trpaddr70\clbrdrt\brdrs\brdrw1\brdrcf1\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\cellx2261\clbrdrt\brdrs\brdrw1\brdrcf1\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\cellx4514\clbrdrt\brdrs\brdrw1\brdrcf1\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\cellx6767\clbrdrt\brdrs\brdrw1\brdrcf1\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clbrdrr\brdrs\brdrw1\brdrcf1\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s29\ql\rtlch\afs24\lang255\ab\ltrch\dbch\langfe1036\hich\fs24\lang1036\b\loch\fs24\lang1036\b {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b Transparence}
+\cell\pard\plain \intbl\ltrpar\s29\qc\rtlch\afs24\lang255\ab\ltrch\dbch\langfe1036\hich\fs24\lang1036\b\loch\fs24\lang1036\b {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b fiscale}
+\cell\pard\plain \intbl\ltrpar\s29\qc\rtlch\afs24\lang255\ab\ltrch\dbch\langfe1036\hich\fs24\lang1036\b\loch\fs24\lang1036\b {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b ICHN}
+\cell\pard\plain \intbl\ltrpar\s29\qc\aspalpha\rtlch\afs24\lang255\ab\ltrch\dbch\langfe1036\hich\fs24\lang1036\b\loch\fs24\lang1036\b {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b PAC}
+\cell\row\pard \trowd\trql\trleft-70\trpaddft3\trpaddt0\trpaddfl3\trpaddl70\trpaddfb3\trpaddb0\trpaddfr3\trpaddr70\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\cellx2261\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\cellx4514\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\cellx6767\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clbrdrr\brdrs\brdrw1\brdrcf1\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 Nombre}
+\cell\pard\plain \intbl\ltrpar\s29\qc\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\cell\pard\plain \intbl\ltrpar\s29\qc\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\cell\pard\plain \intbl\ltrpar\s1\aspalpha\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\cell\row\pard \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \page
+\pard\plain\pard\plain \absw1417\absh2268\pvpara\posy28\phcol\posx4294965856{\*\flyprint\flyvert16704\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\cf2\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0{\ul\ulc0 Pr\'e9ciser les possibilit\'e9s d'attribution}}{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0  de droits \'e0 primes, produire, DPU.}
+\par \pard\plain \absw1417\absh2268\pvpara\posy28\phcol\posx4294965856{\*\flyprint\flyvert16704\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 En cas de transfert, indiquer s'il y a des incertitudes, des risques...}
+\par \pard
+\pard\plain \ltrpar\s29\ql\rtlch\af8\afs28\lang255\ab\ltrch\dbch\af8\langfe1036\hich\f8\fs28\lang1036\b\loch\f8\fs28\lang1036\b {\rtlch \ltrch\loch\f8\fs28\lang1036\i0\b Les facteurs de production}
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain {\listtext\pard\plain \li360\ri0\lin360\rin0\fi-360\b\langfe1036\b\f6\f6\f6 \u61599\'3f\tab}\ilvl0 \ltrpar\s29\ls6\li360\ri0\lin360\rin0\fi-360\ql\rtlch\afs24\lang255\ab\ltrch\dbch\langfe1036\hich\fs24\lang1036\b\loch\fs24\lang1036\b {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b Droits \'e0 primes / droits \'e0 produire}
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \trowd\trql\trleft-70\trpaddft3\trpaddt0\trpaddfl3\trpaddl70\trpaddfb3\trpaddb0\trpaddfr3\trpaddr70\clbrdrb\brdrs\brdrw1\brdrcf1\cellx1748\clbrdrt\brdrs\brdrw1\brdrcf1\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\cellx3566\clbrdrt\brdrs\brdrw1\brdrcf1\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\cellx5384\clbrdrt\brdrs\brdrw1\brdrcf1\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\cellx7202\clbrdrt\brdrs\brdrw1\brdrcf1\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clbrdrr\brdrs\brdrw1\brdrcf1\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s29\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\cell\pard\plain \intbl\ltrpar\s29\qc\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs20\lang1036\i0\b0 Actuels}
+\cell\pard\plain \intbl\ltrpar\s29\qc\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs20\lang1036\i0\b0 Transfert}
+\cell\pard\plain \intbl\ltrpar\s29\qc\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs20\lang1036\i0\b0 Sollicitation}
+\cell\pard\plain \intbl\ltrpar\s29\qc\aspalpha\rtlch\afs20\lang255\ab\ltrch\dbch\langfe1036\hich\fs20\lang1036\b\loch\fs20\lang1036\b {\rtlch \ltrch\loch\f0\fs20\lang1036\i0\b Fin de projet}
+\cell\row\pard \trowd\trql\trleft-70\trpaddft3\trpaddt0\trpaddfl3\trpaddl70\trpaddfb3\trpaddb0\trpaddfr3\trpaddr70\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\cellx1748\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\cellx3566\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\cellx5384\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\cellx7202\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clbrdrr\brdrs\brdrw1\brdrcf1\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s29\ql\rtlch\afs20\lang255\ab\ltrch\dbch\langfe1036\hich\fs20\lang1036\b\loch\fs20\lang1036\b {\rtlch \ltrch\loch\f0\fs20\lang1036\i0\b Lait}
+\cell\pard\plain \intbl\ltrpar\s29\qc\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\cell\pard\plain \intbl\ltrpar\s29\qc\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\cell\pard\plain \intbl\ltrpar\s29\qc\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\cell\pard\plain \intbl\ltrpar\s29\qc\aspalpha\rtlch\afs20\lang255\ab\ltrch\dbch\langfe1036\hich\fs20\lang1036\b\loch\fs20\lang1036\b 
+\cell\row\pard \trowd\trql\trleft-70\trpaddft3\trpaddt0\trpaddfl3\trpaddl70\trpaddfb3\trpaddb0\trpaddfr3\trpaddr70\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\cellx1748\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\cellx3566\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\cellx5384\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\cellx7202\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clbrdrr\brdrs\brdrw1\brdrcf1\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s29\ql\rtlch\afs20\lang255\ab\ltrch\dbch\langfe1036\hich\fs20\lang1036\b\loch\fs20\lang1036\b {\rtlch \ltrch\loch\f0\fs20\lang1036\i0\b PMTVA}
+\cell\pard\plain \intbl\ltrpar\s29\qc\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\cell\pard\plain \intbl\ltrpar\s29\qc\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\cell\pard\plain \intbl\ltrpar\s29\qc\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\cell\pard\plain \intbl\ltrpar\s1\aspalpha\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\cell\row\pard \trowd\trql\trleft-70\trpaddft3\trpaddt0\trpaddfl3\trpaddl70\trpaddfb3\trpaddb0\trpaddfr3\trpaddr70\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\cellx1748\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\cellx3566\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\cellx5384\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\cellx7202\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clbrdrr\brdrs\brdrw1\brdrcf1\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s29\ql\rtlch\afs20\lang255\ab\ltrch\dbch\langfe1036\hich\fs20\lang1036\b\loch\fs20\lang1036\b {\rtlch \ltrch\loch\f0\fs20\lang1036\i0\b PBC}
+\cell\pard\plain \intbl\ltrpar\s29\qc\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\cell\pard\plain \intbl\ltrpar\s29\qc\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\cell\pard\plain \intbl\ltrpar\s29\qc\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\cell\pard\plain \intbl\ltrpar\s29\qc\aspalpha\rtlch\afs20\lang255\ab\ltrch\dbch\langfe1036\hich\fs20\lang1036\b\loch\fs20\lang1036\b 
+\cell\row\pard \pard\plain \ltrpar\s29\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 \tab PHAE\tab :\tab \tab }
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 \tab CTE / CAD :\tab \tab }
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 \tab MAE :\tab \tab \tab }
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 \tab }
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 #slx(taba2p2cr0;larg2000;larg1000;larg6600([500;120][;5006;8;1;0;0;0;0;1;l;0;0;0;0;8][__;5006;9;1;0;0;0;0;0;c;0;0;0;0;8][entete:3:1\'e8re_ann\'e9e_de_pr\'e9vision&Fin_de_pr\'e9vision;5006;10;1;0;1;0;0;0;c;1;1;1;1;16]#[280;120][%slx(DPU.DON+DPU-i20)%;5138;10;1;0;0;0;0;
+0;l;1;0;1;0;8][%slx(DPU.DON+DPU-u20)%_;5138;10;1;0;0;0;0;0;l;1;0;0;1;8][serie:DPU.DON+DPU-20:7:1;5006;10;1;0;0;0;0;0;c;1;0;1;1;8]#[280;120][%slx(DPU.DON+DPU-i21)%;5138;10;1;0;0;0;0;0;l;0;1;1;0;8][%slx(DPU.DON+DPU-u21)%__;5138;10;1;0;0;0;0;0;l;0;1;0;1;8][se
+rie:DPU.DON+DPU-21:7:1;5006;10;1;0;0;0;0;0;c;0;1;1;1;8]#[280;120][%slx(DPU.DON+DPU-i22)%;5138;10;1;0;0;0;0;0;l;1;0;1;0;8][%slx(DPU.DON+DPU-u22)%__;5138;10;1;0;0;0;0;0;l;1;0;0;1;8][serie:DPU.DON+DPU-22:7:1;5006;10;1;0;0;0;0;0;c;1;0;1;1;8]#[280;120][%slx(DPU
+.DON+DPU-i23)%;5138;10;1;0;0;0;0;0;l;0;1;1;0;8][%slx(DPU.DON+DPU-u23)%__;5138;10;1;0;0;0;0;0;l;0;1;0;1;8][serie:DPU.DON+DPU-23:7:1;5006;10;1;0;0;0;0;0;c;0;1;1;1;8]#[280;120][%slx(DPU.DON+DPU-i24)%;5138;10;1;0;0;0;0;0;l;1;0;1;0;8][%slx(DPU.DON+DPU-u24)%__;5
+138;10;1;0;0;0;0;0;l;1;0;0;1;8][serie:DPU.DON+DPU-24:7:1;5006;10;1;0;0;0;0;0;c;1;0;1;1;8]#[280;120][%slx(DPU.DON+DPU-i25)%;5138;10;1;0;0;0;0;0;l;0;1;1;0;8][%slx(DPU.DON+DPU-u25)%__;5138;10;1;0;0;0;0;0;l;0;1;0;1;8][serie:DPU.DON+DPU-25:7:1;5006;10;1;0;0;0;0
+;0;c;0;1;1;1;8]#[280;120][%slx(DPU.DON+DPU-i26)%;5138;10;1;0;0;0;0;0;l;1;0;1;0;8][%slx(DPU.DON+DPU-u26)%__;5138;10;1;0;0;0;0;0;l;1;0;0;1;8][serie:DPU.DON+DPU-26:7:1;5006;10;1;0;0;0;0;0;c;1;0;1;1;8]#[280;120][%slx(DPU.DON+DPU-i27)%;5138;10;1;0;0;0;0;0;l;0;1
+;1;0;8][%slx(DPU.DON+DPU-u27)%__;5138;10;1;0;0;0;0;0;l;0;1;0;1;8][serie:DPU.DON+DPU-27:7:1;5006;10;1;0;0;0;0;0;c;0;1;1;1;8]#[280;120][%slx(DPU.DON+DPU-i28)%;5138;10;1;0;0;0;0;0;l;1;1;1;0;8][%slx(DPU.DON+DPU-u28)%__;5138;10;1;0;0;0;0;0;l;1;1;0;1;8][serie:DP
+U.DON+DPU-28:7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(DPU.DON+DPU-i29)%;5138;10;1;0;0;0;0;0;l;1;1;1;0;8][%slx(DPU.DON+DPU-u29)%__;5138;10;1;0;0;0;0;0;l;1;1;0;1;8][serie:DPU.DON+DPU-29:7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(DPU.DON+D
+PU-i30)%;5138;10;1;0;0;0;0;0;l;1;1;1;0;8][%slx(DPU.DON+DPU-u30)%_;5138;10;1;0;0;0;0;0;l;1;1;0;1;8][serie:DPU.DON+DPU-30:7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(DPU.DON+DPU-i31)%;5138;10;1;0;0;0;0;0;l;1;1;1;0;8][%slx(DPU.DON+DPU-u31)%__;5138;10;
+1;0;0;0;0;0;l;1;1;0;1;8][serie:DPU.DON+DPU-31:7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(DPU.DON+DPU-i32)%;5138;10;1;0;0;0;0;0;l;1;1;1;0;8][%slx(DPU.DON+DPU-u32)%__;5138;10;1;0;0;0;0;0;l;1;1;0;1;8][serie:DPU.DON+DPU-32:7:1;5006;10;1;0;0;0;0;0;c;1;
+1;1;1;8]#[280;120][%slx(DPU.DON+DPU-i33)%;5138;10;1;0;0;0;0;0;l;1;1;1;0;8][%slx(DPU.DON+DPU-u33)%__;5138;10;1;0;0;0;0;0;l;1;1;0;1;8][serie:DPU.DON+DPU-33:7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(DPU.DON+DPU-i34)%;5138;10;1;0;0;0;0;0;l;1;1;1;0;8]
+[%slx(DPU.DON+DPU-u34)%__;5138;10;1;0;0;0;0;0;l;1;1;0;1;8][serie:DPU.DON+DPU-34:7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(DPU.DON+DPU-i35)%;5138;10;1;0;0;0;0;0;l;1;1;1;0;8][%slx(DPU.DON+DPU-u35)%__;5138;10;1;0;0;0;0;0;l;1;1;0;1;8][serie:DPU.DON+D
+PU-35:7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(DPU.DON+DPU-i36)%;5138;10;1;0;0;0;0;0;l;1;1;1;0;8][%slx(DPU.DON+DPU-u36)%__;5138;10;1;0;0;0;0;0;l;1;1;0;1;8][serie:DPU.DON+DPU-36:7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(DPU.DON+DPU-i37)
+%;5138;10;1;0;0;0;0;0;l;1;1;1;0;8][%slx(DPU.DON+DPU-u37)%__;5138;10;1;0;0;0;0;0;l;1;1;0;1;8][serie:DPU.DON+DPU-37:7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(DPU.DON+DPU-i38)%;5138;10;1;0;0;0;0;0;l;1;1;1;0;8][%slx(DPU.DON+DPU-u38)%__;5138;10;1;0;0;
+0;0;0;l;1;1;0;1;8][serie:DPU.DON+DPU-38:7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(DPU.DON+DPU-i39)%;5138;10;1;0;0;0;0;0;l;1;1;1;0;8][%slx(DPU.DON+DPU-u39)%__;5138;10;1;0;0;0;0;0;l;1;1;0;1;8][serie:DPU.DON+DPU-39:7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;
+8]#[280;120][%slx(DPU.DON+DPU-i40)%;5138;10;1;0;0;0;0;0;l;1;1;1;0;8][%slx(DPU.DON+DPU-u40)%__;5138;10;1;0;0;0;0;0;l;1;1;0;1;8][serie:DPU.DON+DPU-40:7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(DPU.DON+DPU-i41)%;5138;10;1;0;0;0;0;0;l;1;1;1;0;8][%slx(
+DPU.DON+DPU-u41)%__;5138;10;1;0;0;0;0;0;l;1;1;0;1;8][serie:DPU.DON+DPU-41:7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(DPU.DON+DPU-i42)%;5138;10;1;0;0;0;0;0;l;1;1;1;0;8][%slx(DPU.DON+DPU-u42)%__;5138;10;1;0;0;0;0;0;l;1;1;0;1;8][serie:DPU.DON+DPU-42:
+7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(DPU.DON+DPU-i43)%;5138;10;1;0;0;0;0;0;l;1;1;1;0;8][%slx(DPU.DON+DPU-u43)%__;5138;10;1;0;0;0;0;0;l;1;1;0;1;8][serie:DPU.DON+DPU-43:7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(DPU.DON+DPU-i44)%;5138
+;10;1;0;0;0;0;0;l;1;1;1;0;8][%slx(DPU.DON+DPU-u44)%__;5138;10;1;0;0;0;0;0;l;1;1;0;1;8][serie:DPU.DON+DPU-44:7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(DPU.DON+DPU-i45)%;5138;10;1;0;0;0;0;0;l;1;1;1;0;8][%slx(DPU.DON+DPU-u45)%__;5138;10;1;0;0;0;0;0;
+l;1;1;0;1;8][serie:DPU.DON+DPU-45:7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(DPU.DON+DPU-i46)%;5138;10;1;0;0;0;0;0;l;1;1;1;0;8][%slx(DPU.DON+DPU-u46)%__;5138;10;1;0;0;0;0;0;l;1;1;0;1;8][serie:DPU.DON+DPU-46:7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[28
+0;120][%slx(DPU.DON+DPU-i47)%;5138;10;1;0;0;0;0;0;l;1;1;1;0;8][%slx(DPU.DON+DPU-u47)%__;5138;10;1;0;0;0;0;0;l;1;1;0;1;8][serie:DPU.DON+DPU-47:7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(DPU.DON+DPU-i48)%;5138;10;1;0;0;0;0;0;l;1;1;1;0;8][%slx(DPU.DO
+N+DPU-u48)%__;5138;10;1;0;0;0;0;0;l;1;1;0;1;8][serie:DPU.DON+DPU-48:7:1;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][%slx(DPU.DON+DPU-i49)%;5138;10;1;0;0;0;0;0;l;1;1;1;0;8][%slx(DPU.DON+DPU-u49)%__;5138;10;1;0;0;0;0;0;l;1;1;0;1;8][serie:DPU.DON+DPU-49:7:1;50
+06;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][;5006;10;1;1;0;0;0;0;;0;0;0;0;8][;5006;10;1;1;0;0;0;0;;0;0;0;0;8][espace;5006;10;1;0;0;0;0;0;;0;0;0;0;8]#[280;120][%slx(DPU.DON+DPU-i66)%;5138;10;1;0;0;0;0;0;l;1;0;1;0;8][%slx(DPU.DON+DPU-u66)%_;5138;10;1;0;0;0;0;0;
+l;1;0;0;0;8][totalC:LG(DPU-66):2:1;5006;10;1;0;0;0;0;0;c;1;0;1;1;8]#[280;120][%slx(DPU.DON+DPU-i67)%;5138;10;1;0;0;0;0;0;l;0;1;1;0;8][%slx(DPU.DON+DPU-u67)%__;5138;10;1;0;0;0;0;0;l;0;1;0;0;8][totalC:LG(DPU-67):2:1;5006;10;1;0;0;0;0;0;c;0;1;1;1;8]#[280;120]
+[%slx(DPU.DON+DPU-i68)%;5138;10;1;0;0;0;0;0;l;1;0;1;0;8][%slx(DPU.DON+DPU-u68)%_;5138;10;1;0;0;0;0;0;l;1;0;0;0;8][totalC:LG(DPU-68):2:1;5006;10;1;0;0;0;0;0;c;1;0;1;1;8]#[280;120][%slx(DPU.DON+DPU-i69)%;5138;10;1;0;0;0;0;0;l;0;1;1;0;8][%slx(DPU.DON+DPU-u69)
+%__;5138;10;1;0;0;0;0;0;l;0;1;0;0;8][totalC:LG(DPU-69):2:1;5006;10;1;0;0;0;0;0;c;0;1;1;1;8]#[280;120][%slx(DPU.DON+DPU-i70)%;5138;10;1;0;0;0;0;0;l;1;0;1;0;8][%slx(DPU.DON+DPU-u70)%_;5138;10;1;0;0;0;0;0;l;1;0;0;0;8][totalC:LG(DPU-70):2:1;5006;10;1;0;0;0;0;0
+;c;1;0;1;1;8]#[280;120][%slx(DPU.DON+DPU-i71)%;5138;10;1;0;0;0;0;0;l;0;1;1;0;8][%slx(DPU.DON+DPU-u71)%__;5138;10;1;0;0;0;0;0;l;0;1;0;0;8][totalC:LG(DPU-71):2:1;5006;10;1;0;0;0;0;0;c;0;1;1;1;8]#[280;120][;5006;10;1;1;0;0;0;0;;0;0;0;0;8][;5006;10;1;1;0;0;0;0
+;;0;0;0;0;8][espace;5006;10;1;0;0;0;0;0;;0;0;0;0;8]#[280;120][%slx(DPU.DON+DPU-i98)%;5138;10;1;0;0;0;0;0;l;1;0;1;0;8][%slx(DPU.DON+DPU-u98)%_;5138;10;1;0;0;0;0;0;l;1;0;0;0;8][totalC:LG(DPU-98):2:1;5006;10;1;0;0;0;0;0;c;1;0;1;1;8]#[280;120][%slx(DPU.DON+DPU
+-i99)%;5138;10;1;0;0;0;0;0;l;0;1;1;0;8][%slx(DPU.DON+DPU-u99)%_;5138;10;1;0;0;0;0;0;l;0;1;0;0;8][totalC:LG(DPU-99):2:1;5006;10;1;0;0;0;0;0;c;0;1;1;1;8]#[280;120][%slx(DPU.DON+DPU-i100)%;5138;10;1;0;0;0;0;0;l;1;0;1;0;8][%slx(DPU.DON+DPU-u100)%_;5138;10;1;0;
+0;0;0;0;l;1;0;0;0;8][totalC:LG(DPU-100):2:1;5006;10;1;0;0;0;0;0;c;1;0;1;1;8]#[280;120][%slx(DPU.DON+DPU-i101)%;5138;10;1;0;0;0;0;0;l;0;1;1;0;8][%slx(DPU.DON+DPU-u101)%_;5138;10;1;0;0;0;0;0;l;0;1;0;0;8][totalC:LG(DPU-101):2:1;5006;10;1;0;0;0;0;0;c;0;1;1;1;8
+]#[280;120][%slx(DPU.DON+DPU-i102)%;5138;10;1;0;0;0;0;0;l;1;0;1;0;8][%slx(DPU.DON+DPU-u102)%_;5138;10;1;0;0;0;0;0;l;1;0;0;0;8][totalC:LG(DPU-102):2:1;5006;10;1;0;0;0;0;0;c;1;0;1;1;8]#[280;120][%slx(DPU.DON+DPU-i103)%;5138;10;1;0;0;0;0;0;l;0;1;1;0;8][%slx(D
+PU.DON+DPU-u103)%_;5138;10;1;0;0;0;0;0;l;0;1;0;0;8][totalC:LG(DPU-103):2:1;5006;10;1;0;0;0;0;0;c;0;1;1;1;8]#[280;120][;5006;10;1;1;0;0;0;0;;0;0;0;0;8][;5006;10;1;1;0;0;0;0;;0;0;0;0;8][espace;5006;10;1;0;0;0;0;0;;0;0;0;0;8]#[280;120][TOTAL_DPU;5138;10;1;1;0
+;0;0;0;l;1;1;1;0;8][\'80_;5138;10;1;1;0;0;0;0;c;1;1;0;0;8][totalC:LG(DPU-137):0:2;5006;10;1;1;0;0;0;0;c;1;1;1;1;8]#[280;120][DPU_Moyen;5138;10;1;1;0;0;0;0;l;1;1;1;0;8][\'80/droit_;5138;10;1;1;0;0;0;0;l;1;1;0;0;8][totalC:LG(DPU-137)/_(LG(DPU-130)+LG(DPU-132)+LG(D
+PU-134)):7:2;5006;10;1;1;0;0;0;0;c;1;1;1;1;8]))#}
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par 
+\pard\plain\pard\plain \absw1417\absh2268\pvpara\posy28\phcol\posx4294965856{\*\flyprint\flyvert16704\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\cf2\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0{\ul\ulc0 Surfaces reprises}}{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0  :}
+\par \pard\plain \absw1417\absh2268\pvpara\posy28\phcol\posx4294965856{\*\flyprint\flyvert16704\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 *propri\'e9t\'e9 familiale, tiers ?}
+\par \pard\plain \absw1417\absh2268\pvpara\posy28\phcol\posx4294965856{\*\flyprint\flyvert16704\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 *S\'e9curit\'e9 fonci\'e8re, risque de vente}
+\par \pard\plain \absw1417\absh2268\pvpara\posy28\phcol\posx4294965856{\*\flyprint\flyvert16704\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 *Parcellaire, morcellement, altitude}
+\par \pard\plain \absw1417\absh2268\pvpara\posy28\phcol\posx4294965856{\*\flyprint\flyvert16704\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * Potentiel agronomique (autonomie fourrag\'e8re et alimentaire)}
+\par \pard\plain \absw1417\absh2268\pvpara\posy28\phcol\posx4294965856{\*\flyprint\flyvert16704\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * Zone remarquable (Natura 2000, op\'e9ration locale, AOC...}
+\par \pard
+\pard\plain {\listtext\pard\plain \li363\ri0\lin363\rin0\fi-363\b\langfe1036\b\tx360\f7\f7\langfe1036\f7 \u9679\'3f\tab}\ilvl0 \ltrpar\s29\tx360\ls3\li363\ri0\lin363\rin0\fi-363\ql\rtlch\afs24\lang255\ab\ltrch\dbch\langfe1036\hich\fs24\lang1036\b\loch\fs24\lang1036\b {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b Surfaces}
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par 
+\pard\plain\pard\plain \absw1417\absh2268\pvpara\posy17\phcol\posx9043{\*\flyprint\flyvert28608\flyhorz28160\flyanchor0\flycntnt}\ltrpar\s1\cf2\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0{\ul\ulc0 B\'e2timents repris}}{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0  :}
+\par \pard\plain \absw1417\absh2268\pvpara\posy17\phcol\posx9043{\*\flyprint\flyvert28608\flyhorz28160\flyanchor0\flycntnt}\ltrpar\s1\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 *nb, ann\'e9e de construction, type, fonction }
+\par \pard\plain \absw1417\absh2268\pvpara\posy17\phcol\posx9043{\*\flyprint\flyvert28608\flyhorz28160\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 *Capacit\'e9 de logement (animaux, fourrages, mat\'e9riels)}
+\par \pard\plain \absw1417\absh2268\pvpara\posy17\phcol\posx9043{\*\flyprint\flyvert28608\flyhorz28160\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * Fonctionnalit\'e9}
+\par \pard\plain \absw1417\absh2268\pvpara\posy17\phcol\posx9043{\*\flyprint\flyvert28608\flyhorz28160\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * Mise aux normes (diagnostic b\'e2timent fait ?)}
+\par \pard
+\pard\plain {\listtext\pard\plain \li360\ri0\lin360\rin0\fi-360\b\langfe1036\b\f7\f7\langfe1036\f7 \u9679\'3f\tab}\ilvl0 \ltrpar\s29\ls2\li360\ri0\lin360\rin0\fi-360\ql\rtlch\afs24\lang255\ab\ltrch\dbch\langfe1036\hich\fs24\lang1036\b\loch\fs24\lang1036\b {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b B\'e2timents}
+\par \pard\plain \ltrpar\s29\tx360\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par 
+\pard\plain\pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\cf2\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0{\ul\ulc0 Animaux}}{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0  :}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 *race}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 *R\'e9f\'e9rence, rdt laitier et prix du lait : moyenne \'e9co d'apr\'e8s doc CER ou contr\'f4le laitier}
+\par \pard
+\pard\plain {\listtext\pard\plain \li360\ri0\lin360\rin0\fi-360\b\langfe1036\b\f7\f7\langfe1036\f7 \u9679\'3f\tab}\ilvl0 \ltrpar\s29\ls2\li360\ri0\lin360\rin0\fi-360\ql\rtlch\afs24\lang255\ab\ltrch\dbch\langfe1036\hich\fs24\lang1036\b\loch\fs24\lang1036\b {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b Animaux}
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 #slx(nomExplJA)# reprend le troupeau laitier, de race . Il comporte :}
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain {\listtext\pard\plain \li904\ri0\lin904\rin0\fi-360\langfe1036\f6\f6\f6 \u61680\'3f\tab}\ilvl0 \ltrpar\s29\ls10\li904\ri0\lin904\rin0\fi-360\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 Vaches laiti\'e8res :\tab #slx(VL.DON+VL-0a7:0)#  }
+\par \pard\plain {\listtext\pard\plain \li904\ri0\lin904\rin0\fi-360\langfe1036\f6\f6\f6 \u61680\'3f\tab}\ilvl0 \ltrpar\s29\ls7\li904\ri0\lin904\rin0\fi-360\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 Taureaux : \tab \tab #slx(VL.DON+VL-0a40:0)#}
+\par \pard\plain {\listtext\pard\plain \li904\ri0\lin904\rin0\fi-360\langfe1036\f6\f6\langfe1036\f6 \u61680\'3f\tab}\ilvl0 \ltrpar\s29\ls12\li904\ri0\lin904\rin0\fi-360\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 G\'e9nisses > 2 ans :\tab #slx(VL.DON+VL-0a10:0)#}
+\par \pard\plain {\listtext\pard\plain \li904\ri0\lin904\rin0\fi-360\langfe1036\f6\f6\f6 \u61680\'3f\tab}\ilvl0 \ltrpar\s29\ls9\li904\ri0\lin904\rin0\fi-360\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 G\'e9nisses 1-2 ans :\tab #slx(VL.DON+VL-0a11:0)#}
+\par \pard\plain {\listtext\pard\plain \li904\ri0\lin904\rin0\fi-360\langfe1036\f6\f6\f6 \u61680\'3f\tab}\ilvl0 \ltrpar\s29\ls5\li904\ri0\lin904\rin0\fi-360\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 G\'e9nisses < 1 an : \tab #slx(VL.DON+VL-0a12:0)#}
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 Le rendement laitier actuel atteint environ $$$$ l/VL  avec une valorisation de $$$ \'80 pour 1\~000\~litres de lait constat\'e9e sur la derni\'e8re cl\'f4ture comptable. }
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ab\ltrch\dbch\langfe1036\hich\fs24\lang1036\b\loch\fs24\lang1036\b 
+\par 
+\pard\plain\pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\cf2\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0{\ul\ulc0 Parc mat\'e9riel}}{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 :}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * \'e2ge, complet ? Entretenu ? Besoin de renouvellement}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * Mat\'e9riel en CUMA, copropri\'e9t\'e9}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * Politique d'investissement ?}
+\par \pard
+\pard\plain {\listtext\pard\plain \li360\ri0\lin360\rin0\fi-360\b\langfe1036\b\f7\f7\langfe1036\f7 \u9679\'3f\tab}\ilvl0 \ltrpar\s29\ls1\li360\ri0\lin360\rin0\fi-360\ql\rtlch\afs24\lang255\ab\ltrch\dbch\langfe1036\hich\fs24\lang1036\b\loch\fs24\lang1036\b {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b Parc mat\'e9riel }
+\par \pard\plain \ltrpar\s29\tx360\ql\rtlch\afs24\lang255\ab\ltrch\dbch\langfe1036\hich\fs24\lang1036\b\loch\fs24\lang1036\b 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \trowd\trqc\trpaddft3\trpaddt113\trpaddfl3\trpaddl113\trpaddfb3\trpaddb113\trpaddfr3\trpaddr113\clbrdrt\brdrs\brdrw20\brdrcf1\clbrdrl\brdrs\brdrw20\brdrcf1\clbrdrb\brdrs\brdrw20\brdrcf1\clbrdrr\brdrs\brdrw20\brdrcf1\clvertalc\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s29\aspalpha\ql\rtlch\afs28\lang255\ai\ltrch\dbch\langfe1036\hich\fs28\lang1036\i\loch\fs28\lang1036\i {\rtlch \ltrch\loch\f0\fs28\lang1036\i\b0 Commentaires}
+\cell\row\pard \pard\plain \ltrpar\s29\tx360\ql\rtlch\afs24\lang255\ab\ltrch\dbch\langfe1036\hich\fs24\lang1036\b\loch\fs24\lang1036\b 
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ab\ltrch\dbch\langfe1036\hich\fs24\lang1036\b\loch\fs24\lang1036\b 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \page\pard\plain \ltrpar\s29\ql\rtlch\af8\afs28\lang255\ab\ltrch\dbch\af8\langfe1036\hich\f8\fs28\lang1036\b\loch\f8\fs28\lang1036\b {\rtlch \ltrch\loch\f8\fs28\lang1036\i0\b Les objectifs de production}
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par 
+\pard\plain\pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\cf2\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0{\ul\ulc0 Utilisation des surf.}}{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0  :}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * autonomie fourrag\'e8re, alimentaire}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * \'c9volution des surfaces, du chargement et des charges qui en r\'e9sultent}
+\par \pard
+\pard\plain {\listtext\pard\plain \li360\ri0\lin360\rin0\fi-360\b\langfe1036\b\f7\f7\langfe1036\f7 \u9679\'3f\tab}\ilvl0 \ltrpar\s29\ls0\li360\ri0\lin360\rin0\fi-360\ql\rtlch\afs24\lang255\ab\ltrch\dbch\langfe1036\hich\fs24\lang1036\b\loch\fs24\lang1036\b {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b Utilisation des surfaces }
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 #slx(taba2p1c2;larg2000;larg8000([10;120][ASSOLEMENT_;5006;10;1;1;0;0;0;1;l;1;1;1;1;8][entete:3:1\'e8re_ann\'e9e_de_pr\'e9vision&Fin_de_pr\'e9vision;3;10;1;0;1;0;0;0;c;1;1;1;1;16]#[10;120][Cultures_:_Assolement_;5138;10;1;0;0;0;0;0;l;1;1;1;1;16][cultu:Assolement:1:2;3
+;10;1;0;0;0;0;0;c;1;1;1;1;8]#[10;120][;3;10;1;0;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[10;120][Cultures_p\'e9rennes_;5138;10;1;1;0;0;0;0;l;1;1;1;1;16][serie:CLTP.DON+Cltp-1:1:1;3;10;1;1;0;0;0;0;c;1;1;1;1;8]#[10;120][S.A.U._totale_;5138;10;
+1;1;0;0;0;0;l;1;1;1;1;16][totalC:LG(CULT-4)+LG4:1:0;3;10;1;1;0;0;0;0;c;1;1;1;1;8]#[10;120][Dont_propri\'e9t\'e9_;5138;10;1;0;1;0;0;0;l;1;1;1;1;16][serie:CULT.DON+Cult-6:1:1;3;10;1;0;1;0;0;0;c;1;1;1;1;8]#[10;120][Chargement_;5138;10;1;0;1;0;0;0;l;1;1;1;1;16][seri
+e:CULT.DON+Cult-7:1:0;3;10;1;0;1;0;0;0;c;1;1;1;1;8]#[10;120][%_Surf._Fourrag\'e8re___;5138;10;1;0;1;0;0;0;l;1;1;1;1;16][totalC:LG(CULT-2)/LG(CULT-4)*100:0:2;3;10;1;0;1;0;0;0;c;1;1;1;1;8]))#}
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \trowd\trqc\trpaddft3\trpaddt113\trpaddfl3\trpaddl113\trpaddfb3\trpaddb113\trpaddfr3\trpaddr113\clbrdrt\brdrs\brdrw20\brdrcf1\clbrdrl\brdrs\brdrw20\brdrcf1\clbrdrb\brdrs\brdrw20\brdrcf1\clbrdrr\brdrs\brdrw20\brdrcf1\clvertalc\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s29\aspalpha\ql\rtlch\afs28\lang255\ai\ltrch\dbch\langfe1036\hich\fs28\lang1036\i\loch\fs28\lang1036\i {\rtlch \ltrch\loch\f0\fs28\lang1036\i\b0 Commentaires}
+\cell\row\pard \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par 
+\pard\plain\pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\cf2\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0{\ul\ulc0 Production laiti\'e8re}}{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0  :}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 *origine et \'e9volution de la r\'e9f\'e9rence}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * Mode de commercialisation}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * conduite du troupeau (IA / saillie, croisement / race pure, \'e9levage de g\'e9nisses, production de VB, vente de g\'e9nisses d'\'e9levage, embouche ?}
+\par \pard
+\pard\plain {\listtext\pard\plain \li360\ri0\lin360\rin0\fi-360\b\langfe1036\b\f6\f6\langfe1036\f6 \u61599\'3f\tab}\ilvl0 \ltrpar\s29\ls4\li360\ri0\lin360\rin0\fi-360\ql\rtlch\afs24\lang255\ab\ltrch\dbch\langfe1036\hich\fs24\lang1036\b\loch\fs24\lang1036\b {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b Production laiti\'e8re }
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 La r\'e9f\'e9rence laiti\'e8re initiale est de #slx(VL.DON+VL-1a26:0)# litres \'e0 ???? g de MG, commercialis\'e9e aupr\'e8s de ??????. Compte tenu du Projet Agricole D\'e9partemental, celle-ci \'e9voluera sur les deux premiers exercices gr\'e2ce \'e0 des attributions, de la mani\'e8re su
+ivante :}
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 #slx(taba2p1c2;larg3500;larg8000([10;120][;3;10;1;1;0;0;0;1;l;0;0;0;0;8][entete:1:1\'e8re_ann\'e9e_de_pr\'e9vision&Fin_de_pr\'e9vision;3;10;1;0;1;0;0;0;c;1;1;1;1;8]#[10;120][Effectif_VL_(fin);3;10;1;1;1;0;0;0;l;1;0;1;1;8][serie:VL.DON+VL-7:0:2;3;10;1;1;1;0;0;0;c;1;0;1
+;1;8]#[10;120][Effectif_G\'e9nisses_\'e0_\'e9lever;3;10;1;0;0;0;0;0;l;0;1;1;1;8][serie:VL.DON+VL-13:0:1;3;10;1;0;0;0;0;0;c;0;1;1;1;8]#[10;120][;3;10;1;0;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[10;120][Nb_de_Veaux_de_naissance_\'e0_vendre;3;10;1;0;0;
+0;0;0;l;1;0;1;1;8][serie:VL.DON+VL-41:0:1;3;10;1;0;0;0;0;0;c;1;0;1;1;8]#[10;120][Prix_des_veaux_de_naissance;3;10;1;0;0;0;0;0;l;0;1;1;1;8][serie:VL.DON+VL-94:0:1;3;10;1;0;0;0;0;0;c;0;1;1;1;8]#[10;120][Nb_de_veaux_crois\'e9s_\'e0_vendre;3;10;1;0;0;0;0;0;l;0;0;1;1
+;8][serie:VL.DON+VL-42:0:1;3;10;1;0;0;0;0;0;c;0;0;1;1;8]#[10;120][Prix_des_veaux_crois\'e9s;3;10;1;0;0;0;0;0;l;0;1;1;1;8][serie:VL.DON+VL-106:0:1;3;10;1;0;0;0;0;0;c;0;1;1;1;8]#[10;120][Nb_de_veaux_de_boucherie_vendus;3;10;1;0;0;0;0;0;l;0;0;1;1;8][serie:VLVB.D
+ON+VLVB-4:0:2;3;10;1;0;0;0;0;0;c;0;0;1;1;8]#[10;120][Prix_des_veaux_de_boucherie;3;10;1;0;0;0;0;0;l;0;1;1;1;8][serie:VLVB.DON+VLVB-27:0:2;3;10;1;0;0;0;0;0;c;0;1;1;1;8]#[10;120][Lait_vendu;3;10;1;1;1;0;0;0;l;1;0;1;1;8][serie:VL.DON+VL-26:0:1;3;10;1;1;1;0;0;
+0;c;1;0;1;1;8]#[10;120][Prix_du_lait_(\'80_pour_1_000_litres);3;10;1;0;0;0;0;0;l;0;0;1;1;8][totalC:LG(VL-92)*1000:0:2;3;10;1;0;0;0;0;0;c;0;0;1;1;8]#[10;120][Rendement_laitier_(l_/_VL);3;10;1;0;0;0;0;0;l;0;1;1;1;8][serie:VL.DON+VL-30:0:2;3;10;1;0;0;0;0;0;c;0;1
+;1;1;8]))#}
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \trowd\trqc\trpaddft3\trpaddt113\trpaddfl3\trpaddl113\trpaddfb3\trpaddb113\trpaddfr3\trpaddr113\clbrdrt\brdrs\brdrw20\brdrcf1\clbrdrl\brdrs\brdrw20\brdrcf1\clbrdrb\brdrs\brdrw20\brdrcf1\clbrdrr\brdrs\brdrw20\brdrcf1\clvertalc\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s29\aspalpha\ql\rtlch\afs28\lang255\ai\ltrch\dbch\langfe1036\hich\fs28\lang1036\i\loch\fs28\lang1036\i {\rtlch \ltrch\loch\f0\fs28\lang1036\i\b0 Commentaires}
+\cell\row\pard \pard\plain \ltrpar\s29\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\par \page
+\pard\plain\pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\cf2\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0{\ul\ulc0 Projet}}{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0  :}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 *objectifs du JA, des associ\'e9s : qualit\'e9 de vie, choix de prod, adaptation aux contraintes...}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * Investissements et leurs justification : renouvellement pour maintien de l'outil, mise aux normes, augmentation capacit\'e9 de prod, M.O., condition de travail...}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\par \pard
+\pard\plain \ltrpar\s29\ql\rtlch\af8\afs24\lang255\ab\ltrch\dbch\langfe1036\hich\f8\fs24\lang1036\b\loch\f8\fs24\lang1036\b{\rtlch \ltrch\loch\f8\fs24\lang1036\i0\b{\rtlch\ltrch\hich\fs28\loch\fs28 Le projet}}{\rtlch \ltrch\loch\f8\fs24\lang1036\i0\b{\rtlch\ltrch\hich\fs20\loch\fs20  }}
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \trowd\trqc\trpaddft3\trpaddt113\trpaddfl3\trpaddl113\trpaddfb3\trpaddb113\trpaddfr3\trpaddr113\clbrdrt\brdrs\brdrw20\brdrcf1\clbrdrl\brdrs\brdrw20\brdrcf1\clbrdrb\brdrs\brdrw20\brdrcf1\clbrdrr\brdrs\brdrw20\brdrcf1\clvertalc\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s29\aspalpha\ql\rtlch\afs28\lang255\ai\ltrch\dbch\langfe1036\hich\fs28\lang1036\i\loch\fs28\lang1036\i {\rtlch \ltrch\loch\f0\fs28\lang1036\i\b0 Commentaires}
+\cell\row\pard \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036{\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0{\rtlch\ltrch\hich\i\b\loch\i\b Le projet}}{\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0  repose sur un investissement global de #slx(formule:1a:LG(RES-191!A1)+LG(RES-191!A2)+LG(RES-191!A3)+LG(RES-191!A4)+LG(RES-191!A5)+LG(RES-191!A6)+LG(RES-191!A7)+LG(RES-188!A1)+LG(RES-188!A2)+LG(RES-188!A3)+LG(RES-188!A4)+LG(RES-188!A5)+LG(RES-188!
+A6)+LG(RES-188!A7)+LG(RES-189!A1)+LG(RES-189!A2)+LG(RES-189!A3)+LG(RES-189!A4)+LG(RES-189!A5)+LG(RES-189!A6)+LG(RES-189!A7))# \'80 (y compris les parts sociales li\'e9es aux emprunts). Il sera financ\'e9 par :}
+\par \pard\plain {\listtext\pard\plain \li904\ri0\lin904\rin0\fi-360\langfe1036\f6\f6\f6 \u61599\'3f\tab}\ilvl0 \ltrpar\s29\ls8\li904\ri0\lin904\rin0\fi-360\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 #slx(RES.DON+RES-som198:0)# \'80 de subventions,}
+\par \pard\plain {\listtext\pard\plain \li904\ri0\lin904\rin0\fi-360\langfe1036\f6\f6\f6 \u61599\'3f\tab}\ilvl0 \ltrpar\s29\ls11\li904\ri0\lin904\rin0\fi-360\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 #slx(IMMORES.DON+IMMORES-som45:7)# \'80 d\'92emprunts.}
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ai\ab\ltrch\dbch\langfe1036\hich\fs24\lang1036\i\b\loch\fs24\lang1036\i\b {\rtlch \ltrch\loch\f0\fs24\lang1036\i\b Financements \'e0 long et moyen terme}
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 #slx(taba2p1c0;larg2000;larg7200([10;10][Immos_-_Emprunts_:_Investissements_-_Financements;3;10;1;0;0;0;0;0;c;1;1;1;1;8][imemp:inves:7;3;10;1;0;0;0;0;0;c;1;1;1;1;8]))#}
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par 
+\pard\plain\pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\cf2\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0{\ul\ulc0 Besoins \'e0 CT}}{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0  :}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 *Variation de besoins = fin - d\'e9but}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * Besoin en tr\'e9so = besoins \'e0 CT \'96 ressources \'e0 CT}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 Th\'e9oriquement, les besoins sont toujours positifs. Si ce n'est pas le cas, se poser des questions !!!}
+\par \pard
+\pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ai\ab\ltrch\dbch\langfe1036\hich\fs24\lang1036\i\b\loch\fs24\lang1036\i\b {\rtlch \ltrch\loch\f0\fs24\lang1036\i\b Besoins et ressources \'e0 court terme }
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \trowd\trqc\trpaddft3\trpaddt0\trpaddfl3\trpaddl10\trpaddfb3\trpaddb0\trpaddfr3\trpaddr10\clbrdrt\brdrdb\brdrw15\brdrcf1\clbrdrl\brdrdb\brdrw15\brdrcf1\clbrdrb\brdrdb\brdrw15\brdrcf1\clcbpat3\clvertalc\cellx4510\clbrdrt\brdrdb\brdrw15\brdrcf1\clbrdrl\brdrdb\brdrw15\brdrcf1\clbrdrb\brdrdb\brdrw15\brdrcf1\clbrdrr\brdrdb\brdrw15\brdrcf1\clcbpat3\clvertalc\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s29\cf1\ql\rtlch\afs20\lang255\ab\ltrch\dbch\langfe1036\hich\fs20\lang1036\b\loch\fs20\lang1036\b {\rtlch \ltrch\loch\f0\fs20\lang1036\i0\b Besoins \'e0 court terme}
+\cell\pard\plain \intbl\ltrpar\s29\cf1\aspalpha\ql\rtlch\afs20\lang255\ab\ltrch\dbch\langfe1036\hich\fs20\lang1036\b\loch\fs20\lang1036\b {\rtlch \ltrch\loch\f0\fs20\lang1036\i0\b Ressources \'e0 court terme}
+\cell\row\pard \pard\plain \ltrpar\s1\qc\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\par \trowd\trqc\trpaddft3\trpaddt0\trpaddfl3\trpaddl10\trpaddfb3\trpaddb0\trpaddfr3\trpaddr10\clbrdrt\brdrs\brdrw1\brdrcf1\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clcbpat4\clvertalc\cellx2867\clbrdrt\brdrs\brdrw1\brdrcf1\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clcbpat4\clvertalc\cellx4510\clbrdrt\brdrs\brdrw1\brdrcf1\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clcbpat4\clvertalc\cellx7454\clbrdrt\brdrs\brdrw1\brdrcf1\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clbrdrr\brdrs\brdrw1\brdrcf1\clcbpat4\clvertalc\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s29\cf1\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs20\lang1036\i0\b0 Variation des stocks}
+\cell\pard\plain \intbl\ltrpar\s29\cf1\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\cell\pard\plain \intbl\ltrpar\s29\cf1\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs20\lang1036\i0\b0 Variation des dettes fournisseurs}
+\cell\pard\plain \intbl\ltrpar\s29\cf1\aspalpha\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\cell\row\pard \trowd\trqc\trpaddft3\trpaddt0\trpaddfl3\trpaddl10\trpaddfb3\trpaddb0\trpaddfr3\trpaddr10\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clcbpat4\clvertalc\cellx2867\clbrdrl\brdrs\brdrw1\brdrcf1\clbrdrb\brdrs\brdrw1\brdrcf1\clcbpat4\clvertalc\cellx4510\clbrdrl\brdrs\brdrw1\brdrcf1\clcbpat4\clvertalc\cellx7454\clcbpat4\clvertalc\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s29\cf1\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs20\lang1036\i0\b0 Variation des cr\'e9ances}
+\cell\pard\plain \intbl\ltrpar\s29\cf1\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\cell\pard\plain \intbl\ltrpar\s29\cf1\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\cell\pard\plain \intbl\ltrpar\s29\cf1\aspalpha\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\cell\row\pard \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \trowd\trqc\trpaddft3\trpaddt0\trpaddfl3\trpaddl10\trpaddfb3\trpaddb0\trpaddfr3\trpaddr10\clcbpat4\clvertalc\cellx3530\clbrdrt\brdrdb\brdrw15\brdrcf1\clbrdrl\brdrdb\brdrw15\brdrcf1\clbrdrb\brdrdb\brdrw15\brdrcf1\clcbpat3\clvertalc\cellx7450\clbrdrt\brdrdb\brdrw15\brdrcf1\clbrdrl\brdrdb\brdrw15\brdrcf1\clbrdrb\brdrdb\brdrw15\brdrcf1\clbrdrr\brdrdb\brdrw15\brdrcf1\clcbpat3\clvertalc\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s1\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\cell\pard\plain \intbl\ltrpar\s1\cf1\ql\rtlch\afs20\lang255\ab\ltrch\dbch\langfe1036\hich\fs20\lang1036\b\loch\fs20\lang1036\b {\rtlch \ltrch\loch\f0\fs20\lang1036\i0\b Besoin en tr\'e9sorerie}
+\cell\pard\plain \intbl\ltrpar\s1\qc\aspalpha\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\cell\row\pard \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par 
+\pard\plain\pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\cf2\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0{\ul\ulc0 Besoin d'autofin.}}{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0  =}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 antofin. LMT + Besoin en tr\'e9so CT}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 Pr\'e9ciser comment est assur\'e9 l'autofin. : pr\'eat BFR, DJA, apports perso, pr\'eat famille...}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0{\ul\ulc0 Caract\'e9ristiques des emprunts}}{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0  : paliers, diff\'e9r\'e9s, courts terme d'attente}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 Plafond {\ul\ulc0 subvention \'e9quivalente }atteint ?}
+\par \pard
+\pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ai\ab\ltrch\dbch\langfe1036\hich\fs24\lang1036\i\b\loch\fs24\lang1036\i\b {\rtlch \ltrch\loch\f0\fs24\lang1036\i\b L\'92autofinancement n\'e9cessaire est de \'80. }
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \trowd\trqc\trpaddft3\trpaddt113\trpaddfl3\trpaddl113\trpaddfb3\trpaddb113\trpaddfr3\trpaddr113\clbrdrt\brdrs\brdrw20\brdrcf1\clbrdrl\brdrs\brdrw20\brdrcf1\clbrdrb\brdrs\brdrw20\brdrcf1\clbrdrr\brdrs\brdrw20\brdrcf1\clvertalc\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s29\aspalpha\ql\rtlch\afs28\lang255\ai\ltrch\dbch\langfe1036\hich\fs28\lang1036\i\loch\fs28\lang1036\i {\rtlch \ltrch\loch\f0\fs28\lang1036\i\b0 Commentaires}
+\cell\row\pard \pard\plain \ltrpar\s29\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\par \page
+\pard\plain\pard\plain \absw1417\absh1363\pvpara\posy255\phcol\posx4294965856{\*\flyprint\flyvert43360\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\cf2\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0{\ul\ulc0 R\'e9sultats \'e9co.}}{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0  :}
+\par \pard\plain \absw1417\absh1363\pvpara\posy255\phcol\posx4294965856{\*\flyprint\flyvert43360\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 *RD / aides \'e0 l'installation}
+\par \pard\plain \absw1417\absh1363\pvpara\posy255\phcol\posx4294965856{\*\flyprint\flyvert43360\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * Niveau d'autonomie / exploitations similaires}
+\par \pard\plain \absw1417\absh1363\pvpara\posy255\phcol\posx4294965856{\*\flyprint\flyvert43360\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * Niveau de MS}
+\par \pard\plain \absw1417\absh1363\pvpara\posy255\phcol\posx4294965856{\*\flyprint\flyvert43360\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * Evolution du r\'e9gime fiscal}
+\par \pard\plain \absw1417\absh1363\pvpara\posy255\phcol\posx4294965856{\*\flyprint\flyvert43360\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\par \pard
+\pard\plain \ltrpar\s29\ql\rtlch\af8\afs28\lang255\ab\ltrch\dbch\af8\langfe1036\hich\f8\fs28\lang1036\b\loch\f8\fs28\lang1036\b {\rtlch \ltrch\loch\f8\fs28\lang1036\i0\b Les r\'e9sultats \'e9conomiques}
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 #slx(taba2p1c0;larg2300;larg7200([240;120][;1;9;1;0;0;0;0;0;c;0;0;0;0;8][entete:1:1\'e8re_ann\'e9e_de_pr\'e9vision&Fin_de_pr\'e9vision;5006;10;1;1;0;0;0;0;c;1;1;1;1;8]#[240;120][;3;10;1;0;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][Chiffre_d'af
+faires____;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][totalC:LG(RES-165)+LG(RES-166):0:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[240;120][Il_s'agit_des_ventes_de_l'ann\'e9e_H.T.,_indemnit\'e9s_compensatrices_incluses.____;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0
+;c;0;0;0;0;8]#[240;120][;3;10;1;0;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][;5006;12;1;1;0;0;0;1;c;0;0;0;0;8][espace;5006;12;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][Exc\'e9dent_Brut_d'Expl._____;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][serie:RES.
+DON+RES-111:0:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][La_recherche_de_bonnes_performances_agricoles_et_commerciales,_donc_d'un_E.B.E._important,_doit_\'eatre_une_pr\'e9occupation_premi\'e8re_de_l'agriculteur_soucieux_de_la_comp\'e9titivit\'e9_de_son_entreprise.___;5
+138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][C'est_une_condition_indispensable_pour_la_p\'e9rennit\'e9_de_l'entreprise.___;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][L'E.B.E_intervient_dans_l
+e_calcul_de_nombreux_ratios_que_sont_les_indicateurs_de_rentabilit\'e9.__;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][Il_r\'e9sulte_de_la_diff\'e9rence_entre_les_produits_courants_et_les_charges_courantes_de_l'exploitation_(charg
+es_op\'e9rationnelles_et_frais_de_structure)_+_les_fermages_per\'e7us_par_les_associ\'e9s_pour_leurs_biens_propres_-_les_imp\'f4ts_fonciers_des_terres_mises_\'e0_disposition_de_la_soci\'e9t\'e9.___;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120]
+[Il_doit_permettre_de_rembourser_les_annuit\'e9s_de_l'entreprise,_assurer_des_pr\'e9l\'e8vements_priv\'e9s_suffisants_tout_en_laissant_une_marge_de_s\'e9curit\'e9,_indispensable_\'e0_la_p\'e9rennit\'e9_de_l'exploitation.___;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;
+0;0;0;0;8]#[240;120][;3;10;1;0;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][E.B.E_/_produit_(%)_____;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][serie:RES.DON+RES-148:0:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][Le_ratio_E.B.E._/_Produit_sert
+_\'e0_comparer_le_niveau_d'efficacit\'e9_de_plusieurs_entreprises_:_il_est_en_effet_ind\'e9pendant_de_la_politique_d'investissement_et_des_choix_fiscaux_de_l'exploitant.____;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;5006;12;1;0;0;0;0;0;l;0;0;0;0;8]#[280;120][;5006;12
+;1;1;0;0;0;1;c;0;0;0;0;8][espace;5006;12;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][;5006;12;1;1;0;0;0;1;c;0;0;0;0;8][espace;5006;12;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][R\'e9sultat_courant___;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][serie:RES.DON+RES-121:0:2;5006;10;1;0;0;0;0
+;0;c;1;1;1;1;8]#[240;120][Il_s'agit_du_revenu_de_l'ann\'e9e_"produits_-_charges"_(en_incluant_les_variations_de_stocks,_les_amortissements_et_les_frais_financiers).___;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[240;120][Ce_crit\'e8re_
+est_\'e9galement_appel\'e9_Revenu_Agricole._Pour_le_calcul_du_r\'e9sultat_courant_des_associ\'e9s,_il_est_tenu_compte_des_frais_financiers_relatifs_aux_emprunts_professionnels_non_pris_en_charge_par_la_soci\'e9t\'e9_(non_inscrits_au_bilan).___;5138;10;1;0;1;0;0;0;l;0;0;0;0;
+8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][;3;10;1;0;0;0;0;0;c;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][;5006;12;1;1;0;0;0;1;c;0;0;0;0;8][espace;5006;12;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][Marge_de_s\'e9curit\'e9__;5138;10;1;1;0;0;0;0;l;0;
+0;0;0;8][serie:RES.DON+RES-161:0:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[240;120][S\'e9curit\'e9_/_Produit_(%)___;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][serie:RES.DON+RES-150:0:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[480;120][MS_-_5_%_(pour_info,_A_SUPPRIMER)____;5008;8;6;1;0
+;0;0;0;l;0;0;0;0;8][totalC:LG23-LG(RES-57)*0,05:0:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][La_Marge_de_S\'e9curit\'e9_s'obtient_apr\'e8s_r\'e8glement_des_annuit\'e9s_et_pr\'e9l\'e8vements_priv\'e9s._Elle_traduit_:___;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;
+0;0;0;0;8]#[280;120][-_la_marge_de_manoeuvre_de_l'entreprise_pour_supporter_les_al\'e9as_\'e9conomiques,_____;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;5006;12;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][-_la_capacit\'e9_de_celle-ci_\'e0_faire_face_\'e0_de_nouveaux_investissements_
+et_\'e0_accro\'eetre_ses_pr\'e9l\'e8vements._____;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][Le_ratio_S\'e9curit\'e9_/_Produit_permet_de_cerner_le_niveau_de_r\'e9sistance_de_l'entreprise_\'e0_des_\'e9v\'e9nements_impr\'e9vus,_des_besoins_de_financement
+s_ou_de_pr\'e9l\'e8vements_suppl\'e9mentaires,_compte_tenu_de_son_volume_d'activit\'e9.______;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;5006;12;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][_;5006;9;1;0;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][;5006;12;1
+;1;0;0;0;1;c;0;0;0;0;8][espace;5006;12;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][Revenu_dispo._/_Associ\'e9;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][serie:RES.DON+RES-145:0:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][Le_Revenu_Disponible_est_calcul\'e9_de_la_mani\'e8re_suivante_
+:___;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][(E.B.E._de_la_soci\'e9t\'e9_-_Annuit\'e9s_Soci\'e9t\'e9_-_Annuit\'e9s_Associ\'e9s_+_Mises_\'e0_disposition_associ\'e9s)_/_Nombre_d'associ\'e9s____;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0
+;0;c;0;0;0;0;8]#[280;120][Afin_de_pouvoir_pr\'e9tendre_aux_subventions_sur_les_b\'e2timents_d'\'e9levage,_il_doit_atteindre_au_minimum_12_064_\'80_/chef_d'exploitation_au_moment_de_la_demande,_sauf_cas_particulier_des_jeunes_agriculteurs_install\'e9s_depuis_moins_de_3_an
+s_et_des_cr\'e9ations_d'entreprise_(individuelle_ou_soci\'e9taire)._Dans_ce_cas,_la_viabilit\'e9_est_appr\'e9ci\'e9e_d'apr\'e8s_l'\'e9tude_pr\'e9visionnelle.__;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][Par_ailleurs,_pour_pouvoir_b\'e9n\'e9ficier_de
+s_aides_\'e0_l'installation,_ce_revenu_doit_atteindre,_en_5\'e8me_ann\'e9e_un_minimum_de_12_064_\'80/chef_d'exploitation__pour_une_installation_comme_agriculteur_\'e0_titre_principal.__;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;5006;10;1;0;0;0;0;0;c;0;0;0;0;8]))#}
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \trowd\trqc\trpaddft3\trpaddt113\trpaddfl3\trpaddl113\trpaddfb3\trpaddb113\trpaddfr3\trpaddr113\clbrdrt\brdrs\brdrw20\brdrcf1\clbrdrl\brdrs\brdrw20\brdrcf1\clbrdrb\brdrs\brdrw20\brdrcf1\clbrdrr\brdrs\brdrw20\brdrcf1\clvertalc\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s29\aspalpha\ql\rtlch\afs28\lang255\ai\ltrch\dbch\langfe1036\hich\fs28\lang1036\i\loch\fs28\lang1036\i {\rtlch \ltrch\loch\f0\fs28\lang1036\i\b0 Commentaires}
+\cell\row\pard \pard\plain \ltrpar\s29\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\par \page
+\pard\plain\pard\plain \absw1417\absh1363\pvpara\posy192\phcol\posx4294965856{\*\flyprint\flyvert44096\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\cf2\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0{\ul\ulc0 Poids de l'endettement}}{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0  :}
+\par \pard\plain \absw1417\absh1363\pvpara\posy192\phcol\posx4294965856{\*\flyprint\flyvert44096\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * annuit\'e9s / crit\'e8res administratifs}
+\par \pard\plain \absw1417\absh1363\pvpara\posy192\phcol\posx4294965856{\*\flyprint\flyvert44096\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * Suffisance du BRF...}
+\par \pard
+\pard\plain \ltrpar\s29\ql\rtlch\af8\afs28\lang255\ab\ltrch\dbch\af8\langfe1036\hich\f8\fs28\lang1036\b\loch\f8\fs28\lang1036\b {\rtlch \ltrch\loch\f8\fs28\lang1036\i0\b Indicateurs financiers}
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 #slx(taba2p1c0;larg2000;larg7200([10;120][;3;10;1;1;0;0;0;1;l;0;0;0;0;8][entete:1:1\'e8re_ann\'e9e_de_pr\'e9vision&Fin_de_pr\'e9vision;3;10;1;1;0;0;0;0;c;1;1;1;1;8]#[10;120][;3;10;1;0;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[10;120][ENDETTEMENT_;5006
+;10;1;1;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[10;120][Endettement_LMT_;5138;10;1;0;0;0;0;0;l;0;0;0;0;8][totalC:LG(RES-270)-LG(RES-268):0:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][Endettement_associ\'e9s___;5138;10;1;0;0;0;0;0;l;0;0;0;0
+;8][totalC:LG(IMMORES-66):0:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[10;120][Endettement_CT__;5138;10;1;0;0;0;0;0;l;0;0;0;0;8][totalC:LG(RES-276)-LG(RES-271):0:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][;5006;12;1;1;0;0;0;1;c;0;0;0;0;8][espace;5006;12;1;0;0;0
+;0;0;c;0;0;0;0;8]#[280;120][Total_endettement__;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][totalC:LG4+LG5+LG6:0:2;5006;10;1;1;0;0;0;0;c;1;1;1;1;8]))#}
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 #slx(taba2p1cr0;larg2000;larg7200([10;120][Fonds_de_Roulement__;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][serie:RESBIS.DON+RESBIS-6:0:2;3;10;1;0;0;0;0;0;c;1;1;1;1;8]#[10;120][Le_Fonds_de_Roulement_(F.R.)_traduit_le_besoin_de_financement_de_l'activit\'e9_courante_(capi
+taux_propres_+_emprunts_L.M.T._-_Immobilisations)_de_l'entreprise._;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[10;120][;3;10;1;0;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[10;120][Besoin_Fonds_Roul.t_;5138;10;1;1
+;0;0;0;0;l;0;0;0;0;8][serie:RESBIS.DON+RESBIS-9:0:2;3;10;1;0;0;0;0;0;c;1;1;1;1;8]#[10;120][Le_Besoin_en_Fonds_de_Roulement_(B.F.R.)_indique_la_somme_d'argent__qui_doit__\'eatre_investie_dans_l'entreprise_pour_permettre_son_fonctionnement_avec_une_tr\'e9sorerie_\'e9
+quilibr\'e9e.__;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[10;120][;3;10;1;0;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[280;120][F.ds_Roul.t_/_Stocks_;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][totalC:LG(RESBIS-6)/LG(RES-248)
+:2:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][Les_stocks_ont_une_dur\'e9e_de_vie_bien_souvent_sup\'e9rieure_\'e0_1_an._Il_est_important_qu'ils_soient_financ\'e9s_par_des_capitaux_permanents._Ainsi,_il_est_souhaitable_que_ce_ratio_soit_sup\'e9rieur_\'e0_1._;5138;10;1;0;1;0
+;0;0;l;0;0;0;0;8][espace;5006;12;1;0;0;0;0;0;c;0;0;0;0;8]))#}
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 #slx(taba2p1c0;larg2000;larg7200([10;120][EVOLUTION_DES_ANNUITES;3;10;1;1;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[10;120][Anciennes_annuit\'e9s__;5138;10;1;0;0;0;0;0;l;0;0;0;0;8][serie:IMMORES.DON+IMMORES-78:0:2;5006;10;1;0;0;0;0;0;c;1;1;1;
+1;8]#[10;120][Nouvelles_annuit\'e9s__;5138;10;1;0;0;0;0;0;l;0;0;0;0;8][serie:IMMORES.DON+IMMORES-79:0:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;8]#[10;120][Annuit\'e9s_associ\'e9s__;5138;10;1;0;0;0;0;0;l;0;0;0;0;8][serie:RESBIS.DON+RESBIS-4:0:2;5006;10;1;0;0;0;0;0;c;1;1;1;1;
+8]#[280;120][;5006;12;1;1;0;0;0;1;c;0;0;0;0;8][espace;5006;12;1;0;0;0;0;0;c;0;0;0;0;8]#[10;120][TOTAL;3;10;1;1;0;0;0;0;l;0;0;0;0;8][totalC:LG2+LG3+LG4:0:2;5006;10;1;1;0;0;0;0;c;1;1;1;1;8]#[10;120][Somme_des_remboursements_d'emprunts_(capital_+_int\'e9r\'eats)_in
+scrits_au_bilan_de_l'entreprise_+_emprunts_professionnels_rembours\'e9s_par_les_associ\'e9s_;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[10;120][;3;10;1;0;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[10;120][%_annuit\'e9s_/_
+E.B.E._;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][serie:RES.DON+RES-152:0:2;3;10;1;0;0;0;0;0;c;1;1;1;1;8]#[280;120][C'est_un_des_crit\'e8res_clef_de_l'endettement._Il_mesure_le_poids_du_remboursement_annuel_par_la_soci\'e9t\'e9_par_rapport_\'e0_la_rentabilit\'e9_de_l'entreprise._
+_;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]))#}
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\qc\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 #slx(gph(Ech\'e9ancier_soci\'e9t\'e9;10;1;4;0;;0;0;2;5;2661,5;5618,5;5416;5880;0;7890;165;5385;667;7140;3;582;720;7244;5190;5574;30;60;1;1;1;1;;11;30;;11;30;;11;0;;11;30;14;[RESBIS-3;Total_Entreprise;2;RESBIS.DON;0;0;128;192;80;1][RESBIS-4;Total_Associ\'e9s;2;RESBIS.D
+ON;0;255;0;0;40;1][RESBIS-1;Anciennes_Annuit\'e9s;2;RESBIS.DON;0;0;128;255;40;1][RESBIS-2;Nouvelles_Annuit\'e9s;2;RESBIS.DON;0;128;255;255;40;1]))#}
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \trowd\trqc\trpaddft3\trpaddt113\trpaddfl3\trpaddl113\trpaddfb3\trpaddb113\trpaddfr3\trpaddr113\clbrdrt\brdrs\brdrw20\brdrcf1\clbrdrl\brdrs\brdrw20\brdrcf1\clbrdrb\brdrs\brdrw20\brdrcf1\clbrdrr\brdrs\brdrw20\brdrcf1\clvertalc\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s29\aspalpha\ql\rtlch\afs28\lang255\ai\ltrch\dbch\langfe1036\hich\fs28\lang1036\i\loch\fs28\lang1036\i {\rtlch \ltrch\loch\f0\fs28\lang1036\i\b0 Commentaires}
+\cell\row\pard \pard\plain \ltrpar\s29\ql\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 
+\par \page
+\pard\plain\pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\cf2\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0{\ul\ulc0 Tr\'e9sorerie}}{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0  :}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * tr\'e9so en phase d'installation}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * Moyens mis en oeuvre pour l'am\'e9liorer}
+\par \pard
+\pard\plain \ltrpar\s29\ql\rtlch\af8\afs28\lang255\ab\ltrch\dbch\af8\langfe1036\hich\f8\fs28\lang1036\b\loch\f8\fs28\lang1036\b {\rtlch \ltrch\loch\f8\fs28\lang1036\i0\b Rep\'e8res de tr\'e9sorerie}
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 {\rtlch \ltrch\loch\f0\fs24\lang1036\i0\b0 #slx(taba2p1cr0;larg2000;larg7200([10;120][;3;10;1;1;0;0;0;1;l;0;0;0;0;8][entete:1:1\'e8re_ann\'e9e_de_pr\'e9vision&Fin_de_pr\'e9vision;3;10;1;1;0;0;0;0;c;1;1;1;1;8]#[10;120][;3;10;1;0;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[10;120][Budget_courant_;
+5138;10;1;1;0;0;0;0;l;0;0;0;0;8][serie:RES.DON+RES-170:0:1;3;10;1;1;0;0;0;0;c;1;1;1;1;8]#[10;120][R\'e9mun._associ\'e9s__;5138;10;1;0;0;0;0;0;l;0;0;0;0;8][serie:RES.DON+RES-174:0:1;3;10;1;0;0;0;0;0;c;1;0;1;1;8]#[10;120][Annuit\'e9s_+_Frais_Fin._;5138;10;1;0;0;0;0;0
+;l;0;0;0;0;8][serie:RES.DON+RES-133:0:1;3;10;1;0;0;0;0;0;c;0;1;1;1;8]#[10;120][Budget_annuel_;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][serie:RES.DON+RES-176:0:1;3;10;1;1;0;0;0;0;c;1;1;1;1;8]#[10;120][C'est_la_tr\'e9sorerie_d\'e9gag\'e9e_par_l'exploitation,_une_fois_les_bes
+oins_couverts_(pr\'e9l\'e8vements_priv\'e9s,_remboursements_d'emprunts)_;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[10;120][;3;10;1;0;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[10;120][Budget_total_;5138;10;1;1;0;0;0;0;l;
+0;0;0;0;8][serie:RES.DON+RES-226:0:2;3;10;1;1;0;0;0;0;c;1;1;1;1;8]#[10;120][Il_repr\'e9sente_la_tr\'e9sorerie_d\'e9gag\'e9e_sur_un_exercice_apr\'e8s_r\'e9alisation_des_investissements_et_de_leur_financement_(emprunts,_subventions,_apports_personnels)._;5138;10;1;0;1;0;0;0;l
+;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[10;120][;3;10;1;0;0;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]#[10;120][Tr\'e9sorerie_cumul\'e9e_;5138;10;1;1;0;0;0;0;l;0;0;0;0;8][serie:RES.DON+RES-232:0:2;3;10;1;1;0;0;0;0;c;1;1;1;1;8]#[10;120][La_
+tr\'e9sorerie_cumul\'e9e_correspond_au_solde_bancaire_pr\'e9visionnel_\'e0_la_fin_de_chaque_exercice._;5138;10;1;0;1;0;0;0;l;0;0;0;0;8][espace;3;10;1;0;0;0;0;0;c;0;0;0;0;8]))#}
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\tx1695\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \trowd\trqc\trpaddft3\trpaddt113\trpaddfl3\trpaddl113\trpaddfb3\trpaddb113\trpaddfr3\trpaddr113\clbrdrt\brdrs\brdrw20\brdrcf1\clbrdrl\brdrs\brdrw20\brdrcf1\clbrdrb\brdrs\brdrw20\brdrcf1\clbrdrr\brdrs\brdrw20\brdrcf1\clvertalc\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s29\aspalpha\ql\rtlch\afs28\lang255\ai\ltrch\dbch\langfe1036\hich\fs28\lang1036\i\loch\fs28\lang1036\i {\rtlch \ltrch\loch\f0\fs28\lang1036\i\b0 Commentaires}
+\cell\row\pard \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par 
+\pard\plain\pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\cf2\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * Risques techniques}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * Risques humains}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * Risques \'e9co (calcul du prix de seuil, \'e9volution des subventions \'e0 la prod., des prix en g\'e9n\'e9ral)}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * Risques financiers (volume d'investissement, retour sur investissement...}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * Risques commerciaux}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\cf2\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 
+\par \pard
+\pard\plain \ltrpar\s29\ql\rtlch\af8\afs24\lang255\ab\ltrch\dbch\langfe1036\hich\f8\fs24\lang1036\b\loch\f8\fs24\lang1036\b{\rtlch \ltrch\loch\f8\fs24\lang1036\i0\b{\rtlch\ltrch\hich\fs28\loch\fs28 Analyse des risques}}{\rtlch \ltrch\loch\f8\fs24\lang1036\i0\b{\rtlch\ltrch\hich\fs20\loch\fs20  }}
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \trowd\trqc\trpaddft3\trpaddt113\trpaddfl3\trpaddl113\trpaddfb3\trpaddb113\trpaddfr3\trpaddr113\clbrdrt\brdrs\brdrw20\brdrcf1\clbrdrl\brdrs\brdrw20\brdrcf1\clbrdrb\brdrs\brdrw20\brdrcf1\clbrdrr\brdrs\brdrw20\brdrcf1\clvertalc\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s29\aspalpha\ql\rtlch\afs28\lang255\ai\ltrch\dbch\langfe1036\hich\fs28\lang1036\i\loch\fs28\lang1036\i {\rtlch \ltrch\loch\f0\fs28\lang1036\i\b0 Commentaires}
+\cell\row\pard \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\ql\rtlch\af8\afs28\lang255\ab\ltrch\dbch\af8\langfe1036\hich\f8\fs28\lang1036\b\loch\f8\fs28\lang1036\b 
+\par \page
+\pard\plain\pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\cf2\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0{\ul\ulc0 Conclusion}}{\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0  :}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\ql\rtlch\afs16\lang255\ltrch\dbch\langfe1036\hich\fs16\lang1036\loch\fs16\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 *Facteur cl\'e9s de r\'e9ussite du projet}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 *Motivation et s\'e9rieux du candidat}
+\par \pard\plain \absw1417\absh1363\pvpara\posy165\phcol\posx4294965856{\*\flyprint\flyvert30560\flyhorz8192\flyanchor0\flycntnt}\ltrpar\s1\rtlch\afs20\lang255\ltrch\dbch\langfe1036\hich\fs20\lang1036\loch\fs20\lang1036 {\rtlch \ltrch\loch\f0\fs16\lang1036\i0\b0 * N\'e9cessit\'e9 d'un soutien ? (DJA, droits \'e0 primes, produire...)}
+\par \pard
+\pard\plain \ltrpar\s29\ql\rtlch\af8\afs28\lang255\ab\ltrch\dbch\af8\langfe1036\hich\f8\fs28\lang1036\b\loch\f8\fs28\lang1036\b {\rtlch \ltrch\loch\f8\fs28\lang1036\i0\b Conclusion }
+\par \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \trowd\trqc\trpaddft3\trpaddt113\trpaddfl3\trpaddl113\trpaddfb3\trpaddb113\trpaddfr3\trpaddr113\clbrdrt\brdrs\brdrw20\brdrcf1\clbrdrl\brdrs\brdrw20\brdrcf1\clbrdrb\brdrs\brdrw20\brdrcf1\clbrdrr\brdrs\brdrw20\brdrcf1\clvertalc\cellx9020
+\pard\intbl\pard\plain \intbl\ltrpar\s29\aspalpha\ql\rtlch\afs28\lang255\ai\ltrch\dbch\langfe1036\hich\fs28\lang1036\i\loch\fs28\lang1036\i {\rtlch \ltrch\loch\f0\fs28\lang1036\i\b0 Commentaires}
+\cell\row\pard \pard\plain \ltrpar\s29\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par \pard\plain \ltrpar\s29\rtlch\afs24\lang255\ltrch\dbch\langfe1036\hich\fs24\lang1036\loch\fs24\lang1036 
+\par }

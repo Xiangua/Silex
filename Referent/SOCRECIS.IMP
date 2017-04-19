@@ -1,0 +1,144 @@
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Récapitulatif société IS
+CommentPage = Récapitulatif société IS
+
+	[Tableau]
+		titre= Capital social
+		PosX = 30
+		PoxY = 80
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 1
+		Ligne = 22
+			{RSOCIS-1, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-2, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-3, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-4, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-5, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-6, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-7, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-8, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-9, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-10, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-11, Cap. soc. réparti ,0 , -1, 12, Arial, 10, 1, 0, 0}
+			{0,Modification de capital, 4, 15, 30, Arial, 12, 1, 1, 1}	
+			{RSOCIS-12, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-13, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-14, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-15, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-16, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-17, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-18, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-19, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-20, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-21, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+
+
+	[Tableau]
+		titre= Réserves
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 1
+		Ligne = 9
+			{RSOCIS-59, *,0 , -1, 12, Arial, 10, 1, 0, 0}
+  			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{RSOCIS-60, *,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOCIS-61, *,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOCIS-62, *,0 , -1, 12, Arial, 10, 0, 0, 0}
+  			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{RSOCIS-63, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-64, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-65, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Récapitulatif société IS
+CommentPage = Récapitulatif société IS
+
+
+	[Tableau]
+		titre= Répartition du rés.
+		PosX = 30
+		PoxY = 30
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 1
+		Ligne = 34
+			{RSOCIS-84, Rés. à partager ,0 , -1, 12, Arial, 10, 1, 0, 0}
+			{0,Capital, 4, 10, 30, Arial, 12, 1, 1, 1}	
+			{RSOCIS-85, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-86, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-87, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-88, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-89, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-90, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-91, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-92, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-93, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-94, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{0,Répartition du capital, 4, 10, 30, Arial, 12, 1, 1, 1}	
+			{RSOCIS-95, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-96, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-97, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-98, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-99, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-100, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-101, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-102, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-103, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-104, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{0,Affection, 4, 10, 30, Arial, 12, 1, 1, 1}	
+			{RSOCIS-105, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-106, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-107, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-108, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-109, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-110, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-111, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-112, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-113, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOCIS-114, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+
+	[Tableau]
+		titre= Consolidation
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 1
+		Ligne = 18
+			{0,Bilan fin, 4, 10, 30, Arial, 12, 1, 1, 1}	
+			{RSOCIS-146,*,0 , -1, 12, Arial, 10, 1, 0, 0}
+			{RSOCIS-147,*,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOCIS-148,*,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOCIS-149,*,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOCIS-150,*,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOCIS-151,*,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOCIS-152,*,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{0,Mouvement de l'année, 4, 10, 30, Arial, 12, 1, 1, 1}	
+			{RSOCIS-35,*,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOCIS-153,*,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOCIS-154,*,0 , -1, 12, Arial, 10, 1, 0, 0}
+			{RSOCIS-155,*,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOCIS-156,*,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOCIS-157,*,0 , -1, 12, Arial, 10, 0, 0, 0}
+  			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{RSOCIS-158,*,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOCIS-152,*,0 , -1, 12, Arial, 10, 0, 0, 0}
+
+[Fin Doc]
+

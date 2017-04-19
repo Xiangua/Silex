@@ -1,0 +1,69 @@
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Cultures pérennes
+
+	[Tableau]
+		titre=
+		PosX = 30
+		PoxY = 2
+		StyleTableau= 2
+		Largeur1Col= 40
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 6
+			{CltP#-89, dont propriété , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-90, dont métayage gratuit, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-91, dont métayage espèce , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-92, dont métayage nature, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-93, dont fermage gratuit, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-94, dont fermage espèce, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+	[Tableau]
+		titre= Quantité
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 40
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 14
+			{[CltP#-63]+[CltP#-65]+[CltP#-67]+[CltP#-69], Quantité utilisable, 2, 7, 14, Arial, 11, 1, 1, 0}
+			{CltP#-63, Qté au prix 1 , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-64, Prix 1, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-8, Vente 1, 0, -1, 12, Arial, 10, 1, 0, 0}
+			{CltP#-65, Qté au prix 2 , 3, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-66, Prix 2, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-9, Vente 2, 0, -1, 12, Arial, 10, 1, 0, 0}
+			{CltP#-67, Qté au prix 3 , 3, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-68, Prix 3, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-10, Vente 3, 0, -1, 12, Arial, 10, 1, 0, 0}
+			{CltP#-7, Total vente, 2, 7, 14, Arial, 11, 1, 1, 0}
+			{CltP#-69, Qté cédée , 3, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-70, Prix cession, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-11, Total cession, 2, 7, 14, Arial, 11, 1, 0, 0}
+
+
+	[Tableau]
+		titre= Gestion stock
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 40
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 6
+			{CltPt#-31, Qté stock début, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltPt#-39, Qté stock fin, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{CltPt#-40, Valeur stock, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltPt#-41, Bilan stock , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{CltPt#-42, VI stock, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+[Fin Doc]
+

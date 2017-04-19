@@ -1,0 +1,45 @@
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = PAM2
+CommentPage = PAM2
+
+	[Text]
+		Text = PAM2 : extraits résultats
+		PosX = 20
+		PoxY = 30
+		Police= Arial,14,1,0,1
+
+
+	[Tableau]
+		titre= 
+		PosX = 30
+		PoxY = 80
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 1
+		Ligne = 18
+			{PAM2-1,Résultat courant, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PAM2-2,+ Impôts fonciers, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PAM2-3,+ Salaires bruts, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PAM2-4,+ Cot. soc. exploitant, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PAM2-5,+ frais financiers anciens, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PAM2-6,- Fermage calculé, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PAM2-9,- Rémunération du capital, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PAM2-10,= Revenu travail agri., 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{PAM2-11,+ revenus connexes, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{PAM2-12,= Revenu travail expl., 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{PAM2-13,Total UMO permanentes, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PAM2-14,= Revenu travail /UMO, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{PAM2-15,Revenu de référence, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PAM2-16,120 % de revenu de réf., 0, -1, 12, Arial, 10, 0, 0, 0}
+
+		
+[Fin Doc]
+

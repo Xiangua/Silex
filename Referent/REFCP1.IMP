@@ -1,0 +1,36 @@
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 0
+TitreModule = Reférentiel cultures pérennes
+CommentPage = Reférentiel cultures pérennes
+
+	[Tableau]
+		titre= Charges annuelles
+		PosX = 30
+		PoxY = 120
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 17
+			{IMPREFCP-20, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-21, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-22, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{IMPREFCP-23, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-24, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-25, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-26, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-27, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-28, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-29, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-30, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-31, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-32, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREFCP-33, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{IMPREFCP-33, Charges op. , 2, 7, 12, Arial, 10, 1, 0, 0}
+
+[Fin Doc]
+

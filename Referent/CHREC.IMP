@@ -1,0 +1,206 @@
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Caprins
+CommentPage = Récapitulatifs caprins
+
+	[Text]
+		Text = Récapitulatif résultat
+		PosX = 40
+		PoxY = 35
+		Police= Arial,16,1,0,1
+
+	[Text]
+		Text = Eléments constitutifs de la marge
+		PosX = 50
+		PoxY = 45
+		Police= Arial,12,0,0,0
+
+
+	[Tableau]
+		titre= Produit brut
+		PosX = 30
+		PoxY = 70
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 12
+			{[CH-55]+[CH-56]+[CH-57], Produit lait vendu, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{[CH-62], Réformes reproducteurs, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{([CH-13]*[CH-91]), Chevrettes 2, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{([CH-14]*[CH-92]), Chevrettes 1, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{([CH-49]*[CH-85]), Chevreaux 1 , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{([CH-50]*[CH-86]), Chevreaux 2 , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{[CH-66], Primes, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[CH-65], Variation inventaire, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{[CHRES-16], Produit brut, 2, 7, 14, Arial, 12, 1, 1, 0}
+
+
+	[Tableau]
+		titre= Charges opérationnelles
+		PosX = 30
+		PoxY = 0
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 9
+			{[CH-70], Aliments , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[CH-71], Poudre de lait, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[CH-72], C.M.V., 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[CH-70]+[CH-71]+[CH-72], Total aliments , 2, 15, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{[CH-75], Frais vétérinaires, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[CH-76], Frais élevage, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{[CHRES-17], Charges opé., 2, 7, 14, Arial, 12, 1, 1, 0}
+
+	[Tableau]
+		titre= Achats d'animaux
+		PosX = 30
+		PoxY = 0
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 4
+			{[CH-63], Achats reproducteurs, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[CH-64], Achats chevrettes, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{[CH-63]+[CH-64], Achats d'animaux, 2, 7, 14, Arial, 12, 1, 1, 0}
+
+	[Tableau]
+		titre= Marge
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 1
+			{[CHRES-18], Marge, 2, 7, 14, Arial, 12, 1, 1, 0}
+
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Caprins
+CommentPage = Marge caprins
+
+	[Text]
+		Text = Récapitulatif caractéristiques
+		PosX = 40
+		PoxY = 20
+		PCHice= Arial,16,1,0,1
+
+	[Tableau]
+		titre= Effectifs fin
+		PosX = 30
+		PoxY = 45
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 6
+			{[CH-7], Chèvres, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[CH-41], Boucs , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[CH-10], Chevrettes 2, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{[CH-11], Chevrettes 1 , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0,  , 4, 15, 6, Arial, 6, 0, 0, 0}
+			{CH-20, UGB , 0, -1, 12, Arial, 10, 1, 0, 0}
+
+
+	[Tableau]
+		titre= Effectifs vendus
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 4
+			{[CH-2], Chèvres, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[CH-39], Boucs , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[CH-13], Chevrettes 2, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{[CH-14], Chevrettes 1, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+	[Tableau]
+		titre= Production agneaux
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 3
+			{CH-45, Taux de productivité, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CH-49, Chevreaux 1 , 3, -1, 12, Arial, 10, 0, 0, 0}
+			{CH-50, Chevreaux 2, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+	[Tableau]
+		titre= Production lait
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 5
+			{CH-22, Lait vendu cat. 1, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CH-23, Lait vendu cat. 2, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CH-24, Lait vendu cat. 3, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CH-25, Lait transformé , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CH-27, Rendement laitier |/Ch, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+	[Tableau]
+		titre= Principaux prix de vente
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 9
+			{CH-81, Lait cat. 1, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CH-82, Lait cat. 2, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CH-83, Lait cat. 3, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CH-87, Chèvres, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{CH-89, Boucs , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CH-91, Chevrettes 2, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{CH-92, Chevrettes 1 , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CH-85, Chevreaux 1 , 3, -1, 12, Arial, 10, 0, 0, 0}
+			{CH-86, Chevreaux 2 , 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+	[Tableau]
+		titre= Quantités
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 3
+			{([CH-33]*100), Céréales |kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[CH-115], Aliments chèvres |kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[CH-116], Aliments chevreaux |kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+[Fin Doc]
+

@@ -1,0 +1,198 @@
+<HTML>
+
+<HEAD>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <meta http-equiv="Content-Language" content="fr">
+  	<META NAME="Author" CONTENT="Franck Masseboeuf - GIE Uni-Gestion">
+	<TITLE>Cadre Gauche - Guide utilisateur de SilDocs</TITLE>
+
+<script language="javascript1.2"><!--
+sa = 1;
+sla = 1;
+function remet(service){
+	if(service == "sa"){
+		eval("document.sa" + sa + ".src='images/m1.gif'");
+	} else {
+		eval("document.sla" + sla + ".src='images/m1.gif'");
+	}
+}
+
+function met(nom_image){
+	eval("document." + nom_image + ".src='images/m2.gif'");
+}
+
+var loadpageok = false;
+var vartmp1="fin()";
+var hauttmp = 0;	// position de l'ascenseur
+var hauttmp2 = 145;
+var pas=10;		// pas du déplacement du texte
+
+if (parseInt(navigator.appVersion,10) <4){
+	alert("La visualisation du guide utilisateur nécessite, au minimum, le navigateur Netscape 4 ou Internet Explorer 4.");
+} 
+
+function init() {
+
+	var NumVersion = null;
+	
+	if((navigator.appName).substring(0,1) == "N"){
+		version = navigator.appVersion;
+		i=0;
+		NumVersion = "";
+		while (version.substring(i,i+1) != " ") {
+			NumVersion += version.substring(i,i+1);
+			i++;		
+		} 
+	} 
+	return NumVersion;
+} 
+
+function affconsole() {
+			
+	if ((navigator.appName).substring(0,1) == "N") {
+		hauteur = document.layers["flashinfo"].layers["finfo"].clip.height-145;
+        } 
+        else {
+        	if ((navigator.appName).substring(0,1) == "N"){
+        		document.layers["flashinfo"].resizeTo(285,145);
+        		hauteur = document.layers["flashinfo"].clip.height-145;        		
+        	}
+        }
+		
+	var hauttmp = 0;	// position de l'ascenseur
+	var hauttmp2 = 145;
+	var pas=10;		// pas du déplacement du texte
+
+} 
+
+function fin(){
+	vartmp1="fin()";
+}
+
+function descendre() {
+	NumVersion = init();
+	if (loadpageok) {
+		if((navigator.appName).substring(0,1) == "N"){
+			if (hauttmp < hauteur) {
+				document.layers["flashinfo"].layers["finfo"].pageY-= pas ;
+				hauttmp +=pas ;
+				setTimeout("eval(vartmp1)",100);
+				return;
+			}
+		}
+		else {
+			hauteur = document.all.flashinfo.offsetHeight-145;
+			if (hauttmp < hauteur) {
+				
+				document.all.flashinfo.style.posTop -= pas;
+				hauttmp +=pas ;
+				hauttmp2 +=pas ;
+				document.all.flashinfo.style.clip="rect("+hauttmp+" 285 "+hauttmp2+" 0)" ;
+				setTimeout("eval(vartmp1)",100);
+				return;
+			} 
+		} 
+	} 
+	else { }	
+} 
+
+function remonter() {
+	NumVersion = init();	
+	if (loadpageok) {
+		if((navigator.appName).substring(0,1) == "N"){
+				if (hauttmp > 0) {
+					document.layers["flashinfo"].layers["finfo"].pageY+= 5 ;
+					hauttmp -=5 ;
+					setTimeout("eval(vartmp1)",100);
+					return;
+				} 
+		} 
+		
+		else {	
+			tdiv=eval(flashinfo)
+			hauteur = document.all.flashinfo.offsetHeight-145;	
+		
+			if (hauttmp > 0) {
+				document.all.flashinfo.style.posTop += pas;
+				hauttmp -=pas ;
+				hauttmp2 -=pas ;
+				document.all.flashinfo.style.clip="rect("+hauttmp+" 285 "+hauttmp2+" 0)" ;
+				setTimeout("eval(vartmp1)",100);
+				return;
+			} 
+		} 
+	} 
+	else { }
+} 
+</script>
+
+</HEAD>
+
+<BODY >
+
+<div align="right">
+
+<table border="0" cellspacing="0" cellpadding="0" height="124" width="183">
+	<tr> 
+		<td valign="top" background="images/fondOrange.bmp" height="19" align="center" width="181"> 
+            &nbsp;
+	<tr> 
+		<td valign="top" background="images/fondOrange.bmp" height="1" align="center" width="181"> 
+            <h1 align="center"><img border="0" src="images/LogoSildocsFrmG.gif" align="left" width="161" height="68"></h1>
+	<tr> 
+		<td valign="top" background="images/fondOrange.bmp" height="389" width="181"> 
+            &nbsp;
+			<table border="0" cellspacing="0" cellpadding="0">
+			        <tr>
+			                <td colspan="3"><map name="FPMap0">
+                              <area shape="rect" coords="6, 6, 165, 33"></map><img src="images/m_serv_libre.gif" border="0" usemap="#FPMap0" width="166" height="42"></td>
+			        </tr>
+				<tr valign="middle" align="left"> 
+					<td background="images/fnd_menu.gif" bgcolor="#FFFFFF"><img name="sla1" src="images/m2.gif" align="absmiddle" width="21" height="15"></td><td bgcolor="#FFFFFF"><font size="1"><font face="arial">&nbsp;</font><a href="Present.htm" target="FrmPrinc" onmouseover="remet('sla'); sla=1; met('sla1');"
+					target="_blank"><font face="Arial, Helvetica, sans-serif" color="#000000">Fonctionnement général</font></a></font></td><td align="right" bgcolor="#FFFFFF"><img src="images/fnd_menu3.gif" height="15"></td>
+				</tr>
+				<tr valign="middle" align="left"> 
+					<td background="images/fnd_menu.gif" bgcolor="#FFFFFF"><img name="sla2" src="images/m1.gif" align="absmiddle" width="21" height="15"></td><td bgcolor="#FFFFFF"><font size="1"><font face="arial">&nbsp;</font><a href="ModeleDoc.htm" target="FrmPrinc" onmouseover="remet('sla'); sla=2; met('sla2');"
+					target="_blank"><font face="Arial, Helvetica, sans-serif" color="#000000">Le modèle de document</font></a></font></td><td align="right" bgcolor="#FFFFFF"><img src="images/fnd_menu3.gif" height="15"></td>
+				</tr>
+
+				<tr valign="middle" align="left"> 
+					<td background="images/fnd_menu.gif" bgcolor="#FFFFFF"><img name="sla3" src="images/m1.gif" align="absmiddle" width="21" height="15"></td><td bgcolor="#FFFFFF"><font size="1"><font face="arial">&nbsp;</font><a href="Tableaux.htm" target="FrmPrinc" onmouseover="remet('sla'); sla=3; met('sla3');"
+					target="_top"><font face="Arial, Helvetica, sans-serif" color="#000000">Construire un tableau</font></a></font></td><td align="right" bgcolor="#FFFFFF"><img src="images/fnd_menu3.gif" height="15"></td>
+				</tr>
+
+				<tr valign="middle" align="left"> 
+					<td background="images/fnd_menu.gif" bgcolor="#FFFFFF"><img name="sla4" src="images/m1.gif" align="absmiddle" width="21" height="15"></td><td bgcolor="#FFFFFF"><font size="1"><font face="arial">&nbsp;</font><a href="Graphiques.htm" target="FrmPrinc" onmouseover="remet('sla'); sla=4; met('sla4');"
+					target="_top"><font face="Arial, Helvetica, sans-serif" color="#000000">Construire un graphique</font></a></font></td><td align="right" bgcolor="#FFFFFF"><img src="images/fnd_menu3.gif" height="15"></td>
+				</tr>
+                    <tr>
+					<td background="images/fnd_menu.gif" bgcolor="#FFFFFF"><img name="sla5" src="images/m1.gif" align="absmiddle" width="21" height="15"></td><td bgcolor="#FFFFFF"><font size="1"><font face="arial">&nbsp;</font><a href="ImportExport.htm" target="FrmPrinc" onmouseover="remet('sla'); sla=5; met('sla5');"
+					target="_blank"><font face="Arial, Helvetica, sans-serif" color="#000000">Import / export des modèles</font></a></font></td><td align="right" bgcolor="#FFFFFF"><img src="images/fnd_menu3.gif" height="15"></td>
+                    </tr>
+                    <tr>
+					<td background="images/fnd_menu.gif" bgcolor="#FFFFFF"><img name="sla6" src="images/m1.gif" align="absmiddle" width="21" height="15"></td><td bgcolor="#FFFFFF"><font size="1"><font face="arial">&nbsp;</font><a href="ParamSd.htm" target="FrmPrinc" onmouseover="remet('sla'); sla=6; met('sla6');"
+					target="_blank"><font face="Arial, Helvetica, sans-serif" color="#000000">Paramétrages
+                      de Sil-Docs</font></a></font></td><td align="right" bgcolor="#FFFFFF"><img src="images/fnd_menu3.gif" height="15"></td>
+                    </tr>
+                    <tr>
+					<td background="images/fnd_menu.gif" bgcolor="#FFFFFF"><img name="sla7" src="images/m1.gif" align="absmiddle" width="21" height="15"></td><td bgcolor="#FFFFFF"><font size="1"><font face="arial">&nbsp;</font><a href="ParamTab.htm" target="FrmPrinc" onmouseover="remet('sla'); sla=7; met('sla7');"
+					target="_blank"><font face="Arial, Helvetica, sans-serif" color="#000000">Paramétrages des tableaux</font></a></font></td><td align="right" bgcolor="#FFFFFF"><img src="images/fnd_menu3.gif" height="15"></td>
+                    </tr>
+                    <tr>
+					<td background="images/fnd_menu.gif" bgcolor="#FFFFFF"><img name="sla8" src="images/m1.gif" align="absmiddle" width="21" height="15"></td><td bgcolor="#FFFFFF"><font size="1"><font face="arial">&nbsp;</font></font></td><td align="right" bgcolor="#FFFFFF"><img src="images/fnd_menu3.gif" height="15"></td>
+                    </tr>
+                    <tr>
+					<td background="images/fnd_menu.gif" bgcolor="#FFFFFF"><img name="sla9" src="images/m1.gif" align="absmiddle" width="21" height="15"></td><td bgcolor="#FFFFFF"><font size="1"><font face="arial">&nbsp;</font><a href="Contacts.htm" target="FrmPrinc" onmouseover="remet('sla'); sla=9; met('sla9');"
+					target="_blank"><font face="Arial, Helvetica, sans-serif" color="#000000">Contacter l'équipe Silex</font></a></font></td><td align="right" bgcolor="#FFFFFF"><img src="images/fnd_menu3.gif" height="15"></td>
+                    </tr>
+				<tr> 
+					<td colspan="3"><b><img src="images/basCadre.gif" width="166" height="27"></b></td>
+				</tr>
+
+				<tr> 
+					<td colspan="3"></td>
+				</tr>
+			</table>
+</table>
+</div>
+</BODY>

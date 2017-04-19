@@ -1,0 +1,11 @@
+/* définit la couleur des barres de scrolling */
+
+body {
+ scrollbar-face-color: #FF9900; 
+ scrollbar-shadow-color: FF6600; /* Orange */
+ scrollbar-highlight-color: #FFFFFF;
+ scrollbar-3dlight-color: FF6600; 
+ scrollbar-darkshadow-color: #993300; 
+ scrollbar-track-color: #FFFFFF; /* Blanc */  //E8F7E6; ou D1E3CE; ou E7F1E8;  /* Vert pâle */
+ scrollbar-arrow-color: #FFFFFF;
+}

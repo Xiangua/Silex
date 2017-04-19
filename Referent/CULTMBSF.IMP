@@ -1,0 +1,94 @@
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Consolidation : marge surfaces fourragères
+CommentPage = Consolidation : marge surfaces fourragères
+
+	[Text]
+		Text = Marge brute globale et répartition surface fourragère 
+		PosX = 30
+		PoxY = 35
+		Police= Arial,12,1,0,0
+
+	[Tableau]
+		titre= Répartition SF
+		PosX = 30
+		PoxY = 60
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 20
+			{MBSF-173,Vaches laitières, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSF-184,Génisses lait, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSF-195,Embouche, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSF-206,Vaches allaitantes, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSF-217,Ovins viande, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSF-228,Ovins lait, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSF-239,Caprins, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSF-250,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSF-261,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSF-272,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSF-283,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSF-294,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSF-305,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSF-316,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSF-327,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSF-338,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSF-349,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSF-360,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{MBSF-1, SF totale , 2, 7, 14, Arial, 12, 1, 1, 0}
+
+
+	[Tableau]
+		titre= Marge brute globale
+		PosX = 30
+		PoxY = 1
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 34
+			{MBSF-1, Surface  , 0, -1, 12, Arial, 10, 1, 0, 0}
+			{MBSF-2, UGB, 0, -1, 12, Arial, 10, 1, 0, 0}
+			{MBSF-3, Chargement, 0, -1, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{MBSF-14,Vaches laitières, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS/DEC}
+			{MBSF-15,Génisses lait, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS/DEC}
+			{MBSF-16,Embouche, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS/DEC}
+			{MBSF-17,Vaches allaitantes, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS/DEC}
+			{MBSF-18,Ovins viande, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS/DEC}
+			{MBSF-19,Ovins lait, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS/DEC}
+			{MBSF-20,Caprins, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS/DEC}
+			{MBSF-21,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS/DEC}
+			{MBSF-22,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS/DEC}
+			{MBSF-23,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS/DEC}
+			{MBSF-24,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS/DEC}
+			{MBSF-25,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS/DEC}
+			{MBSF-26,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS/DEC}
+			{MBSF-27,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS/DEC}
+			{MBSF-28,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS/DEC}
+			{MBSF-29,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS/DEC}
+			{MBSF-30,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS/DEC}
+			{MBSF-31,*, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS/DEC}
+			{MBSF-4, Marge animale, 3, -1, 12, Arial, 10, 1, 0, 0}
+			{MBSF-5, Vente de fourrage, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSF-6, Achat de fourrage, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{MBSF-7, Primes/divers  SF, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{MBSF-8, Produit SFP, 2, 7, 14, Arial, 12, 1, 1, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{MBSF-10, Charges SFP, 2, 7, 14, Arial, 12, 1, 1, 0}
+			{MBSF-11, Charges SFP/Ha, 2, 7, 14, Arial, 12, 1, 1, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{MBSF-12, Marge brute globale, 2, 7, 14, Arial, 12, 1, 1, 0}
+			{MBSF-13, Marge brute/Ha, 2, 7, 14, Arial, 12, 1, 1, 0}
+
+
+
+[Fin Doc]
+

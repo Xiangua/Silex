@@ -1,0 +1,27 @@
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = 
+CommentPage = 
+
+	[Tableau]
+		titre= 
+		PosX = 30
+		PoxY = 3
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 7
+			{RESDIV-6, Nb exploitant(s) , 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{RESDIV-1, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RESDIV-7, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RESDIV-8,  *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RESDIV-2,  *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RESDIV-5,  *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+
+
+[Fin Doc]

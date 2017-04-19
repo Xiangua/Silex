@@ -1,0 +1,159 @@
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Récapitulatif société BA
+CommentPage = Récapitulatif société BA
+
+	[Tableau]
+		titre= Capital social
+		PosX = 30
+		PoxY = 80
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 1
+		Ligne = 22
+			{RSOC-1, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-2, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-3, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-4, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-5, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-6, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-7, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-8, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-9, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-10, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-11, Cap. soc. réparti ,0 , -1, 12, Arial, 10, 1, 0, 0}
+			{0,Modification de capital, 4, 15, 30, Arial, 12, 1, 1, 1}	
+			{RSOC-12, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-13, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-14, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-15, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-16, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-17, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-18, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-19, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-20, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-21, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+
+
+	[Tableau]
+		titre= Rémunérations
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 1
+		Ligne = 15
+			{[RES-126], Résultat de l'exercice,0 , -1, 12, Arial, 10, 1, 0, 0}
+  			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{RSOC-23, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-24, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-25, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-26, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-27, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-28, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-29, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-30, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-31, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-32, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+  			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{RSOC-33, Rémunérations ,0 , -1, 12, Arial, 10, 1, 0, 0}
+			{RSOC-34, Résultat société,0 , -1, 12, Arial, 10, 1, 0, 0}
+
+
+	[Tableau]
+		titre= Affect. résultat
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 1
+		Ligne = 11
+			{RSOC-67, Capital ,0 , -1, 12, Arial, 10, 1, 0, 0}
+  			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{RSOC-68, Résultat société ,0 , -1, 12, Arial, 10, 1, 0, 0}
+			{RSOC-69, Affectation en réserve,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOC-70, Reprise de la réserve,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOC-71, Réserves ,0 , -1, 12, Arial, 10, 1, 0, 0}
+			{RSOC-72, Affectation en report,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOC-73, Reprise du report,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOC-74, Report à nouveau ,0 , -1, 12, Arial, 10, 1, 0, 0}
+  			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{RSOC-85, Résultat à partager ,0 , -1, 12, Arial, 10, 1, 0, 0}
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Récapitulatif société BA
+CommentPage = Récapitulatif société BA
+
+
+	[Tableau]
+		titre= Clé de répartition
+		PosX = 30
+		PoxY = 70
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 1
+		Ligne = 19
+			{RSOC-35, Résultat à partager ,0 , -1, 12, Arial, 10, 1, 0, 0}
+  			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{RSOC-36, Capital % ,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOC-37, Travail % ,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOC-38, Capital [] ,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOC-39, Travail [] ,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOC-40, Total affecté ,0 , -1, 12, Arial, 10, 1, 0, 0}
+			{0,Répartition travail en %, 4, 15, 30, Arial, 12, 1, 1, 1}	
+			{RSOC-41, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-42, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-43, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-44, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-45, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-46, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-47, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-48, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-49, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-50, *,0 , -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{RSOC-51, Total affecté ,0 , -1, 12, Arial, 10, 1, 0, 0}
+
+
+	[Tableau]
+		titre= Consolidation
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 1
+		Ligne = 19
+			{RSOC-86, Capital ,0 , -1, 12, Arial, 10, 1, 0, 0}
+			{RSOC-87, Réserves ,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOC-88, Report à nouveau ,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOC-89, Comptes bloqués ,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOC-90, Dû aux associés ,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOC-91, Dû par les associés ,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{0,Mouvement de l'année, 4, 15, 30, Arial, 12, 1, 1, 1}	
+			{RSOC-92, Résultat de l'exercice ,0 , -1, 12, Arial, 10, 1, 0, 0}
+			{RSOC-93, Rémunérations ,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOC-94, Résultat de la société ,0 , -1, 12, Arial, 10, 1, 0, 0}
+			{RSOC-95, Réserves ,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOC-96, Report à nouveau ,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOC-97, Résultat à partager ,0 , -1, 12, Arial, 10, 1, 0, 0}
+  			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{RSOC-98, Prél.ts except. ,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOC-99, Apports ,0 , -1, 12, Arial, 10, 0, 0, 0}
+  			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{RSOC-100, Annuités associés ,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{RSOC-101, Reste dû LMT ass. ,0 , -1, 12, Arial, 10, 0, 0, 0}
+
+[Fin Doc]
+

@@ -1,0 +1,36 @@
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Régularisation TVA
+CommentPage = Régularisation TVA
+
+	[Tableau]
+		titre= Régul. TVA
+		PosX = 30
+		PoxY = 50
+		StyleTableau= 1
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 1
+		Ligne = 16
+			{REGTVA-122,*, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{REGTVA-123,*, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{REGTVA-1,*, 0, -1, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{REGTVA-2,*, 0, -1, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{REGTVA-145,*, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{REGTVA-146,*, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{REGTVA-147,*, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{REGTVA-3,*, 0, -1, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{REGTVA-4,*, 0, -1, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{REGTVA-5,*, 0, -1, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{REGTVA-6,*, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+		
+[Fin Doc]
+

@@ -1,0 +1,26 @@
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Cultures pérennes
+
+	[Tableau]
+		titre= Bilan M.O.
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 40
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 7
+			{CltP-40, M.O. permanente, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP-41, M.O. temporaire , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[CltP-40]+[CltP-41], Besoin cult. pér., 0, -1, 12, Arial, 10, 1, 0, 0}
+			{CltP-45, M.O. perma. dispo. ,3, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP-46, M.O. tempo. dispo., 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP-47, M.O. disponible, 0, -1, 12, Arial, 10, 1, 0, 0}
+			{CltP-48, Bilan main d'oeuvre, 2, 7, 14, Arial, 11, 1, 0, 0}
+
+[Fin Doc]
+

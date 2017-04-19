@@ -1,0 +1,59 @@
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 0
+TitreModule = Reférentiel culture
+CommentPage = Reférentiel culture
+
+	[Text]
+		Text = [IMPREF-1:7]
+		PosX = 15
+		PoxY = 30
+		Police= Arial,14,1,0,1
+
+	[Text]
+		Text = Culture : [IMPREF-2:7]
+		PosX = 15
+		PoxY = 50
+		Police= Arial,14,1,0,1
+
+	[Text]
+		Text = [IMPREF-3:7]
+		PosX = 20
+		PoxY = 60
+		Police= Arial,12,1,0,0
+
+	[Text]
+		Text = [IMPREF-4:7]
+		PosX = 20
+		PoxY = 65
+		Police= Arial,12,1,0,0
+
+	[Tableau]
+		titre=
+		PosX = 30
+		PoxY = 80
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 16
+			{IMPREF-5, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREF-6, * , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{IMPREF-7, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREF-8, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREF-9, * , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{IMPREF-10, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREF-11, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREF-12, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREF-13, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREF-14, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREF-15, * , 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{IMPREF-16, * , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{IMPREF-17, * , 2, 7, 12, Arial, 10, 1, 0, 0}
+
+[Fin Doc]
+

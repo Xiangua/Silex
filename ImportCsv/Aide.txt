@@ -1,0 +1,44 @@
+Les fichiers d'import au format CSV de silex sont tous du même type.
+
+Une ligne de desciption des colonnes et ensuite les données .
+Le séparateur des données doit être une virgule.
+Le séparateur de décimale un point.
+
+Descriptions des Fichiers
+Pour les emprunts 
+	CATEGO	= Catégories de l'emprunts "F" pour foncier "MT" pour moyen terme "CT" pour court terme
+	LIBELLE
+	DATE
+	MONTANT
+	MODREMB = Mode de remboursement "EC" échéance constante "CC" capital constant
+	INTERVALECH = inetrevalle entre les échéances en mois
+	TX1 = taux 1
+	NBECH1 = nb d'échéance taus 1
+	TX2
+	NBECH2
+	TX3
+	NBECH3
+	NBECHDIFF = nombre d'échéances différées
+	NBECHINTERETDIFF = nombre d'échéances d'inréret différé
+	NBTETE = nb de tete ADI
+	TXADI = taux ADI
+	DATERBTANTI = date de remboursemant anticipé
+
+Pour les Immobilisations
+	CATEGO = Catégories de l'immobilisation "FONCIER" AMEFONCIER" "CONSTRUCTION" "INSTALLTECH" "MATERIEL" "PSOC" "DIVERS" "PLANTATION"     
+	LIBELLE
+	DATE
+	MONTANT
+	TYPEAMORT = type d'armortissement "LIN" linéaire "DER" Derogatoire
+	DUREEAMORT = Durée d'amortissemnt
+	DATESORT = Date de sortie
+	VALSORT	= valuer de sortie
+	MOISDIFF = Nb de mois de différé
+	PRODIMMO = production d'immobilisation
+
+Pour les subventions
+	CATEGO = Catégorie de subvention "ATERME" "LINEAIRE"
+	LIBELLE
+	DATE
+	MONTANT
+	DUREEAMORT

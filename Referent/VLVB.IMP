@@ -1,0 +1,107 @@
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Vaches laitières => Veaux boucherie
+CommentPage = Veaux boucherie
+
+	[Text]
+		Text = Veaux boucherie
+		PosX = 20
+		PoxY = 20
+		Police= Arial,18,1,0,1
+
+
+	[Text]
+		Text = Valeur inventaire : [VLVB-36:2] $.
+		PosX = 33
+		PoxY = 163
+		Police = Arial,10,0,0,0
+
+
+	[Tableau]
+		titre= Effectifs
+		PosX = 30
+		PoxY = 40
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 7
+			{VLVB-1, VB eff. début, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLVB-2, Achats , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLVB-3, Cession veaux, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLVB-4, Ventes, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLVB-5, VB eff. fin, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 5, Arial, 5, 0, 0, 0}
+			{VLVB-6, VB eff. moyen, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+	[Tableau]
+		titre= Consommation
+		PosX = 30
+		PoxY = 0
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 5
+			{VLVB-7, Litres de lait |/VB, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLVB-8, Besoin en lait, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLVB-9, Cession lait, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLVB-10, Ecart en litres, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLVB-11, Achats de poudre|kg, 3, -1, 12, Arial, 10, 0, 0, 0}
+
+	[Tableau]
+		titre= Prix et frais
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 10
+			{VLVB-27, Vente veaux , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLVB-28, Achat veaux, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLVB-29, Cession veaux , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 5, Arial, 5, 0, 0, 0}
+			{VLVB-30, Cession lait, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLVB-31, Poudre de lait , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 5, Arial, 5, 0, 0, 0}
+			{VLVB-32, Frais alt. divers |/VB, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLVB-33, Frais véto |/VB, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLVB-34, Frais élevage |/VB, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+	[Tableau]
+		titre= Marge
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 17
+			{VLVB-12, Veaux boucherie , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLVB-13, Cession veaux , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLVB-14, Cession lait, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLVB-15, Achats veaux, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLVB-16, Variation inventaire , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLVB-17, Primes et autres produits, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLVB-18, Produits, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 5, Arial, 5, 0, 0, 0}
+			{VLVB-19, Poudre de lait , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLVB-20, Aliments divers , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLVB-21, Frais véto, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLVB-22, Frais élevage, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VLVB-23, Charges, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 5, Arial, 5, 0, 0, 0}}
+			{VLVB-24, Marge, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{VLVB-25, Marge |/VB, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{VLVB-26, Marge |/litre, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+[Fin Doc]
+

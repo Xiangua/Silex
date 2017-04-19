@@ -1,0 +1,28 @@
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Cultures annuelles
+
+	[Tableau]
+		titre= Chargement
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 40
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 10
+			{VL-23, UGB bovins lait, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{VLEM-16, UGB embouche , 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{OL-20, UGB ovins lait, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{OV-20, UGB ovins viande, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{CH-20, UGB caprins, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{VA-87, UGB bovins viande, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{0, UGB porc, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{Cult-5, Total UGB, 2, 7, 14, Arial, 11, 1, 0, 0}
+			{Cult-2, SFP, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{Cult-7, Chargement |UGB/ha, 0, -1, 12, Arial, 10, 0, 0, 0}
+			
+[Fin Doc]
+

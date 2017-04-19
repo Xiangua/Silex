@@ -1,0 +1,92 @@
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Compte de résultat
+CommentPage = Charges
+
+	[Tableau]
+		titre= Charges
+		PosX = 30
+		PoxY = 25
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 49
+			{RES-60, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-61, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-62, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-63, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-64, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-65, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-66, *, 2, 15, 12, Arial, 10, 1, 0, 0}
+			{RES-67, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-68, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-69, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-70, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-71, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-72, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-73, *, 2, 15, 12, Arial, 10, 1, 0, 0}
+			{RES-74, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC/VIS}
+			{RES-75, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC/VIS}
+			{RES-85, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC/VIS}
+			{RES-86, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC/VIS}
+			{RES-87, *, 12, 7, 14, Arial, 11, 1, 0, 0}
+			{0, , 4, 15, 5, Arial, 10, 0, 0, 0}
+			{RES-89, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-90, *, 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{RES-91, *, 2, 15, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 5, Arial, 10, 0, 0, 0}
+			{RES-92, *, 12, 7, 14, Arial, 11, 1, 0, 0}
+			{0, , 4, 15, 5, Arial, 10, 0, 0, 0}
+			{RES-93, *, 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+			{RES-94, *, 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+			{RES-95, *, 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+			{RES-96, *, 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+			{RES-97, *, 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+			{RES-98, *, 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+			{RES-99, *, 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+			{RES-100, *, 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+			{RES-101, *, 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+			{RES-102, *, 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+			{RES-103, *, 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+			{RES-104, *, 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+			{RESSTRUC-13, *, 0, -1, 11, Arial, 10, 0, 0, 0,/DEC/VIS}
+			{RESSTRUC-44, *, 0, -1, 11, Arial, 10, 0, 0, 0,/DEC/VIS}
+			{DPU-65, *, 0, -1, 11, Arial, 10, 0, 0, 0,/DEC/VIS}
+			{RES-105, *, 2, 15, 12, Arial, 10, 1, 0, 0}
+			{RES-106, *, 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+			{[RESSTRUC-33]+[RESSTRUC-34]+[RESSTRUC-35], MO permanente, 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+			{RESSTRUC-50, MO temporaire, 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+			{RESSTRUC-51, MO autes act. div., 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+			{RES-109, *, 2, 15, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 5, Arial, 10, 0, 0, 0}
+			{RES-110, *, 12, 7, 14, Arial, 11, 1, 0, 0}
+
+	[Tableau]
+		titre= Résultat
+		PosX = 30
+		PoxY = 1
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 14
+			{RES-111, *, 12, 7, 14, Arial, 11, 1, 0, 0}
+			{0, , 4, 15, 5, Arial, 10, 0, 0, 0}
+			{RES-113, *, 0, -1, 12, Arial, 10, 0, 0, 0,,/DEC}
+			{RES-114, *, 0, -1, 12, Arial, 10, 0, 0, 0,,/DEC}
+			{[RES-115]+[RES-116]+[RES-117]+[RES-118], Amortissements, 0, -1, 12, Arial, 10, 0, 0, 0,,/DEC}
+			{RES-119, Amort. + frais finan., 2, 15, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 5, Arial, 10, 0, 0, 0}
+			{RES-121, *, 12, 7, 14, Arial, 11, 1, 0, 0}
+			{0, , 4, 15, 5, Arial, 10, 0, 0, 0}
+			{RES-123, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{RES-124, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{RSOCIS-153, * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC/VIS}
+			{0, , 4, 15, 5, Arial, 10, 0, 0, 0}
+			{RES-126, *, 12, 7, 14, Arial, 11, 1, 0, 0}
+			
+[Fin Doc]

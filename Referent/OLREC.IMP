@@ -1,0 +1,206 @@
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Ovins lait
+CommentPage = Récapitulatifs ovins lait
+
+	[Text]
+		Text = Récapitulatif résultat
+		PosX = 40
+		PoxY = 35
+		Police= Arial,16,1,0,1
+
+	[Text]
+		Text = Eléments constitutifs de la marge
+		PosX = 50
+		PoxY = 45
+		Police= Arial,12,0,0,0
+
+
+	[Tableau]
+		titre= Produit brut
+		PosX = 30
+		PoxY = 70
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 12
+			{[OL-55]+[OL-56]+[OL-57], Produit lait vendu, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{[OL-62], Réformes reproducteurs, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{([OL-13]*[OL-91]), Antenaises, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{([OL-14]*[OL-92]), Agnelles, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{([OL-49]*[OL-85]), Agneaux 1 , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{([OL-50]*[OL-86]), Agneaux 2 , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{[OL-66], Primes, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[OL-65], Variation inventaire, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{[OLRES-16], Produit brut, 2, 7, 14, Arial, 12, 1, 1, 0}
+
+
+	[Tableau]
+		titre= Charges opérationnelles
+		PosX = 30
+		PoxY = 0
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 9
+			{[OL-70], Aliments , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[OL-71], Poudre de lait, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[OL-72], C.M.V., 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[OL-70]+[OL-71]+[OL-72], Total aliments , 2, 15, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{[OL-75], Frais vétérinaires, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[OL-76], Frais élevage, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{[OLRES-17], Charges opé., 2, 7, 14, Arial, 12, 1, 1, 0}
+
+	[Tableau]
+		titre= Achats d'animaux
+		PosX = 30
+		PoxY = 0
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 4
+			{OL-63, Achats reproducteurs, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OL-64, Achats agnelles, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{[OL-63]+[OL-64], Achats d'animaux, 2, 7, 14, Arial, 12, 1, 1, 0}
+
+	[Tableau]
+		titre= Marge
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 1
+			{OLRES-18, Marge, 2, 7, 14, Arial, 12, 1, 1, 0}
+
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Ovins lait
+CommentPage = Marge ovins lait
+
+	[Text]
+		Text = Récapitulatif caractéristiques
+		PosX = 40
+		PoxY = 20
+		Police= Arial,16,1,0,1
+
+	[Tableau]
+		titre= Effectifs fin
+		PosX = 30
+		PoxY = 45
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 6
+			{OL-7, Brebis, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OL-41, Béliers , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OL-10, Antenaises, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{OL-11, Agnelles, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0,  , 4, 15, 6, Arial, 6, 0, 0, 0}
+			{OL-20, UGB , 0, -1, 12, Arial, 10, 1, 0, 0}
+
+
+	[Tableau]
+		titre= Effectifs vendus
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 4
+			{OL-2, Brebis, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OL-39, Béliers , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OL-13, Antenaises, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{OL-14, Agnelles, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+	[Tableau]
+		titre= Production agneaux
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 3
+			{OL-45, Taux de productivité, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OL-49, Agneaux 1 , 3, -1, 12, Arial, 10, 0, 0, 0}
+			{OL-50, Agneaux 2, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+	[Tableau]
+		titre= Production lait
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 5
+			{OL-22, Lait vendu cat. 1|litres, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OL-23, Lait vendu cat. 2|litres, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OL-24, Lait vendu cat. 3|litres, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OL-25, Lait transformé |litres, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OL-27, Rendement laitier |/Br, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+	[Tableau]
+		titre= Principaux prix de vente
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 9
+			{OL-81, Lait cat. 1, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OL-82, Lait cat. 2, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OL-83, Lait cat. 3, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OL-87, Brebis, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{OL-89, Béliers, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OL-91, Antenaises, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{OL-92, Agnelles , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OL-85, Agneaux 1 , 3, -1, 12, Arial, 10, 0, 0, 0}
+			{OL-86, Agneaux 2 , 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+	[Tableau]
+		titre= Quantités
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 3
+			{([OL-33]*100), Céréales |kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OL-115, Aliments brebis |kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OL-116, Aliments agneaux |kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+[Fin Doc]
+

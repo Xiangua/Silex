@@ -1,0 +1,455 @@
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Porcs
+CommentPage = Prix divers
+
+	[Text]
+		Text = Paramètres
+		PosX = 15
+		PoxY = 20
+		Police= Arial,16,1,0,1
+
+	[Tableau]
+		titre= Truies et verrats
+		PosX = 20
+		PoxY = 40
+		StyleTableau= 2
+		Largeur1Col= 40
+		LargeurColAnnuel = 18
+		AvecEntete = (Gestante)(Allaitante)(Att. sailie)(Cochettes)(Verrats)
+		Type= 0
+		Ligne = 1
+			{PORC-129, Valeur inventaire , 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+	[Tableau]
+		titre= Porcs
+		PosX = 20
+		PoxY = 60
+		StyleTableau= 2
+		Largeur1Col= 40
+		LargeurColAnnuel = 18
+		AvecEntete = (Porc. 3 s.)(Porc. 25 kg)(Porc char. |/Kg)
+		Type= 0
+		Ligne = 1
+			{[PORC-130]|2, Valeur inventaire , 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+	[Text]
+		Text = Prix animaux
+		PosX = 15
+		PoxY = 80
+		Police= Arial,16,1,0,1
+
+	[Tableau]
+		titre= Prix reproducteurs
+		PosX = 30
+		PoxY = 100
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 4
+			{PORC-89, Vente truies , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-91, Achat cochettes, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-90, Vente verrats, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-92, Achat verrats, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+	[Tableau]
+		titre= Prix porcs
+		PosX = 30
+		PoxY = 135
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 5
+			{PORC-93, Vente porc. 3 sem., 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-94, Vente porc. 25 kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-95, Porcs multiplicateurs, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-96, Vente porc. char., 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-97, Achats porcelets, 3, -1, 12, Arial, 10, 0, 0, 0}
+
+	[Text]
+		Text = Prix divers
+		PosX = 15
+		PoxY = 165
+		Police= Arial,16,1,0,1
+
+
+	[Tableau]
+		titre= Prix aliments
+		PosX = 30
+		PoxY = 185
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 8
+			{PORC-100, Cession céréales|$/kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-101, Alt truie gest.|$/kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-102, Alt truie allait.|$/kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-103, Alt lacté|$/kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-104, Alt PS1|$/kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-105, Alt PS2|$/kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-106, Alt porc charcutier|$/kg , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-107, C.M.V. |$/kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+	[Tableau]
+		titre= Prix divers
+		PosX = 30
+		PoxY = 235
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 7
+			{PORC-117, Frais véto|$/Tr, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-118, Frais véto|$/PC, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-119, Frais élevage|$/Tr, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-120, Frais élevage|$/PC, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-121, Frais IA|$/Tr, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-122, Frais com. repro.|$/Tr , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-123, Frais com. porc|$/PC , 0, -1, 12, Arial, 10, 0, 0, 0}
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Porcs
+CommentPage = Effectifs
+
+	[Text]
+		Text = Effectifs
+		PosX = 15
+		PoxY = 40
+		Police= Arial,16,1,0,1
+
+
+	[Text]
+		Text = Productions
+		PosX = 15
+		PoxY = 160
+		Police= Arial,16,1,0,1
+
+	[Tableau]
+		titre= Truies
+		PosX = 30
+		PoxY = 60
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 9
+			{PORC-1, Truies att. ref., 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-2, Truies gestantes, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-3, Truies allaitantes, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-4, Truies att. saillie, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-5, Cochettes, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-6, Truies présentes, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{PORC-144, Réformes truies, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-8, Achats cochettes, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+	[Tableau]
+		titre= Verrats
+		PosX = 30
+		PoxY = 1
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 3
+			{PORC-9, Eff. verrats, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-10, Ventes verrats, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-11, Achats verrats, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+	[Tableau]
+		titre= Porcelets
+		PosX = 30
+		PoxY = 1
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 3
+			{PORC-12, Nb mises bas, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-13, Porcelets/truie, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-14, Porcelets nés, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+	[Tableau]
+		titre= Stocks
+		PosX = 30
+		PoxY = 175
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 4
+			{PORC-15, Porc 3 sem., 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-16, Porc 25 kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-17, Porc char., 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[PORC-113]|0, Kg vif porc char., 0, -1, 12, Arial, 10, 0, 0, 0}
+
+	[Tableau]
+		titre= Ventes
+		PosX = 30
+		PoxY = 215
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 5
+			{PORC-18, Porc. 3 sem., 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-19, Porc. 25 kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-21, Porc multi., 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-20, Porc charc., 0, -1, 12, Arial, 10, 0, 0, 0}
+			{([PORC-112]*[PORC-111:1]/100)|0, Kg carcasse PC, 0, -1, 12, Arial, 10, 1, 0, 0}
+
+	[Tableau]
+		titre= Achats
+		PosX = 30
+		PoxY = 260
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 1
+			{PORC-22, Achats porcelets, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Porcs
+CommentPage = Caractéristiques porcs
+
+
+
+	[Text]
+		Text = Consommations et stocks
+		PosX = 15
+		PoxY = 50
+		Police= Arial,16,1,0,1
+
+
+	[Tableau]
+		titre= Consommation
+		PosX = 30
+		PoxY = 80
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 8
+			{PORC-31, Alt. truies gestantes,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-32, Alt. truies allaitantes,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-33, Alt. truies att. sail.,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-35, Alt. cochettes, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-36, Alt. verrats, 0, -1, 12, Arial, 10, 0, 0, 0}
+  			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{PORC-37, Alt. reproducteurs , 0, -1, 12, Arial, 10, 1, 0, 0}
+			{PORC-38, Alt. reproducteurs|/Tr , 0, -1, 12, Arial, 10, 1, 0, 0}
+
+	[Tableau]
+		titre= Porcelets
+		PosX = 30
+		PoxY = 1
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 5
+			{PORC-39, Alt. lacté,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-40, Alt. PS 1,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-41, Alt. PS 2,0 , -1, 12, Arial, 10, 0, 0, 0}
+  			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{PORC-42, Alt. porcelet ,0 , -1, 12, Arial, 10, 1, 0, 0}
+
+
+	[Tableau]
+		titre= Porc
+		PosX = 30
+		PoxY = 1
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 1
+			{PORC-43, Alt. porc charcutier ,0 , -1, 12, Arial, 10, 1, 0, 0}
+
+
+	[Tableau]
+		titre= Bilan
+		PosX = 30
+		PoxY = 1
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne =3
+			{PORC-45, Céréales|Kg,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-46, Aliments|Kg,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-47, C.M.V.|Kg,0 , -1, 12, Arial, 10, 0, 0, 0}
+
+
+	[Tableau]
+		titre= Stocks
+		PosX = 30
+		PoxY = 1
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 6
+			{PORC-124, Valeur stock,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{PORC-125, Stock début|Kg,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-126, Qté aliment|Kg,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-127, Durée stockage|jour,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-128, Stock fin|Kg,3 , -1, 12, Arial, 10, 1, 0, 0}
+
+
+
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Porcs
+CommentPage = Marge porcs
+
+	[Text]
+		Text = Marge porcs
+		PosX = 20
+		PoxY = 30
+		Police= Arial,16,1,0,1
+
+	[Tableau]
+		titre= Produits
+		PosX = 30
+		PoxY = 55
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 18
+			{PORC-48, Ventes truies, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-49, Ventes verrats, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-50, Achats repro., 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-51, Variation inventaire, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-52, Produits repro., 2, 7, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{PORC-53, Porcelets 3 sem. , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-54, Porcelets 25 kg , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-55, Porcs charcutiers, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-56, Porcs multi., 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-57, Achats porcelets, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-58, Variation inventaire , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-59, Produits porcs, 2, 7, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{PORC-60, Primes , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{PORC-61, Produits , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{PORC-62,*, 2, 7, 12, Arial, 10, 1, 0, 0,/VIS}
+
+
+	[Tableau]
+		titre= Charges
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 12
+			{PORC-63, Céréales, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-64, Aliments , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-65, C.M.V., 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-66, Total aliments, 2, 7, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{PORC-67, Frais véto, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-68, Frais élevage , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-69, Frais IA , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-70, Frais commercialisation , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{PORC-73, Charges , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{PORC-74, * , 2, 7, 12, Arial, 10, 1, 0, 0,/VIS}
+
+	[Tableau]
+		titre= Marge brute
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 2
+			{PORC-75, Marge brute, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{PORC-76, * , 2, 7, 12, Arial, 10, 1, 0, 0,/VIS}
+
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Porcs
+CommentPage = Critères porcs
+
+	[Text]
+		Text = Critères porcs
+		PosX = 20
+		PoxY = 30
+		Police= Arial,16,1,0,1
+
+	[Tableau]
+		titre=
+		PosX = 30
+		PoxY = 55
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 17
+			{PORC-131, Eff. truies présentes, 2, 7, 12, Arial, 10, 0, 0, 0}
+			{PORC-132, Porcel. sevrés / tr. pré., 2, 7, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{PORC-133, Produits, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-134, Aliments, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-135, Marge / coût aliment, 2, 7, 12, Arial, 10, 0, 0, 0}
+			{PORC-136, Autres charges, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-137, Marge brute, 2, 7, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{PORC-138, Marge / coût alt / Tr, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-139, Marge brute / Tr, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{PORC-140, Kg porcs produits, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-141, Kg porcs produits / Tr , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{PORC-142, I.C. global, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{PORC-143, Prix moyen al.ts , 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+
+[Fin Doc]
+

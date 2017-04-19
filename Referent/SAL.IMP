@@ -1,0 +1,47 @@
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Charges salariés
+CommentPage = Charges salariés
+
+	[Text]
+		Text = Détails charges salariés
+		PosX = 20
+		PoxY = 30
+		Police= Arial,14,1,0,1
+
+
+	[Tableau]
+		titre=
+		PosX = 30
+		PoxY = 80
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 22
+			{SAL-1,*, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{SAL-2,*, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{SAL-3,*, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{SAL-4,*, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{SAL-5,*, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{SAL-6,*, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{SAL-7,*, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{SAL-8,*, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{SAL-9,*, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{SAL-10,*, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{SAL-11,*, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{SAL-12,*, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{SAL-13,*, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{SAL-14,*, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{SAL-15,*, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{SAL-16,*, 0, -1, 12, Arial, 10, 0, 0, 0}
+[Fin Doc]
+

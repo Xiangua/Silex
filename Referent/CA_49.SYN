@@ -1,0 +1,89 @@
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Synthèse de l'étude
+CommentPage = Synthèse de l'étude
+
+	[Tableau]
+		titre= Effectifs fin animaux
+		PosX = 30
+		PoxY = 25
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 39
+			{VL-7, Vaches laitières, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS/DEC}
+			{VA-9, Vaches allaitantes, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS/DEC}
+			{OL-7, Ovins lait, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS/DEC}
+			{OV-7, Ovins viande, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS/DEC}
+			{CH-7, Caprins, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS/DEC}
+			{PORC-6|0, Truies, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS/DEC}
+			{[VL-23]+[VLEM-16]+[VA-87]+[OL-20]+[OV-20]+[CH-20]+[AL01AL-159]+[AL02AL-159]+[AL03AL-159]+[AL04AL-159]+[AL05AL-159]+[AL06AL-159]+[AL07AL-159]+[AL08AL-159]+[AL09AL-159]+[AL10AL-159]|1, UGB totaux, 3, -1, 12, Arial, 10, 1, 0, 0}
+          {[Cult-7]|2, UGB / ha de SFP , 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{0,Surfaces, 4, 15, 30, Arial, 12, 1, 1, 1}
+		      {[CULT-1]|2, Cultures de vente , 0, -1, 10, Arial, 9, 0, 0, 0,/DEC/VIS}
+			{[CULT-2]|2, Cultures fourragères , 0, -1, 10, Arial, 9, 0, 0, 0,/DEC/VIS}
+                  {[CLTP-1]|2, Cultures pérennes , 0, -1, 10, Arial, 9, 0, 0, 0,/DEC/VIS}
+			{[CULT-3]|2, Cultures maraîchères , 0, -1, 10, Arial, 9, 0, 0, 0,/DEC/VIS}
+			{[CULT-4]+[CLTP-1]|2, Surface Agricole Utile, 2, 7, 12, Arial, 10, 1, 0, 0}
+                  {0,Résultats économiques, 4, 15, 30, Arial, 12, 1, 1, 1}
+                  {[RES-129], Ventes TTC + primes (~CA) , 0, -1, 11, Arial, 10, 0, 0, 0}
+			{[RES-57], * , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{[RES-92], * , 0, -1, 12, Arial, 10, 0, 0, 0,/DEC}
+			{[RES-111], *, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{[RES-172], Annuités , 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+			{[RES-173]+[RES-230], Autres FF , 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+			{[RES-111]-([RES-172]+[RES-173]+[RES-230]), Solde disponible , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{[RES-174], Prélèvements, 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+			{([RES-111]-([RES-172]+[RES-173]+[RES-230]))-([RES-174]), Marge de sécurité, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{IMMORES-65, Annuités associés, 0, -1, 11, Arial, 10, 0, 0, 0,/DEC/VIS}
+                  {0,, 4, 15, 4, Arial, 14, 1, 1, 1}
+                  {[RES-121], Résultat courant , 2, 7, 12, Arial, 10, 1, 0, 0}
+                  {[RES-176], Solde de trésorerie annuel , 0, -1, 11, Arial, 10, 0, 0, 0}
+			{0,Investissements & Financements, 4, 15, 30, Arial, 12, 1, 1, 1}
+			{[RES-183], Bâtiment, 0, -1, 10, Arial, 9, 0, 0, 0,/DEC}
+			{[RES-184], Matériel, 0, -1, 10, Arial, 9, 0, 0, 0,/DEC}
+			{[RES-185], Cheptel, 0, -1, 10, Arial, 9, 0, 0, 0,/DEC/VIS}
+			{[RES-181], Plantation, 0, -1, 10, Arial, 9, 0, 0, 0,/DEC/VIS}
+			{[RES-179]+[RES-180]+[RES-182]+[RES-186], Autres, 0, -1, 10, Arial, 9, 0, 0, 0,/DEC/VIS}
+			{-[IMMORES-53]-[IMMORES-54], Revente immobilisations, 0, -1, 10, Arial, 9, 0, 0, 0,/DEC/VIS}
+			{[RES-191], Total investiss. nets , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{[RES-196], Emprunts, 0, -1, 10, Arial, 9, 0, 0, 0,/DEC}
+			{[RES-198], Subventions, 0, -1, 10, Arial, 9, 0, 0, 0,/DEC}
+			{[RES-191]-([RES-196]+[RES-198]), Invest. - financements , 2, 7, 12, Arial, 10, 1, 0, 0}
+
+	[Tableau]
+		titre= Endettement ( global)
+		PosX = 30
+		PoxY = 1
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 15
+                  {[RES-256], Total Bilan, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{[RES-158], Emprunts expl. LMT, 0, -1, 11, Arial, 10, 0, 0, 0,/DEC}
+			{IMMORES-66, *, 0, -1, 11, Arial, 10, 0, 0, 0,/DEC/VIS}
+			{[RES-272]+[RES-273]+[RES-274]+[RES-275], Dettes court-terme , 0, -1, 11, Arial, 10, 0, 0, 0,/DEC/VIS}
+			{[RES-158]+[IMMORES-66]+[RES-272]+[RES-273]+[RES-274]+[RES-275], Endett_t total (avec ass.) , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0,Critères de rentabilité ou de solvabilité, 4, 15, 30, Arial, 12, 1, 1, 1}
+			{[RES-148], EBE / produit |%, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{[RES-162], Marge sécurité / produit |%, 0, -1, 12, Arial, 10, 0, 0, 0}
+                  {([RES-111]-([RES-172]+[RES-173]+[RES-230])-[IMMORES-65]+[Rsoc-175]+[Rsoc-195]+[Rsoc-215]+[Rsoc-235]+[Rsoc-255]+[Rsoc-275]+[Rsoc-295]+[Rsoc-315]+[Rsoc-335]+[Rsoc-355])/[RESDIV-1], Revenu disponible / UTAF , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0,, 4, 15, 4, Arial, 14, 1, 1, 1}
+			{[RES-152], Annuités (avec ass.)/EBE, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{[RES-157], Taux endettement ext.|%, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{[RES-266]+[RES-268]+[RES-269]+[RES-271]-[RES-243]-[RES-251], Fonds de roulement(FDR) , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{[RES-248]+[RES-249]+[RES-250]-([RES-272]+[RES-273]+[RES-274]), Besoin Fonds de Roulement, 0, -1, 12, Arial, 10, 0, 0, 0,}
+			{(([RES-266]+[RES-268]+[RES-269]+[RES-271]-[RES-243]-[RES-251])/[RES-248])|2, FDR / stocks circulant , 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+
+[Fin Doc]
+
+
+

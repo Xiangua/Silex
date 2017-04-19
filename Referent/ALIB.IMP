@@ -1,0 +1,539 @@
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = TitreModuleEnCour
+CommentPage = Caractéristiques
+
+	[Text]
+		Text = Paramètres
+		PosX = 15
+		PoxY = 20
+		Police= Arial,16,1,0,1
+
+
+	[Tableau]
+		titre= Caractéristiques
+		PosX = 20
+		PoxY = 40
+		StyleTableau= 2
+		Largeur1Col= 40
+		LargeurColAnnuel = 18
+		AvecEntete = (Ani.| -1 an)(Ani.| 1 à 2 ans)(Ani.| 2 à 3 ans)(Ani.| +3 ans)(Repro. Fem)(Repro. Mâle)
+		Type= 0
+		Ligne = 2
+			{[AL#-46]|7, UGB,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{[AL#-47]|7, Coef. charge div.,0 , -1, 12, Arial, 10, 0, 0, 0}
+
+
+	[Tableau]
+		titre= Prix divers
+		PosX = 30
+		PoxY = 1
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 14
+			{0, Frais , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-297, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-298, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-299, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{0, Aliments reproducteurs , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-300, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{0, Aliments Elevage , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-301, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-302, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{0, Aliments Engraissement , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-303, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-304, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{0, Divers , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-305, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+
+
+	[Tableau]
+		titre= Bilan effectifs
+		PosX = 30
+		PoxY = 1
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 22
+			{0, Reproducteurs , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-145, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-146, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, Femelles , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-147, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-148, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-149, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-150, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, Mâles , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-151, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-152, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-153, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-154, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}	
+			{AL#-155, *, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, UGB , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-156, * , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-157, * , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-158, * , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}	
+			{AL#-159, *, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{AL#-160, *, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = TitreModuleEnCour
+CommentPage = Effectifs
+
+
+	[Tableau]
+		titre= Reproducteurs
+		PosX = 30
+		PoxY = 27
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 21
+			{0, Reproducteurs , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-1, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-2, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-3, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-4, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-5, *, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{AL#-6, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, Renouvellements , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-7, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-8, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-9, *, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{AL#-10, * , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{AL#-11, * , 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{AL#-12, * , 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{AL#-13, * , 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{AL#-14, * , 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{AL#-15, * , 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{0, Effectifs , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-16, * , 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+
+
+
+	[Tableau]
+		titre= Production
+		PosX = 30
+		PoxY = 1
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 19
+			{AL#-29, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{AL#-30, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-31, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-32, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-33, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-34, *, 0, -1, 12, Arial, 10, 1, 0, 0}
+			{AL#-35, *, 0, -1, 12, Arial, 10, 4, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{AL#-37, * , 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{AL#-38, * , 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{AL#-39, * , 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{AL#-40, * , 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{AL#-41, * , 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{AL#-42, * , 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{AL#-43, * , 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{AL#-44, * , 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{AL#-45, * , 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{AL#-46, * , 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+
+
+	[Tableau]
+		titre= Prix reproducteur
+		PosX = 30
+		PoxY = 1
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne =5
+			{AL#-247, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-248, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{AL#-249, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-250, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+	[Tableau]
+		titre= Prix renouvellement
+		PosX = 30
+		PoxY = 1
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne =7
+			{AL#-251, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{AL#-252, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{AL#-253, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{AL#-254, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{AL#-255, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+			{AL#-256, *, 0, -1, 12, Arial, 10, 0, 0, 0,/VIS}
+
+
+
+
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = TitreModuleEnCour
+CommentPage = Bilan femelles
+
+
+	[Tableau]
+		titre= Effectif femelles
+		PosX = 30
+		PoxY = 30
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 29
+			{AL#-54, * , 0, -1, 12, Arial, 10, 1, 0, 0}
+			{AL#-55, * , 0, -1, 12, Arial, 10, 1, 0, 0}
+			{0, Achats , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-56, *, 3, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-57, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-58, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-59, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-60, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-61, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-62, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-63, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-64, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-65, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{0, Stocks , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-67, Stocks -1 an, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{AL#-68, Stocks 1 à 2 ans, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{AL#-69, Stocks 2 à 3 ans, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{AL#-70, Stocks + 3 ans, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, Ventes , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-71, *, 3, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-72, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-73, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-74, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-75, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-76, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-77, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-78, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-79, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-80, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+
+
+
+	[Tableau]
+		titre= Prix femelles
+		PosX = 30
+		PoxY = 1
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 22
+			{0, Ventes & cessions , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-257, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-258, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-259, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-260, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-261, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-262, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-263, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-264, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-265, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-266, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{0, Achats , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-267, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-268, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-269, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-270, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-271, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-272, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-273, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-274, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-275, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-276, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = TitreModuleEnCour
+CommentPage = Bilan femelles
+
+	[Tableau]
+		titre= Effectif mâle
+		PosX = 30
+		PoxY = 30
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 29
+			{AL#-105, * , 0, -1, 12, Arial, 10, 1, 0, 0}
+			{AL#-106, * , 0, -1, 12, Arial, 10, 1, 0, 0}
+			{0, Achats , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-107, *, 3, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-108, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-109, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-110, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-111, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-112, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-113, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-114, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-115, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-116, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{0, Stocks , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-118, Stocks -1 an, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{AL#-119, Stocks 1 à 2 ans, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{AL#-120, Stocks 2 à 3 ans, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{AL#-121, Stocks + 3 ans, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, Ventes , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-122, *, 3, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-123, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-124, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-125, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-126, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-127, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-128, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-129, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-130, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-131, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+
+
+
+	[Tableau]
+		titre= Prix mâles
+		PosX = 30
+		PoxY = 1
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 22
+			{0, Ventes & cessions , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-277, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-278, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-279, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-280, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-281, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-282, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-283, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-284, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-285, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-286, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{0, Achats , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-287, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-288, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-289, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-290, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-291, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-292, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-293, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-294, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-295, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{AL#-296, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+
+
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = TitreModuleEnCour
+CommentPage = Marge libre
+
+	[Text]
+		Text = Marge
+		PosX = 20
+		PoxY = 30
+		Police= Arial,16,1,0,1
+
+	[Tableau]
+		titre= Produits
+		PosX = 30
+		PoxY = 55
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 24
+			{AL#-194, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-195, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-196, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-197, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-198, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-199, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-200, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-201, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{AL#-202, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-203, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-204, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-205, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-206, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{AL#-207, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-208, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-209, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{AL#-210, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-211, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{AL#-212, * , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{AL#-213, * , 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+	[Tableau]
+		titre= Charges
+		PosX = 30
+		PoxY = 1
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 10
+			{AL#-214, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-215, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-216, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-217, Total aliments, 2, 7, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{AL#-218, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-219, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{AL#-220, Charges , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{AL#-221, * , 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+	[Tableau]
+		titre= Marge
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 2
+			{AL#-222, Marge, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{AL#-223, * , 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = TitreModuleEnCour
+CommentPage = Bilan effectifs
+
+
+	[Tableau]
+		titre= Conso. Bilan
+		PosX = 30
+		PoxY = 30
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 10
+			{0, Bilan , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-180, Céréales |Qx, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, Aliments repro , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-181, Aliments |kg , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, Aliments élevage , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-182, Aliments 1 |kg , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-183, Aliments 2 |kg , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, Aliments engraissement , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-184, Aliments -1 an |kg , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-185, Aliments autres |kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+	[Tableau]
+		titre= Conso. reproducteur
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 18
+			{0, Femelles , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-161, Céréales |kg/ani, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-162, Aliments |kg/ani, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, Mâles , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-163, Céréales |kg/ani, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-164, Aliments |kg/ani, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, Femelles -1an , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-165, Céréales |kg , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-166, Aliments 1 |kg , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-167, Aliments 2 |kg , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, Femelles 1à2 ans , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-168, Céréales |kg , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-169, Aliments 1 |kg , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-170, Aliments 2 |kg , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, Femelles +2 ans , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-171, Céréales |kg , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-172, Aliments 1 |kg , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-173, Aliments 2 |kg , 0, -1, 12, Arial, 10, 0, 0, 0}
+			
+
+	[Tableau]
+		titre= Conso. Engraissement
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 8
+			{0, Femelles , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-174, Céréales |kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-175, Aliments -1 an|kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-176, Aliments autres|kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, Mâles , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{AL#-177, Céréales |kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-178, Aliments -1 an|kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{AL#-179, Aliments autres|kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+	
+
+
+
+
+
+
+[Fin Doc]
+

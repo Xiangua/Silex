@@ -1,0 +1,279 @@
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Ovins viande
+CommentPage = Caractéristiques
+
+	[Text]
+		Text = Paramètres ovins viande
+		PosX = 15
+		PoxY = 20
+		Police= Arial,16,1,0,1
+
+
+	[Tableau]
+		titre= Caractéristiques
+		PosX = 20
+		PoxY = 55
+		StyleTableau= 2
+		Largeur1Col= 40
+		LargeurColAnnuel = 18
+		AvecEntete = (Agneaux 1)(Agneaux 2)(Agnelles)(Antenaises)(Brebis)(Bélier)
+		Type= 0
+		Ligne = 3
+			{OV-39, UGB,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{OV-107, Valeur inventaire , 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+	[Tableau]
+		titre= Prix agneaux
+		PosX = 30
+		PoxY = 110
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 2
+			{OV-78, Agneaux 1, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-79, Agneaux 2, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+	[Tableau]
+		titre= Prix brebis et béliers
+		PosX = 30
+		PoxY = 130
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne =4
+			{OV-80, Vente brebis, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-81, Achat brebis, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-82, Vente béliers, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-83, Achat béliers, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+	[Tableau]
+		titre= Prix agnelles
+		PosX = 30
+		PoxY = 160
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne =4
+			{OV-84, Vente antenaises, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-85, Vente agnelles, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-86, Achat antenaises, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-87, Achat agnelles, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+	[Tableau]
+		titre= Prix divers
+		PosX = 30
+		PoxY = 190
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 8
+			{OV-88, Frais véto |/Br, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-89, Frais élevage |/Br, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-90, C.M.V.|/Br, 0, -1, 12, Arial, 10, 0, 0, 0}
+  			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{OV-91, Cession céréales|$/kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-92, Aliments brebis|$/kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-93, Aliments agneaux|$/kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-94, Poudre de lait|$/kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Ovins viande
+CommentPage = Effectifs et production
+
+	[Text]
+		Text = Effectifs ovins viande
+		PosX = 20
+		PoxY = 20
+		Police= Arial,16,1,0,1
+
+
+	[Tableau]
+		titre= Reproducteurs
+		PosX = 30
+		PoxY = 40
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 10
+			{OV-1, Brebis eff. début, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-4, Sorties , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-5, Entrées, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-6, Achats , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-7, Brebis eff. fin, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{OV-40, Béliers eff. début, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-41, Ventes , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-42, Achats , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-43, Béliers eff. fin, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+	[Tableau]
+		titre= Agnelles stock fin
+		PosX = 30
+		PoxY = 1
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 8
+			{OV-10, Antenaises, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-11, Agnelles, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-12, Agnelles à élever, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-15, Ventes , 3, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-18, Achats , 3, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{OV-19, Brebis eff. moyen , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{OV-20, U.G.B., 2, 7, 12, Arial, 10, 1, 0, 0}
+
+	[Text]
+		Text = Critères techniques
+		PosX = 20
+		PoxY = 145
+		Police= Arial,16,1,0,1
+
+	[Tableau]
+		titre= Consommations
+		PosX = 30
+		PoxY = 160
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 21
+			{OV-21, Céréales |Kg/Br, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-22, Aliments |Kg/Br, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-23, Céréales |Kg/Bél, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-24, Aliments |Kg/Bél, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{OV-25, Céréales |Kg/Ant, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-26, Aliments |Kg/Ant, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-27, Céréales |Kg/Agl, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-28, Aliments |Kg/Agl, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-29, Poudre de lait |Kg/Agl, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{OV-30, Céréales |Kg/Agx 1, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-31, Aliments |Kg/Agx 1, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-32, Poudre de lait |Kg/Agx 1, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-33, Céréales |Kg/Agx 2, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-34, Aliments |Kg/Agx 2, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-35, Poudre de lait |Kg/Agx 2, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{OV-36, Céréales|qx, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{OV-37, Aliments|kg, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{OV-38, Poudre de lait|kg, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Ovins viande
+CommentPage = Marge ovins viande
+
+	[Text]
+		Text = Marge ovins viande
+		PosX = 20
+		PoxY = 30
+		Police= Arial,16,1,0,1
+
+	[Tableau]
+		titre= Critères
+		PosX = 30
+		PoxY = 55
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 11
+			{OV-44, Taux fertilité, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-45, Taux prolificité, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-46, Taux de perte, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-47, Taux de productivité, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{OV-48, Agneaux sevrés, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-49, Agnelles gardées, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{OV-50, Stocks agneaux , 2, 7, 12, Arial, 10, 0, 0, 0}
+			{OV-51, Ventes agneaux 1 , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{OV-52, Ventes agneaux 2, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+	[Tableau]
+		titre= Produits
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 11
+			{OV-57, Ventes agneaux , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-58, Ventes agnelles, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-59, Réformes reproducteurs, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-60, Achats reproducteurs, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-61, Achats agnelles, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-62, Variation inventaire , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{OV-63, Primes , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{OV-64, Produits , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{OV-65,*, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+	[Tableau]
+		titre= Charges
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 11
+			{OV-66, Céréales, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-67, Aliments , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-68, Poudre de lait, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-69, C.M.V., 0, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-70, Total aliments, 2, 7, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{OV-72, Frais véto, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{OV-73, Frais élevage , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{OV-74, Charges , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{OV-75, * , 2, 7, 12, Arial, 10, 1, 0, 0}
+
+	[Tableau]
+		titre= Marge
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 2
+			{OV-76, Marge, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{OV-77, * , 2, 7, 12, Arial, 10, 1, 0, 0}
+
+[Fin Doc]
+

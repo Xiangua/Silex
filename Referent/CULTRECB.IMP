@@ -1,0 +1,22 @@
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Cultures annuelles
+CommentPage = 
+
+	[Tableau]
+		titre= Chargement
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 40
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 3
+			{Cult-5|2, Total UGB, 2, 7, 14, Arial, 11, 1, 0, 0}
+			{Cult-2, SFP, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{Cult-7, Chargement|UGB/ha, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+

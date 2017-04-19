@@ -1,0 +1,99 @@
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Cultures pérennes
+
+	[Text]
+		Text = Récapitulatif cultures pérennes
+		PosX = 20
+		PoxY = 20
+		Police= Arial,16,1,1,1
+
+	[Tableau]
+		titre= Cpte résultat
+		PosX = 30
+		PoxY = 40
+		StyleTableau= 2
+		Largeur1Col= 40
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 22
+			{CltP-7, Production vendue, 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-8, Production cédée, 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-80, VI stock production, 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-9, Primes et ss produits , 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-10, Produits, 12, 7, 14, Arial, 11, 1, 1, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{CltP-11, Engrais amendement, 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-12, Plants remplacement, 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-13, Produits traitements, 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-14, Trvx par tiers, 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-15, Taxes et cot. prof., 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-16, Entretien irrigation, 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-17, Eau énergie, 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-18, Assurance, 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-19, Fournitures, 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-20, Entretien palissage, 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-43, Main d'oeuvre, 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-86, Fermage métayage, 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-22, Amortissements, 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-23, Charges, 12, 7, 14, Arial, 11, 1, 1, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{CltP-24, Marge semi directe, 12, 7, 14, Arial, 11, 1, 1, 0}
+
+	[Tableau]
+		titre= Transformation
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 40
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 8
+			{CltP-84, Ventes prod. tranfo., 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-85, Production cédée, 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-82, VI Stock transfo. , 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-83, Produits transfo., 12, 7, 14, Arial, 11, 1, 1, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{CltP-21, Charge transfo,12, 7, 14, Arial, 11, 1, 1, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{[CltP-83]-[CltP-21], Marge transfo,12, 7, 14, Arial, 11, 1, 1, 0}
+
+
+
+	[Tableau]
+		titre= Trésorerie
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 40
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 19
+			{CltP-25, Ventes encaissées, 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-27, Créances encaissées, 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-84, Vente prod transfo. , 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-9, Primes et ss produits , 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-28, Recettes courantes , 0, -1, 11, Arial, 10, 1, 0, 0}
+			{CltP-29, Frais de production, 3, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-43, Frais main d'oeuvre, 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-21, Charge transfo., 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-30, Dépenses courantes, 0, -1, 12, Arial, 10, 1, 0, 0}
+			{CltP-31, Budget courant, 2, 7, 14, Arial, 11, 1, 1, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{CltP-32, Implantation, 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-33, Augmentation, 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-34, Diminution, 0, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-35, Investissements nets, 0, -1, 12, Arial, 10, 1, 0, 0}
+			{CltP-60, Encaissement sub., 3, -1, 11, Arial, 10, 0, 0, 0}
+			{CltP-38, Budget except., 2, 7, 14, Arial, 11, 1, 1, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{CltP-39, Budget trésor., 2, 7, 14, Arial, 11, 1, 1, 0}
+
+
+[Fin Doc]
+

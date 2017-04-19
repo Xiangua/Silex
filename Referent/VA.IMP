@@ -1,0 +1,386 @@
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Vaches allaitantes
+CommentPage = Caractéristiques VA
+
+	[Text]
+		Text = Paramètres
+		PosX = 15
+		PoxY = 20
+		Police= Arial,16,1,0,1
+
+
+	[Tableau]
+		titre= Caractéristiques
+		PosX = 20
+		PoxY = 40
+		StyleTableau= 2
+		Largeur1Col= 40
+		LargeurColAnnuel = 18
+		AvecEntete = (Ani.| -1 an)(Ani.| 1 à 2 ans)(Ani.| 2 à 3 ans)(Ani.| +3 ans)(Vaches)(Taureaux)
+		Type= 0
+		Ligne = 5
+			{VA-203, UGB,0 , -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VA-222, Valeur inv. repro. , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-223, Valeur inv. femelle , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-224, Valeur inv. mâle , 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+	[Tableau]
+		titre= Prix vaches et taureaux
+		PosX = 30
+		PoxY = 1
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne =8
+			{VA-141, Vente réformes , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-142, Achat génisses prêtes, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-143, Vente taureaux,3, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-144, Achat taureaux, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VA-188, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-189, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-190, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+	[Tableau]
+		titre= Prix femelles
+		PosX = 30
+		PoxY = 1
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 24
+			{VA-145, Gén. renouv. -1 an, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-146, Gén. renouv. 1 à 2 ans, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-147, Gén. renouv. 2 à 3 ans, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VA-148, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-149, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-150, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-151, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-152, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-153, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-154, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-155, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-156, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-157, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-158, *, 3, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-159, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-160, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-161, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-162, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-163, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-164, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-165, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-166, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-167, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+
+	[Tableau]
+		titre= Prix mâles
+		PosX = 30
+		PoxY = 1
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 20
+			{VA-168, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-169, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-170, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-171, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-172, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-173, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-174, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-175, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-176, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-177, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-178, *, 3, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-179, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-180, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-181, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-182, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-183, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-184, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-185, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-186, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-187, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+
+	[Tableau]
+		titre= Prix divers
+		PosX = 30
+		PoxY = 1
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 3
+			{VA-191, Cession céréales, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-192, Aliments vaches, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-193, Aliments -1an , 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Vaches allaitantes
+CommentPage = Effectifs vaches allaitantes
+
+
+	[Tableau]
+		titre= Reproducteurs
+		PosX = 30
+		PoxY = 27
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 16
+			{VA-1, Vaches eff. début, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-4, Sorties , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-7, Entrées, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-8, Achats , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-9, Vaches eff. fin, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VA-10, Taureaux eff. début, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-11, Ventes , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-12, Achats , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-13, Taureaux eff. fin, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VA-14, VA eff. moyen , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{([VA-1]+[VA-7]+[VA-8])|1, VA eff. moy. productif , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VA-15, Taux de vélage , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-16, Nb de veaux nés , 0, -1, 12, Arial, 10, 0, 0, 0}
+
+
+
+	[Tableau]
+		titre= Femelles vendues et stockées
+		PosX = 30
+		PoxY = 1
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 35
+			{VA-18, Cession femelles , 0, -1, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VA-225, Achat gen. renouv -1 an, 3, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-226, Achat gen. renouv 1à2 an, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-227, Achat gen. renouv 2à3 an, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VA-19, *, 3, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-20, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-21, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-22, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-23, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-24, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-25, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-26, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-27, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-28, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VA-30, Stocks -1 an, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{VA-31, Stocks 1 à 2 ans, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{VA-32, Stocks 2 à 3 ans, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{VA-33, Stocks + 3 ans, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VA-34, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-35, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-36, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-37, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-38, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-39, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-40, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-41, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-42, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-43, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VA-5, Vélage 3 ans, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-6, Vélage 2 ans, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+
+
+
+	[Tableau]
+		titre= Mâles vendus et stockés
+		PosX = 30
+		PoxY = 1
+		StyleTaBleau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 28
+			{VA-17, Cession mâles , 0, -1, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VA-45, *, 3, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-46, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-47, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-48, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-49, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-50, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-51, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-52, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-53, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-54, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VA-56, Stocks -1 an, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{VA-57, Stocks 1 à 2 ans, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{VA-58, Stocks 2 à 3 ans, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{VA-59, Stocks + 3 ans, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VA-60, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-61, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-62, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-63, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-64, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-65, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-66, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-67, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-68, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+			{VA-69, *, 0, -1, 10, Arial, 9, 0, 0, 0,/VIS}
+
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Vaches allaitantes
+CommentPage = Bilan effectifs
+
+	[Tableau]
+		titre= Bilan effectifs
+		PosX = 30
+		PoxY = 35
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 9
+			{([VA-9]+[VA-13]), Reproducteurs , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{([VA-30]+[VA-31]+[VA-32]+[VA-33]), Femelles , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{([VA-56]+[VA-57]+[VA-58]+[VA-59]), Mâles , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-83, Total animaux, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{0, UGB , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{VA-84, UGB reproducteurs , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-85, UGB femelles , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-86, UGB mâles , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-87, UGB, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+	[Tableau]
+		titre= Consommations
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 17
+			{0, Reproducteurs , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{VA-88, Céréales |kg/VA, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-89, Aliments  |kg/VA, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-90, Céréales |kg/taur , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-91, Aliments |kg/taur , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, Femelles , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{VA-92, Céréales |kg , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-93, Aliments -1 an |kg , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-94, Aliments autres |kg , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, Mâles , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{VA-95, Céréales |kg , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-96, Aliments -1 an |kg , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-97, Aliments autres |kg, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, Qtés consommées , 4, 15, 15, Arial, 11, 1, 1, 0}
+			{VA-98, Céréales |qx, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{VA-99, Aliments -1 an |kg, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{VA-100, Aliments autres|kg, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Vaches allaitantes
+CommentPage = Marge vaches allaitantes
+
+	[Text]
+		Text = Marge
+		PosX = 20
+		PoxY = 30
+		Police= Arial,16,1,0,1
+
+	[Tableau]
+		titre= Produits
+		PosX = 30
+		PoxY = 55
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 1
+		Type= 0
+		Ligne = 13
+			{VA-105, Produits reproducteurs, 2, 7, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VA-109, Produits -1 an , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-113, Produits 1 à 2 ans, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-117, Produits 2 à 3 ans, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-121, Produits +3 ans , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-125, Achats, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-126, Produits d'élevage, 2, 7, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VA-127, Primes , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VA-129, Produits , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{VA-130,*, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+	[Tableau]
+		titre= Charges
+		PosX = 30
+		PoxY = 1
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 10
+			{VA-131, Céréales, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-132, Aliments , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-133, Autres alt (C.M.V.), 0, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-134, Total aliments, 2, 7, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VA-135, Frais véto, 3, -1, 12, Arial, 10, 0, 0, 0}
+			{VA-136, Frais élevage , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{VA-137, Charges , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{VA-138, * , 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+	[Tableau]
+		titre= Marge
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 45
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 2
+			{VA-139, Marge, 2, 7, 12, Arial, 10, 1, 0, 0}
+			{VA-140, * , 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+[Fin Doc]
+

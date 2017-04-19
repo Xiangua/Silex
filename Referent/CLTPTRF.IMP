@@ -1,0 +1,73 @@
+'*******************************************************************
+[Nouvelle Page]
+AvecEntete = 1
+TitreModule = Cultures pérennes
+
+	[Tableau]
+		titre= Atelier de transformation
+		PosX = 30
+		PoxY = 60
+		StyleTableau= 2
+		Largeur1Col= 40
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 24
+			{CltPt#-43, Qté à transformer, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltPt#-44, Coéf. transformation, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltPt#-45, Taux de perte, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltPt#-46, Qté transformée, 2, 7, 14, Arial, 11, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{CltPt#-59, Qté au prix 1 , 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltPt#-60, Prix 1, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltPt#-61, Vente 1, 0, -1, 12, Arial, 10, 1, 0, 0}
+			{CltPt#-62, Qté au prix 2 , 3, -1, 12, Arial, 10, 0, 0, 0}
+			{CltPt#-63, Prix 2, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltPt#-64, Vente 2, 0, -1, 12, Arial, 10, 1, 0, 0}
+			{CltPt#-65, Qté au prix 3 , 3, -1, 12, Arial, 10, 0, 0, 0}
+			{CltPt#-66, Prix 3, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltPt#-67, Vente 3, 0, -1, 12, Arial, 10, 1, 0, 0}
+			{[CltPt#-61]+[CltPt#-64]+[CltPt#-67], Total vente, 2, 7, 14, Arial, 11, 1, 0, 0}
+			{CltPt#-38, Qté cédée , 3, -1, 12, Arial, 10, 0, 0, 0}
+			{CltP#-70, Prix cession, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltPt#-68, Total cession, 2, 7, 14, Arial, 11, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{CltPt#-50, Qté stock début, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltPt#-55, Qté stock fin, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{CltPt#-56, Valeur stock, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltPt#-57, Bilan stock , 2, 7, 12, Arial, 10, 1, 0, 0}
+			{CltPt#-58, VI stock, 2, 7, 12, Arial, 10, 1, 0, 0}
+
+
+	[Tableau]
+		titre= Marge brute de transformation
+		PosX = 30
+		PoxY = 0
+		StyleTableau= 2
+		Largeur1Col= 40
+		LargeurColAnnuel = 20
+		AvecEntete = 0
+		Type= 0
+		Ligne = 17
+			{[CltPt#-61]+[CltPt#-64]+[CltPt#-67], Vente, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltPt#-68, Cession, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltPt#-69, VI, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltPt#-70, Produit transfo., 2, 7, 14, Arial, 11, 1, 0, 0}
+			{[CltPt#-70]/[CltPt#-46]|2, Produit transfo. /U, 2, 7, 14, Arial, 11, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{CltPt#-71, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltPt#-72, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltPt#-73, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltPt#-74, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltPt#-75, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltPt#-76, *, 0, -1, 12, Arial, 10, 0, 0, 0}
+			{CltPt#-77, Charge transfo., 2, 7, 14, Arial, 11, 1, 0, 0}
+			{[CltPt#-77]/[CltPt#-46]|2, Charge transfo. /U, 2, 7, 14, Arial, 11, 1, 0, 0}
+			{0, , 4, 15, 6, Arial, 10, 0, 0, 0}
+			{CltPt#-78, Marge, 2, 7, 14, Arial, 11, 1, 0, 0}
+			{[CltPt#-78]/[CltPt#-46]|2, Marge/U, 2, 7, 14, Arial, 11, 1, 0, 0}
+
+
+[Fin Doc]
+
